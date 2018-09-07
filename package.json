@@ -11,7 +11,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build; netlify deploy",
+    "build": "react-scripts build;",
+    "deploy": "yarn build; netlify deploy;",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
