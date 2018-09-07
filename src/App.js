@@ -15,7 +15,8 @@ class App extends Component {
   }
 
   renderCandidateItem(candidate) {
-    return <div className="candidate" onClick={() => this.setState({selected: candidate.id})}>
+    const selected = candidate.id == this.state.selected ? "selected" : ""
+    return <div className={`candidate ${selected}`} onClick={() => this.setState({selected: candidate.id})}>
       <img className="candidate-img" src={candidate.img}></img>
       <div className="candidate-summary">
         <div className="top">{candidate.name}</div>

@@ -21,6 +21,11 @@ body {
   height: 82px;
 }
 
+.candidate.selected {
+  background: white;
+  border-color: #959595;
+}
+
 .candidate:hover {
   cursor: pointer;
   border: 1px solid #c5c5c5;
