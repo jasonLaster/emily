@@ -125,9 +125,13 @@
   margin: 0 auto;
 }
 
-.candidate-bio p {
+.candidate-bio p, .candidate-bio li {
   line-height: 26px;
   color: #808080;
+}
+
+.candidate-bio li {
+  margin-left: -40px;
 }
 
 .candidate-bio h2 {

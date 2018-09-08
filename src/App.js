@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import YouTube from 'react-youtube';
 import candidates from "./candidates"
-import Bio from "./Bio"
+
+import { MDXProvider } from '@mdx-js/tag'
+import Bio from './Bio'
 
 import {
   BrowserRouter as Router,
@@ -13,7 +15,6 @@ import {
 import './App.css';
 
 const candidateList = Object.values(candidates)
-
 
 function Candidate({candidate, selected}) {
   const isSelected = candidate.id == selected ? "selected" : ""
@@ -46,13 +47,14 @@ function CandidatesRoute({match}) {
 
 class App extends Component {
   render() {
-    return (
-      <Router>
-        <div className="app-wrapper">
-        <Route path="/:candidateId" component={CandidatesRoute}/>
-        <Route exact path="/" component={CandidatesRoute}/>
-        </div>
-      </Router>
+    return ( <MDXProvider>
+          <Router>
+            <div className="app-wrapper">
+            <Route path="/:candidateId" component={CandidatesRoute}/>
+            <Route exact path="/" component={CandidatesRoute}/>
+            </div>
+          </Router>
+       </MDXProvider>
     );
   }
 }

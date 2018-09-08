@@ -34,7 +34,9 @@
     "link": "https://www.emilyslist.org/candidates/lauren-baer",
     "id": "lauren-baer",
     "website": "https://laurenbaerforcongress.com/",
-    "videos": "Snk9kQ4",
+    "videos": [
+      "Gbc-Snk9kQ4"
+    ],
     "summary": [
       "A champion for Florida working families",
       "A proven leader fighting to expand economic opportunity",
@@ -187,7 +189,7 @@
   "julia-brownley-18": {
     "name": "Julia Brownley",
     "img": "https://www.emilyslist.org/i/images/Brownley_Julia_circle.png/@zx_250@zy_250",
-    "location": "California",
+    "location": "California, 26th District",
     "website": "https://juliabrownley.house.gov/",
     "videos": [
       "2citEmVgYZI"

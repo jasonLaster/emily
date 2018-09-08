@@ -3,19 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mdx-js/loader": "^0.15.0-2",
+    "@mdx-js/mdx": "^0.15.0-2",
     "netlify-cli": "^1.2.3",
     "react": "^16.5.0",
+    "react-app-rewired": "^1.6.2",
     "react-dom": "^16.5.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5",
     "react-virtualized": "^9.20.1",
-    "react-youtube": "^7.6.0"
+    "react-youtube": "^7.6.0",
+    "styled-components": "^3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build;",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build;",
     "deploy": "yarn build; netlify deploy;",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-app-rewired eject"
   }
 }

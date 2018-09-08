@@ -1,14 +1,8 @@
 import React, { Component } from 'react';
-import YouTube from 'react-youtube';
 import candidates from "./candidates"
+import {bios} from "./bios"
 
 import "./Bio.css"
-
-function _onReady(event) {
-  // access to player in all event handlers via event.target
-  event.target.pauseVideo();
-}
-
 
 function Header({candidate}) {
   return <div className="candidate-header">
@@ -29,25 +23,8 @@ function Header({candidate}) {
 }
 
 function Article({candidate}) {
-
-   const items = candidate.bio.map((text, index) =>
-     index % 2 === 0 ? <h2>{text}</h2> : <p>{text} </p>
-   );
-
-   if (candidate.videos && candidate.videos.length > 0) {
-     const video = <YouTube
-        videoId={candidate.videos[0]}
-        opts={{
-          height: '312',
-          width: '500',
-        }}
-        onReady={_onReady}
-      />
-
-     items.splice(2, 0, video)
-   }
-
-   return <article>{items}</article>
+   const F = bios[candidate.id].default
+   return <article><F /></article>
 }
 
 export default function renderCandidateBio({selected}) {
