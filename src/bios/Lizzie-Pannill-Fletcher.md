@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Lizzie Pannill Fletcher",
+  "img": "https://www.emilyslist.org/i/images/Lizzie-Pannill-Fletcher.png/@zx_250@zy_250",
+  "location": "Texas",
+  "link": "https://www.emilyslist.org/candidates/Lizzie-Pannill-Fletcher",
+  "id": "Lizzie-Pannill-Fletcher",
+  "donate": "https://www.emilyslist.org/donate/candidate/Lizzie-Pannill-Fletcher",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A fighter for Texas working families

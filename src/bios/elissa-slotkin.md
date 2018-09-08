@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Elissa Slotkin",
+  "img": "https://www.emilyslist.org/i/images/Elissa-Slotkin.png/@zx_250@zy_250",
+  "location": "Michigan",
+  "link": "https://www.emilyslist.org/candidates/elissa-slotkin",
+  "id": "elissa-slotkin",
+  "donate": "https://www.emilyslist.org/donate/candidate/elissa-slotkin",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": ["Veteran"]
+}
+
 import Video from "../Video"
 
 ## A dedicated public servant

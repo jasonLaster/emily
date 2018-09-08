@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Deb Haaland",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Deb-Haaland.png/@zx_250@zy_250",
+  "location": "New Mexico",
+  "link": "https://www.emilyslist.org/candidates/deb-haaland",
+  "id": "deb-haaland",
+  "donate": "https://www.emilyslist.org/donate/candidate/deb-haaland",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A community leader fighting for progress

@@ -1,3 +1,21 @@
+export const meta = {
+  "name": "Cindy Axne",
+  "img": "https://www.emilyslist.org/i/images/Cindy-Axne.png/@zx_250@zy_250",
+  "website": "",
+  "videos": [
+    "8ObKgSYY2Zs",
+    "sHaS2rWkQKE"
+  ],
+  "location": "Iowa 3rd",
+  "link": "https://www.emilyslist.org/candidates/cindy-axne",
+  "id": "cindy-axne",
+  "donate": "https://www.emilyslist.org/donate/candidate/cindy-axne",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Entrepreneur"]
+}
+
 import Video from "../Video"
 
 ## A fighter for Iowa’s working families

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Norma Torres",
+  "img": "https://www.emilyslist.org/i/images/Norma-Torres.png/@zx_250@zy_250",
+  "location": "California",
+  "link": "https://www.emilyslist.org/candidates/norma-torres18",
+  "id": "norma-torres18",
+  "donate": "https://www.emilyslist.org/donate/candidate/norma-torres18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for California working families

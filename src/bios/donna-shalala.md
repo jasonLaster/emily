@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Donna Shalala",
+  "img": "https://www.emilyslist.org/i/images/Donna-Shalala.png/@zx_250@zy_250",
+  "location": "Florida",
+  "link": "https://www.emilyslist.org/candidates/donna-shalala",
+  "id": "donna-shalala",
+  "donate": "https://www.emilyslist.org/donate/candidate/donna-shalala",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A proven leader dedicated to fighting for others

@@ -4,7 +4,7 @@ const fs = require('fs')
 //
 for (id in candidates) {
   const candidate = candidates[id]
-  // printBio(candidate)
+  reformatBio(candidate)
   // console.log(candidate.id)
 }
 
@@ -23,6 +23,17 @@ function printBio(candidate) {
 
     console.log(bio)
     fs.writeFileSync(`./src/bios/${candidate.id}.md`, bio)
+}
+
+function reformatBio(candidate) {
+
+  let path = `./src/bios/${candidate.id}.md`
+  let doc = fs.readFileSync(path)
+
+  candidate = {...candidate, website: "", youtube: "", keywords: []}
+  doc = `export const meta = ${JSON.stringify(candidate, null, 2)}\n\n${doc}`
+
+  fs.writeFileSync(path, doc)
 }
 
 // printBio(Object.values(candidates)[0])

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Abigail Spanberger",
+  "img": "https://www.emilyslist.org/i/images/Abigail-Spanberger.png/@zx_250@zy_250",
+  "location": "Virginia",
+  "link": "https://www.emilyslist.org/candidates/abigail-spanberger",
+  "id": "abigail-spanberger",
+  "donate": "https://www.emilyslist.org/donate/candidate/abigail-spanberger",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Virginia working families

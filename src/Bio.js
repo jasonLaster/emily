@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import candidates from "./candidates"
-import {bios} from "./bios"
+import { CandidateBio } from "./bios"
 
 import "./Bio.css"
 
@@ -23,8 +23,7 @@ function Header({candidate}) {
 }
 
 function Article({candidate}) {
-   const F = bios[candidate.id].default
-   return <article><F /></article>
+   return <article><CandidateBio id={candidate.id} /></article>
 }
 
 export default function renderCandidateBio({selected}) {

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Carolyn Long",
+  "img": "https://www.emilyslist.org/i/Carolyn-Long.png/@zx_250@zy_250",
+  "location": "Washington",
+  "link": "https://www.emilyslist.org/candidates/carolyn-long",
+  "id": "carolyn-long",
+  "donate": "https://www.emilyslist.org/donate/candidate/carolyn-long",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A constitutional law expert fighting for working families

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Debbie Mucarsel-Powell",
+  "img": "https://www.emilyslist.org/i/images/mucarsel-powell-debbie_circle_720.png/@zx_250@zy_250",
+  "location": "Florida",
+  "link": "https://www.emilyslist.org/candidates/debbie-mucarsel-powell",
+  "id": "debbie-mucarsel-powell",
+  "donate": "https://www.emilyslist.org/donate/candidate/debbie-mucarsel-powell",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A first generation American and a champion for Florida working families

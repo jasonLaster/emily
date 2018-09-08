@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Lauren Underwood",
+  "img": "https://www.emilyslist.org/i/images/Lauren-Underwood.png/@zx_250@zy_250",
+  "location": "Illinois",
+  "link": "https://www.emilyslist.org/candidates/lauren-underwood",
+  "id": "lauren-underwood",
+  "donate": "https://www.emilyslist.org/donate/candidate/lauren-underwood",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Illinois working families

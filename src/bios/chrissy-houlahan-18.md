@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Chrissy Houlahan",
+  "img": "https://www.emilyslist.org/i/images/Houlahan_Chrissy_Sq.png/@zx_250@zy_250",
+  "location": "Pennsylvania",
+  "link": "https://www.emilyslist.org/candidates/chrissy-houlahan-18",
+  "id": "chrissy-houlahan-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/chrissy-houlahan-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A veteran and business leader fighting for Pennsylvania working families

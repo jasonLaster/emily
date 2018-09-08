@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Mary Barzee Flores",
+  "img": "https://www.emilyslist.org/i/images/Flores_Mary-Barzee.png/@zx_250@zy_250",
+  "location": "Florida 25th",
+  "website": "",
+  "videos": [
+    "9Mx0U6j0SEE"
+  ],
+  "link": "https://www.emilyslist.org/candidates/mary-barzee-flores",
+  "id": "mary-barzee-flores",
+  "donate": "https://www.emilyslist.org/donate/candidate/mary-barzee-flores",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for South Florida working families

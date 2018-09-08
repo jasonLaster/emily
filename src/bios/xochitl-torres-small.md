@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Xochitl Torres Small",
+  "img": "https://www.emilyslist.org/i/images/xochitl-torres.png/@zx_250@zy_250",
+  "location": "New Mexico",
+  "link": "https://www.emilyslist.org/candidates/xochitl-torres-small",
+  "id": "xochitl-torres-small",
+  "donate": "https://www.emilyslist.org/donate/candidate/xochitl-torres-small",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A dedicated community leader fighting for working families

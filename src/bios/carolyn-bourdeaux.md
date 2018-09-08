@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Carolyn Bourdeaux",
+  "img": "https://www.emilyslist.org/i/images/Carolyn-Bourdeaux.png/@zx_250@zy_250",
+  "location": "Georgia 7th",
+  "website": "",
+  "videos": [
+    "o8EGXZ0aIkY"
+  ],
+  "link": "https://www.emilyslist.org/candidates/carolyn-bourdeaux",
+  "id": "carolyn-bourdeaux",
+  "donate": "https://www.emilyslist.org/donate/candidate/carolyn-bourdeaux",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Professor"]
+}
+
 import Video from "../Video"
 
 ## An experienced leader and dedicated public servant

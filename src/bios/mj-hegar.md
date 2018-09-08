@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "MJ Hegar",
+  "img": "https://www.emilyslist.org/i/MJ-Hegar.png/@zx_250@zy_250",
+  "location": "Texas",
+  "link": "https://www.emilyslist.org/candidates/mj-hegar",
+  "id": "mj-hegar",
+  "donate": "https://www.emilyslist.org/donate/candidate/mj-hegar",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A veteran and advocate for working families

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Susan Wild",
+  "img": "https://www.emilyslist.org/i/images/Susan-Wild.png/@zx_250@zy_250",
+  "location": "Pennsylvania",
+  "link": "https://www.emilyslist.org/candidates/susan-wild",
+  "id": "susan-wild",
+  "donate": "https://www.emilyslist.org/donate/candidate/susan-wild",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Pennsylvania working families

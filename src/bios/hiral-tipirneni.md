@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Hiral Tipirneni",
+  "img": "https://www.emilyslist.org/i/images/Hiral-Tipirneni.png/@zx_250@zy_250",
+  "location": "Arizona",
+  "link": "https://www.emilyslist.org/candidates/hiral-tipirneni",
+  "id": "hiral-tipirneni",
+  "donate": "https://www.emilyslist.org/donate/candidate/hiral-tipirneni",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A doctor, problem solver, and champion for Arizona working families

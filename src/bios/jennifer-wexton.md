@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Jennifer Wexton",
+  "img": "https://www.emilyslist.org/i/Jennifer-Wexton.png/@zx_250@zy_250",
+  "location": "Virginia",
+  "link": "https://www.emilyslist.org/candidates/jennifer-wexton",
+  "id": "jennifer-wexton",
+  "donate": "https://www.emilyslist.org/donate/candidate/jennifer-wexton",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An experienced leader fighting for Virginia's working families

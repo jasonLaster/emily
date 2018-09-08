@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Leslie Cockburn",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Leslie-Cockburn.png/@zx_250@zy_250",
+  "location": "Virginia",
+  "link": "https://www.emilyslist.org/candidates/leslie-cockburn",
+  "id": "leslie-cockburn",
+  "donate": "https://www.emilyslist.org/donate/candidate/leslie-cockburn",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Journalist"]
+}
+
 import Video from "../Video"
 
 ## A fighter for Virginia working families

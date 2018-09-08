@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Maura Sullivan",
+  "img": "https://www.emilyslist.org/i/images/Maura-Sullivan.png/@zx_250@zy_250",
+  "location": "New Hampshire",
+  "link": "https://www.emilyslist.org/candidates/maura-sullivan",
+  "id": "maura-sullivan",
+  "donate": "https://www.emilyslist.org/donate/candidate/maura-sullivan",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A dedicated public servant fighting for Granite State working families

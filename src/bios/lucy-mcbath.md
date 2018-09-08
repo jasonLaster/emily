@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Lucy McBath",
+  "img": "https://www.emilyslist.org/i/images/Lucy-McBath.png/@zx_250@zy_250",
+  "location": "Georgia",
+  "link": "https://www.emilyslist.org/candidates/lucy-mcbath",
+  "id": "lucy-mcbath",
+  "donate": "https://www.emilyslist.org/donate/candidate/lucy-mcbath",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A passionate advocate for justice

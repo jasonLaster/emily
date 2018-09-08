@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Betsy Rader",
+  "img": "https://www.emilyslist.org/i/images/Betsy-Rader_(2).png/@zx_250@zy_250",
+  "location": "Ohio",
+  "link": "https://www.emilyslist.org/candidates/betsy-rader",
+  "id": "betsy-rader",
+  "donate": "https://www.emilyslist.org/donate/candidate/betsy-rader",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An experienced leader and civil rights advocate fighting for Ohioans

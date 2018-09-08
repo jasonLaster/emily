@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Liuba Grechen Shirley",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Liuba-Grechen-Shirley.png/@zx_250@zy_250",
+  "location": "New York",
+  "link": "https://www.emilyslist.org/candidates/liuba-grechen-shirley",
+  "id": "liuba-grechen-shirley",
+  "donate": "https://www.emilyslist.org/donate/candidate/liuba-grechen-shirley",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A proven fighter for working parents

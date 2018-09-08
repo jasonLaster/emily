@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Lauren Baer",
+  "img": "https://www.emilyslist.org/i/Lauren-Baer.png/@zx_250@zy_250",
+  "location": "Florida 18th",
+  "link": "https://www.emilyslist.org/candidates/lauren-baer",
+  "id": "lauren-baer",
+  "website": "",
+  "videos": [
+    "Gbc-Snk9kQ4"
+  ],
+  "donate": "https://www.emilyslist.org/donate/candidate/lauren-baer",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Senior Advisor"]
+}
+
 import Video from "../Video"
 
 ## A champion for Florida working families

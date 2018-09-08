@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Diane Mitsch Bush",
+  "img": "https://www.emilyslist.org/i/images/Diane-Mitsch-Bush.png/@zx_250@zy_250",
+  "location": "Colorado",
+  "link": "https://www.emilyslist.org/candidates/diane-mitsch-bush",
+  "id": "diane-mitsch-bush",
+  "donate": "https://www.emilyslist.org/donate/candidate/diane-mitsch-bush",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Colorado’s working families

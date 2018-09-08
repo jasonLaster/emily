@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Haley Stevens",
+  "img": "https://www.emilyslist.org/i/Haley-Stevens.png/@zx_250@zy_250",
+  "location": "Michigan",
+  "link": "https://www.emilyslist.org/candidates/haley-stevens",
+  "id": "haley-stevens",
+  "donate": "https://www.emilyslist.org/donate/candidate/haley-stevens",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A former public servant who helped lead Michigan's auto recovery and saved thousands of jobs

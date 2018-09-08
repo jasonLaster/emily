@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Mikie Sherrill",
+  "img": "https://www.emilyslist.org/i/images/Sherrill_Mikie.png/@zx_250@zy_250",
+  "location": "New Jersey",
+  "link": "https://www.emilyslist.org/candidates/mikie-sherrill",
+  "id": "mikie-sherrill",
+  "donate": "https://www.emilyslist.org/donate/candidate/mikie-sherrill",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A veteran fighting for New Jersey working families

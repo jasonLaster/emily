@@ -1,10 +1,25 @@
+export const meta = {
+  "name": "Gretchen Driskell",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Gretchen-Driskell.png/@zx_250@zy_250",
+  "location": "Michigan",
+  "link": "https://www.emilyslist.org/candidates/gretchen-driskell-18",
+  "id": "gretchen-driskell-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/gretchen-driskell-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Mayor", "Public Servant"]
+}
+
 import Video from "../Video"
 
 ## An experienced leader fighting for Michigan
 
 Gretchen Driskell is a dedicated public servant running for Congress to fight for Michigan working families. The daughter and granddaughter of Navy veterans and a Navy mom, Gretchen’s family taught her the importance of serving others. She made Saline, Michigan her home over 25 years ago, and immediately got to work serving the community by helping in the effort to build a community center to bring neighbors together.
 
-- As a former accountant and businesswoman, Gretchen ran for an open city council seat to help revitalize the local economy. After six years of service on the city council, Gretchen became the first woman ever elected **mayor of Saline** – a position she held for 14 years, making her Saline’s longest serving mayor.
+- As a former **accountant** and **businesswoman**, Gretchen ran for an open city council seat to help revitalize the local economy. After six years of service on the city council, Gretchen became the first woman ever elected **mayor of Saline** – a position she held for 14 years, making her Saline’s longest serving mayor.
 
 - Gretchen worked tirelessly to strengthen public schools and to improve quality of life for working families, including helping to start a farmers market and a youth council. She was elected to the **Michigan state House** in 2012, and served two terms working to expand economic opportunity in the Great Lakes State. She is a proud mother of three, a grandmother of one, and a resident of Saline, Michigan.
 

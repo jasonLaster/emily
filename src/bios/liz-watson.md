@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Liz Watson",
+  "img": "https://www.emilyslist.org/i/images/Liz-Watson.png/@zx_250@zy_250",
+  "location": "Indiana",
+  "link": "https://www.emilyslist.org/candidates/liz-watson",
+  "id": "liz-watson",
+  "donate": "https://www.emilyslist.org/donate/candidate/liz-watson",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Indiana’s working families

@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Sharice Davids",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Sharice-Davids.png/@zx_250@zy_250",
+  "location": "Kansas",
+  "link": "https://www.emilyslist.org/candidates/sharice-davids",
+  "id": "sharice-davids",
+  "donate": "https://www.emilyslist.org/donate/candidate/sharice-davids",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["White House Fellow"]
+}
+
 import Video from "../Video"
 
 ## A dedicated community leader standing up for Kansas working families

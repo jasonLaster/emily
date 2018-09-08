@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Jessica Morse",
+  "img": "https://www.emilyslist.org/i/Jessica-Morse.png/@zx_250@zy_250",
+  "location": "California",
+  "link": "https://www.emilyslist.org/candidates/jessica-morse",
+  "id": "jessica-morse",
+  "donate": "https://www.emilyslist.org/donate/candidate/jessica-morse",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A dedicated public servant fighting for working families

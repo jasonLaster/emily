@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Carolyn Maloney",
+  "img": "https://www.emilyslist.org/i/images/Carolyn-Maloney.png/@zx_250@zy_250",
+  "location": "New York",
+  "link": "https://www.emilyslist.org/candidates/carolyn-maloney18",
+  "id": "carolyn-maloney18",
+  "donate": "https://www.emilyslist.org/donate/candidate/carolyn-maloney18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A proven and effective national leader

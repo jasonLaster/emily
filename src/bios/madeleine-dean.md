@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Madeleine Dean",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Madeleine-Dean.png/@zx_250@zy_250",
+  "location": "Pennsylvania",
+  "link": "https://www.emilyslist.org/candidates/madeleine-dean",
+  "id": "madeleine-dean",
+  "donate": "https://www.emilyslist.org/donate/candidate/madeleine-dean",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Professor", "Public Servant"]
+}
+
 import Video from "../Video"
 
 ## A dedicated public servant fighting for Pennsylvania working families

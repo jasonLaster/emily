@@ -1,10 +1,22 @@
+export const meta = {
+  "name": "Ann Kirkpatrick",
+  "img": "https://www.emilyslist.org/i/images/Kirkpatrick_Ann.png/@zx_250@zy_250",
+  "location": "Arizona",
+  "link": "https://www.emilyslist.org/candidates/ann-kirkpatrick-18",
+  "id": "ann-kirkpatrick-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/ann-kirkpatrick-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Arizona’s working families
 
 Ann Kirkpatrick is running for Congress in Arizona’s 2nd Congressional District to continue her lifelong fight to expand economic opportunity for working families. Born and raised in the Copper State, Ann’s earliest roots are in the small timber town of McNary and on the White Mountain Apache Nation, where her father ran the general store and her mother taught school. Ann worked her way through the University of Arizona, earning her bachelor’s degree and law degree. She has served Arizonans as a public school teacher, prosecutor, state legislator, congresswoman, and candidate for the U.S. Senate in a tough 2016 race. Through it all, Ann has never stopped living her Arizona values of hard work and resilience, working across the aisle to find commonsense solutions and get the job done for working families. She and her husband Roger live in Tucson, near their children and grandchildren.
-
-
 
 ## A leader fighting to expand economic opportunity
 

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Jahana Hayes",
+  "img": "https://www.emilyslist.org/i/Jahana-Hayes.png/@zx_250@zy_250",
+  "location": "Connecticut",
+  "link": "https://www.emilyslist.org/candidates/jahana-hayes",
+  "id": "jahana-hayes",
+  "donate": "https://www.emilyslist.org/donate/candidate/jahana-hayes",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An award-winning teacher fighting for Connecticut working families

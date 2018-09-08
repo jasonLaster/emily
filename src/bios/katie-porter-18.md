@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Katie Porter",
+  "img": "https://www.emilyslist.org/i/images/Porter_Katie.png/@zx_250@zy_250",
+  "location": "California",
+  "link": "https://www.emilyslist.org/candidates/katie-porter-18",
+  "id": "katie-porter-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/katie-porter-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A consumer advocate who knows how to fight

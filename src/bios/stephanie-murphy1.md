@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Stephanie Murphy",
+  "img": "https://www.emilyslist.org/i/images/Murphy_Stephanie__August_2017.png/@zx_250@zy_250",
+  "location": "Florida",
+  "link": "https://www.emilyslist.org/candidates/stephanie-murphy1",
+  "id": "stephanie-murphy1",
+  "donate": "https://www.emilyslist.org/donate/candidate/stephanie-murphy1",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An inspiring first generation American leader

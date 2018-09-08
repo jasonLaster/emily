@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Kathy Manning",
+  "img": "https://www.emilyslist.org/i/images/Kathy_Manning.png/@zx_250@zy_250",
+  "location": "North Carolina",
+  "link": "https://www.emilyslist.org/candidates/kathy-manning",
+  "id": "kathy-manning",
+  "donate": "https://www.emilyslist.org/donate/candidate/kathy-manning",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for North Carolina working families

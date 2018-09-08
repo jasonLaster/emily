@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Lisa Brown",
+  "img": "https://www.emilyslist.org/i/images/Lisa-Brown.png/@zx_250@zy_250",
+  "location": "Washington",
+  "website": "",
+  "videos": [
+    "4L8T-8sBPwE"
+  ],
+  "link": "https://www.emilyslist.org/candidates/lisa-brown",
+  "id": "lisa-brown",
+  "donate": "https://www.emilyslist.org/donate/candidate/lisa-brown",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Senate Majority Leader"]
+}
+
 import Video from "../Video"
 
 ## An experienced leader and champion for working families

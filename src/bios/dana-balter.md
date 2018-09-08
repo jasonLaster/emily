@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Dana Balter",
+  "img": "https://www.emilyslist.org/i/Dana-Balter.png/@zx_250@zy_250",
+  "location": "New York 24th",
+  "website": "",
+  "videos": [
+    "2jnrfdVaQLA"
+  ],
+  "link": "https://www.emilyslist.org/candidates/dana-balter",
+  "id": "dana-balter",
+  "donate": "https://www.emilyslist.org/donate/candidate/dana-balter",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Community Leader"]
+}
+
 import Video from "../Video"
 
 ## A proven leader fighting for central and western New York working families

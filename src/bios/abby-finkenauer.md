@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Abby Finkenauer",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Finkenauer-Abby_Square.png/@zx_250@zy_250",
+  "location": "Iowa",
+  "link": "https://www.emilyslist.org/candidates/abby-finkenauer",
+  "id": "abby-finkenauer",
+  "donate": "https://www.emilyslist.org/donate/candidate/abby-finkenauer",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A tireless champion for Iowa’s working families

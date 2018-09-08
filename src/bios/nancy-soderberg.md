@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Nancy Soderberg",
+  "img": "https://www.emilyslist.org/i/images/Nancy-Soderberg.png/@zx_250@zy_250",
+  "location": "Florida",
+  "link": "https://www.emilyslist.org/candidates/nancy-soderberg",
+  "id": "nancy-soderberg",
+  "donate": "https://www.emilyslist.org/donate/candidate/nancy-soderberg",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Florida working families

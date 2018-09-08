@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Katie Hill",
+  "img": "https://www.emilyslist.org/i/images/Hill-Katie_circle.png/@zx_250@zy_250",
+  "location": "California",
+  "link": "https://www.emilyslist.org/candidates/katie-hill",
+  "id": "katie-hill",
+  "donate": "https://www.emilyslist.org/donate/candidate/katie-hill",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A fighter for California working families

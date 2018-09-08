@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Ilhan Omar",
+  "img": "https://www.emilyslist.org/i/Ilhan-Omar.png/@zx_250@zy_250",
+  "location": "Minnesota",
+  "link": "https://www.emilyslist.org/candidates/ilhan_omar",
+  "id": "ilhan_omar",
+  "donate": "https://www.emilyslist.org/donate/candidate/ilhan_omar",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A groundbreaking candidate and public servant fighting for Minnesota families

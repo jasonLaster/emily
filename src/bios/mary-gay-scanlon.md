@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Mary Gay Scanlon",
+  "img": "https://www.emilyslist.org/i/images/mary-gay-scanlon_1024.png/@zx_250@zy_250",
+  "location": "Pennsylvania",
+  "link": "https://www.emilyslist.org/candidates/mary-gay-scanlon",
+  "id": "mary-gay-scanlon",
+  "donate": "https://www.emilyslist.org/donate/candidate/mary-gay-scanlon",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": ["Advocate"]
+}
+
 import Video from "../Video"
 
 ## A fighter for Pennsylvania working families

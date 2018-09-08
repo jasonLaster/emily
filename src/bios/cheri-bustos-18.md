@@ -1,14 +1,31 @@
+export const meta = {
+  "name": "Cheri Bustos",
+  "img": "https://www.emilyslist.org/i/images/Bustos_Cheri_circle.png/@zx_250@zy_250",
+  "location": "Illinois",
+  "website": "",
+  "videos": [
+    "K2bC-guFzHM"
+  ],
+  "link": "https://www.emilyslist.org/candidates/cheri-bustos-18",
+  "id": "cheri-bustos-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/cheri-bustos-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Congresswoman", "Journalist"]
+}
+
 import Video from "../Video"
 
 ## A champion for Illinois women and families
 
 Cheri Bustos was born and raised in Illinois, and her parents taught her the importance of hard work, community, and helping others. After graduating from college and earning a master’s degree in journalism, Cheri made the Quad-Cities her home over 25 years ago and began her career reporting on crime, city government, health care, and other issues in her community. She and her husband, Gerry, live in Moline, and they are the proud parents of three sons and grandparents of two.
 
-- Cheri left journalism to work for a nonprofit health system, where she fought to improve access to care for area families and help the disadvantaged navigate the health care system. She is a longtime community leader and has served as President of the Board of Directors of the Women’s Connection, one of Illinois’ largest women’s membership organizations, and has volunteered with Big Brothers/Big Sisters-Quad-Cities, Two Rivers YMCA in Moline, and United Way of the Quad-Cities Area.
+- Cheri left **journalism** to work for a nonprofit health system, where she fought to improve access to care for area families and help the disadvantaged navigate the health care system. She is a longtime community leader and has served as President of the Board of Directors of the Women’s Connection, one of Illinois’ largest women’s membership organizations, and has volunteered with Big Brothers/Big Sisters-Quad-Cities, Two Rivers YMCA in Moline, and United Way of the Quad-Cities Area.
 
 - Cheri served her local community as an alderwoman on the city council in East Moline, and she founded and chaired the East Moline Downtown Revitalization Committee. Her top priority has always been increasing economic opportunity for Illinois women and families.
 
-- In 2012, Cheri defeated a Tea Party incumbent to become the first woman elected to represent Illinois’ 17th Congressional District. When she took office, Cheri got to work immediately, helping pass a critical bipartisan farm bill and sponsoring legislation to save local manufacturing jobs threatened by budget cuts. Cheri will continue her work as a tireless champion for Illinois women and families.
+- In 2012, Cheri defeated a Tea Party incumbent to become the **first woman elected to represent Illinois’ 17th Congressional District**. When she took office, Cheri got to work immediately, helping pass a critical bipartisan farm bill and sponsoring legislation to save local manufacturing jobs threatened by budget cuts. Cheri will continue her work as a tireless champion for Illinois women and families.
 
 <Video id="K2bC-guFzHM" />
 

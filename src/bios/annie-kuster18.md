@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Annie Kuster",
+  "img": "https://www.emilyslist.org/i/images/Kuster_Annie_circle.png/@zx_250@zy_250",
+  "location": "New Hampshire",
+  "link": "https://www.emilyslist.org/candidates/annie-kuster18",
+  "id": "annie-kuster18",
+  "donate": "https://www.emilyslist.org/donate/candidate/annie-kuster18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for New Hampshire women and families

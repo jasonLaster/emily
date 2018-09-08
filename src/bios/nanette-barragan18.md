@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Nanette Barragán",
+  "img": "https://www.emilyslist.org/i/images/Nanette-Barragan.png/@zx_250@zy_250",
+  "location": "California 44th ",
+  "website": "",
+  "videos": [],
+  "link": "https://www.emilyslist.org/candidates/nanette-barragan18",
+  "id": "nanette-barragan18",
+  "donate": "https://www.emilyslist.org/donate/candidate/nanette-barragan18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Congresswoman"]
+}
+
 import Video from "../Video"
 
 ## A champion for California working families

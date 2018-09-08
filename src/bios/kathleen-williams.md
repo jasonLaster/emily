@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Kathleen Williams",
+  "img": "https://www.emilyslist.org/i/images/Kathleen-Williams.png/@zx_250@zy_250",
+  "location": "Montana",
+  "link": "https://www.emilyslist.org/candidates/kathleen-williams",
+  "id": "kathleen-williams",
+  "donate": "https://www.emilyslist.org/donate/candidate/kathleen-williams",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An experienced leader fighting for Montanans

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Kim Schrier",
+  "img": "https://www.emilyslist.org/i/images/Kim-Schrier.png/@zx_250@zy_250",
+  "location": "Washington",
+  "link": "https://www.emilyslist.org/candidates/kim-schrier",
+  "id": "kim-schrier",
+  "donate": "https://www.emilyslist.org/donate/candidate/kim-schrier",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Washington State working families

@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Susie Lee",
+  "img": "https://www.emilyslist.org/i/images/Lee_Susie.png/@zx_250@zy_250",
+  "location": "Nevada",
+  "link": "https://www.emilyslist.org/candidates/susie-lee-18",
+  "id": "susie-lee-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/susie-lee-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A fierce champion for Nevada children and families

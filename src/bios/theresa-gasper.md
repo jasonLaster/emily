@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Theresa Gasper",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Theresa-Gasper.png/@zx_250@zy_250",
+  "location": "Ohio",
+  "link": "https://www.emilyslist.org/candidates/theresa-gasper",
+  "id": "theresa-gasper",
+  "donate": "https://www.emilyslist.org/donate/candidate/theresa-gasper",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## An experienced leader fighting for Ohio working families

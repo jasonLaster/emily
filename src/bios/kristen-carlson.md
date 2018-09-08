@@ -1,12 +1,29 @@
+export const meta = {
+  "name": "Kristen Carlson",
+  "img": "https://www.emilyslist.org/i/images/Kristen-Carlson.png/@zx_250@zy_250",
+  "location": "Florida",
+  "website": "",
+  "videos": [
+    "RqKWqLOd_2M"
+  ],
+  "link": "https://www.emilyslist.org/candidates/kristen-carlson",
+  "id": "kristen-carlson",
+  "donate": "https://www.emilyslist.org/donate/candidate/kristen-carlson",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Advocate"]
+}
+
 import Video from "../Video"
 
 ## A fighter for economic fairness and opportunity
 
 Kristen Carlson is a committed fighter for justice who is running for Congress to expand economic fairness and opportunity for Floridians. As former legal counsel for the Florida Department of Citrus, Kristen fought to protect Florida’s orange industry from wrongful business practices by out-of-state companies.
 
-- She is a respected expert in food law and has held leadership positions at the National Juice Products Association and the Florida Citrus Processors Association. Her broad legal background also includes positions at the Florida Department of Transportation and in private practice.
+- She is a respected **expert in food law** and has held leadership positions at the National Juice Products Association and the Florida Citrus Processors Association. Her broad legal background also includes positions at the Florida Department of Transportation and in private practice.
 
-- Kristen has also been actively involved in her community, serving on the board of the Lakeland Boys and Girls Club and helping start a nonprofit to encourage millennial voting. Kristen was raised in a military family and grew up moving around the world before attending college and law school in Florida. She then settled in Lakeland, where she has lived for nearly four decades and raised two sons.
+- Kristen has also been actively involved in her community, serving on the **board of the Lakeland Boys and Girls Club** and helping start a nonprofit to encourage millennial voting. Kristen was raised in a military family and grew up moving around the world before attending college and law school in Florida. She then settled in Lakeland, where she has lived for nearly four decades and raised two sons.
 
 <Video id="RqKWqLOd_2M" />
 

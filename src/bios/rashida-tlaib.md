@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Rashida Tlaib",
+  "img": "https://www.emilyslist.org/i/Rashida-Tlaib.png/@zx_250@zy_250",
+  "location": "Michigan",
+  "link": "https://www.emilyslist.org/candidates/rashida-tlaib",
+  "id": "rashida-tlaib",
+  "donate": "https://www.emilyslist.org/donate/candidate/rashida-tlaib",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A champion for Michigan working families

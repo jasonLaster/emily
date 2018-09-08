@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import YouTube from 'react-youtube';
-import candidates from "./candidates"
+import { candidates } from "./bios"
 
 import { MDXProvider } from '@mdx-js/tag'
 import Bio from './Bio'
@@ -24,6 +24,7 @@ function Candidate({candidate, selected}) {
       <div className="candidate-summary">
         <div className="top">{candidate.name}</div>
         <div className="bottom">{candidate.location}</div>
+        <div className="bottom">{candidate.keywords.map(key => <span key={key} className="keyword">{key}</span>)}</div>
       </div>
     </Link>
   );

@@ -1,3 +1,20 @@
+export const meta = {
+  "name": "Julia Brownley",
+  "img": "https://www.emilyslist.org/i/images/Brownley_Julia_circle.png/@zx_250@zy_250",
+  "location": "California 26th ",
+  "website": "",
+  "videos": [
+    "2citEmVgYZI"
+  ],
+  "link": "https://www.emilyslist.org/candidates/julia-brownley-18",
+  "id": "julia-brownley-18",
+  "donate": "https://www.emilyslist.org/donate/candidate/julia-brownley-18",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Congresswoman"]
+}
+
 import Video from "../Video"
 
 ## A champion for California working families
@@ -5,8 +22,10 @@ import Video from "../Video"
 Julia Brownley was drawn to public service when she joined her local PTA to improve the school her daughter, Hannah, and her son, Fred, were attending. She went on to run for her local school board, served as school board president, and became one of California’s leading education advocates.
 
 - Julia has helped increase student performance in local schools, fought for more resources in classrooms, given schools more local control, and worked to ensure that every student has a quality teacher, making sure all California students get a fair shot.
-- She successfully ran for state Assembly in 2006 and served three terms fighting for women and families, earning a reputation as an effective and hardworking legislator.
-- In 2012 Julia ran for Congress in California’s 26th Congressional District, and won a tough election in the state’s new top-two primary system – becoming the first Democrat to represent Ventura County in 70 years.
+
+- She successfully ran for **state Assembly** in 2006 and served three terms fighting for women and families, earning a reputation as an effective and hardworking legislator.
+
+- In 2012 Julia ran for Congress in **California’s 26th Congressional District**, and won a tough election in the state’s new top-two primary system – becoming the first Democrat to represent Ventura County in 70 years.
 
 <Video id="5s_VeOIEgrM" />
 

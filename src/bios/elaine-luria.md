@@ -1,3 +1,17 @@
+export const meta = {
+  "name": "Elaine Luria",
+  "img": "https://www.emilyslist.org/i/images/Elaine-Luria-headshot.png/@zx_250@zy_250",
+  "location": "Virginia",
+  "link": "https://www.emilyslist.org/candidates/elaine-luria",
+  "id": "elaine-luria",
+  "donate": "https://www.emilyslist.org/donate/candidate/elaine-luria",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "website": "",
+  "youtube": "",
+  "keywords": []
+}
+
 import Video from "../Video"
 
 ## A fighter for Virginia working families

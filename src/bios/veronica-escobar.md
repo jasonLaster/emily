@@ -1,3 +1,18 @@
+export const meta = {
+  "name": "Veronica Escobar",
+  "website": "",
+  "videos": [],
+  "img": "https://www.emilyslist.org/i/images/Escobar-Veronica_circle.png/@zx_250@zy_250",
+  "location": "Texas 18th ",
+  "link": "https://www.emilyslist.org/candidates/veronica-escobar",
+  "id": "veronica-escobar",
+  "donate": "https://www.emilyslist.org/donate/candidate/veronica-escobar",
+  "facebook": "https://www.facebook.com/emilyslist",
+  "twitter": "https://twitter.com/emilyslist",
+  "youtube": "",
+  "keywords": ["Judge"]
+}
+
 import Video from "../Video"
 
 ## A champion for El Pasoans and border communities across our country
@@ -6,9 +21,9 @@ Veronica Escobar is running for Congress in Texas’ 16th Congressional District
 
 - After finishing graduate school, she returned to her community to **teach freshman English and Chicano literature** at the University of Texas at El Paso and El Paso Community College.
 
-- Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the Border Rights Coalition in addition to her work as an educator, and she eventually became co-chair of the coalition.
+- Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the **Border Rights Coalition** in addition to her work as an educator, and she eventually became co-chair of the coalition.
 
-- In 2006, she won her first campaign and took office as an El Paso County commissioner before being elected county judge in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
+- In 2006, she won her first campaign and took office as an **El Paso County commissioner** before being elected **county judge** in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
 
 <Video id="oTu5bNzLkqI" />
 
