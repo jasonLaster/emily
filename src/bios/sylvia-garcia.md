@@ -10,7 +10,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Judge", "Public Servant"]
 }
 
 import Video from "../Video"
@@ -19,11 +19,11 @@ import Video from "../Video"
 
 Sylvia Garcia is a dedicated public servant and an experienced leader running for Congress to fight for Texas working families. A lifelong Texan, she grew up as the eighth of ten children in the South Texas farming community of Palito Blanco, working in the cotton fields to help her family get by. While Sylvia’s parents struggled to make ends meet, they taught her that she could do anything with a good education and hard work. Sylvia won a scholarship to Texas Woman’s University, and began her career as a social worker fighting for the most vulnerable members of her community.
 
-- She worked her way through law school at Texas Southern University, and after earning her law degree she went on to serve as director and presiding judge of the Houston Municipal System for an unprecedented five terms under two mayors, fighting to make the city court system more effective and efficient.
+- She worked her way through law school at Texas Southern University, and after earning her law degree she went on to serve as **director and presiding judge** of the Houston Municipal System for an unprecedented five terms under two mayors, fighting to make the city court system more effective and efficient.
 
 - Sylvia was elected Houston **city controller in 1998**, and worked tirelessly to make city government transparent and accountable to working families.
 
-- After two terms, she was elected to the Harris County Commissioner's Court — the first Hispanic and first woman to be elected to that office in her own right — and she has served as the president of the National Association of Latino Elected and Appointed Officials.
+- After two terms, she was elected to the Harris **County Commissioner's Court** — the first Hispanic and first woman to be elected to that office in her own right — and she has served as the president of the National Association of Latino Elected and Appointed Officials.
 
 - In 2013, Sylvia was elected to the Texas state Senate, becoming the seventh woman and the **third Hispanic woman to serve** in that chamber. A resident of Houston, Sylvia has dedicated her career to serving the Harris County community she is proud to call home.
 

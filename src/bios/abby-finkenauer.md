@@ -10,7 +10,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate"]
 }
 
 import Video from "../Video"
@@ -19,9 +19,9 @@ import Video from "../Video"
 
 Abby Finkenauer is a lifelong Iowan and dedicated public servant running to give working families a new voice in Congress. Growing up in the Northeast Iowa community, Abby’s parents, a union pipefitter welder and a longtime Dubuque Community Schools employee, taught her the importance of hard work and giving back. Abby is the youngest of four siblings who are all proud first-generation college graduates.
 
-- She began her career as a legislative aide, and she was just 24 when a mentor encouraged her to run for an open seat in the Iowa House. Abby ran a savvy grassroots campaign, and emerged from a crowded field to win by a wide margin – becoming the third-youngest woman serving in a state legislature in the country.
+- She began her career as a **legislative aide**, and she was just 24 when a mentor encouraged her to run for an open seat in the Iowa House. Abby ran a savvy grassroots campaign, and emerged from a crowded field to win by a wide margin – becoming the third-youngest woman serving in a state legislature in the country.
 
-- She quickly established a reputation as a fighter for working families, and previously served as the Iowa director for Make It Work, a nonprofit that advocates for paid family leave and affordable child care. When elected to Congress, Abby will continue her life’s work of fighting to give Iowa’s working families a fair shot.
+- She quickly established a reputation as a fighter for working families, and previously served as the Iowa director for **Make It Work**, a nonprofit that advocates for paid family leave and affordable child care. When elected to Congress, Abby will continue her life’s work of fighting to give Iowa’s working families a fair shot.
 
 <Video id="e23Sm3ip6ns" />
 

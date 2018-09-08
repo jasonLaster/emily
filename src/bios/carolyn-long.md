@@ -9,14 +9,18 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Professor"]
 }
 
 import Video from "../Video"
 
 ## A constitutional law expert fighting for working families
 
-Carolyn Long is a fighter for working families running for Congress in Washington State. She grew up in a rural coastal community where her mother worked as a waitress and her father worked odd jobs and started a small produce business, and Carolyn started working at the store when she was 12 years old to help her family make ends meet. She worked her way through college with a good union job at a grocery store and went on to earn her Ph.D. in political science. While Carolyn was in graduate school, her family purchased a small organic farm and she returned home to help every summer. An accomplished professor who has written two books on constitutional law, she has worked at Washington State University Vancouver for more than two decades as a tenured professor and in administrative and leadership positions. She lives in Vancouver with her husband and their daughter, and after years of teaching students about American institutions, public law, American public policy, and public civility she is running for office for the first time to stand up for Washington State working families and to defend our American values as they come under attack like never before.
+Carolyn Long is a fighter for working families running for Congress in Washington State. She grew up in a rural coastal community where her mother worked as a waitress and her father worked odd jobs and started a small produce business, and Carolyn started working at the store when she was 12 years old to help her family make ends meet. She worked her way through college with a good union job at a grocery store and went on to earn her **Ph.D. in political science**.
+
+While Carolyn was in graduate school, her family purchased a small organic farm and she returned home to help every summer. An accomplished professor who has written two books on constitutional law, she has worked at Washington State University Vancouver for more than two decades as a tenured professor and in administrative and leadership positions.
+
+She lives in Vancouver with her husband and their daughter, and after years of teaching students about American institutions, public law, American public policy, and public civility she is running for office for the first time to stand up for Washington State working families and to defend our American values as they come under attack like never before.
 
 <Video id="cmw3oL_T9DA" />
 

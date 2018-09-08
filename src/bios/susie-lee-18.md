@@ -9,14 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate"]
 }
 
 import Video from "../Video"
 
 ## A fierce champion for Nevada children and families
 
-Susie Lee is a nonprofit leader and education advocate who has dedicated her career to helping her fellow Nevadans lead better, safer, and healthier lives. She is running for Congress to continue her life’s work of bringing people together to find and implement innovative solutions to the toughest problems facing Nevada’s working families. Susie grew up the sixth of eight children in a working-class community. Susie got her first newspaper route at the age of eight, and began babysitting and lifeguarding as soon as she was old enough. With the help of Pell Grants, student loans, and scholarships, she paid her way through college; working in the cafeteria, the library, the copy room, and teaching aerobics while also competing on the swim team. Susie found mentors who gave her the affirmation and encouragement she needed to succeed as a young woman. This experience inspired her work as a nonprofit leader and education advocate, working tirelessly to ensure that Nevada’s most vulnerable children can turn to their school communities for support when they don’t have resources at home. Susie has called Southern Nevada home for over two decades, and she and her husband Dan have proudly raised their two teenage children in the diverse and vibrant Silver State.
+Susie Lee is a nonprofit leader and education advocate who has dedicated her career to helping her fellow Nevadans lead better, safer, and healthier lives. She is running for Congress to continue her life’s work of bringing people together to find and implement innovative solutions to the toughest problems facing Nevada’s working families.
+
+Susie grew up the sixth of eight children in a working-class community. Susie got her first newspaper route at the age of eight, and began babysitting and lifeguarding as soon as she was old enough. With the help of Pell Grants, student loans, and scholarships, she paid her way through college; working in the cafeteria, the library, the copy room, and teaching aerobics while also competing on the swim team. Susie found mentors who gave her the affirmation and encouragement she needed to succeed as a young woman.
+
+This experience inspired her work as a **nonprofit leader and education advocate**, working tirelessly to ensure that Nevada’s most vulnerable children can turn to their school communities for support when they don’t have resources at home.
+
+Susie has called Southern Nevada home for over two decades, and she and her husband Dan have proudly raised their two teenage children in the diverse and vibrant Silver State.
 
 <Video id="FsbOxOp4w0E" />
 

@@ -9,14 +9,22 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Activist"]
 }
 
 import Video from "../Video"
 
 ## A passionate advocate for justice
 
-Lucy McBath is a powerful advocate for social justice running for Congress to fight for Georgia’s working families. The daughter of a nurse and the former president of the Illinois branch of the NAACP, Lucy grew up attending rallies and marches for civil rights. After 30 years working as a Delta flight attendant, Lucy has focused her second career on advocating for reforms that will make America safer for all families. In 2012, Lucy’s son Jordan Davis was shot and killed at a gas station in Florida for playing music too loudly in his car. Losing her son to gun violence intensified Lucy’s lifelong commitment to community activism and social justice, and until recently, served as a national spokesperson for Everytown for Gun Safety and Moms Demand Action, advocating for gun violence prevention in Washington and state capitols all over America. She has testified before the Senate, spoken at the White House Summit on Educational Excellence for African Americans, and traveled the nation as a surrogate for Hillary Clinton’s presidential campaign. She is deeply involved in her church and served as a national Faith and Community Outreach Organizer for Everytown/Moms Demand Action. Lucy is a passionate leader and advocate whose voice is badly needed in Washington, where she will work tirelessly to ensure that our communities are safe places where all working families can thrive.
+Lucy McBath is a powerful advocate for social justice running for Congress to fight for Georgia’s working families. **The daughter of a nurse and the former president of the Illinois branch of the NAACP**, Lucy grew up attending rallies and marches for civil rights.
+
+After 30 years working as a Delta flight attendant, Lucy has focused her second career on advocating for reforms that will make America safer for all families.
+
+In 2012, Lucy’s son Jordan Davis was shot and killed at a gas station in Florida for playing music too loudly in his car. Losing her son to gun violence intensified Lucy’s lifelong commitment to community activism and social justice, and until recently, served as a national spokesperson for _Everytown for Gun Safety and Moms Demand Action_, advocating for gun violence prevention in Washington and state capitols all over America.
+
+> She has testified before the Senate, spoken at the White House Summit on Educational Excellence for African Americans, and traveled the nation as a surrogate for Hillary Clinton’s presidential campaign.
+
+She is deeply involved in her church and served as a national Faith and Community Outreach Organizer for Everytown/Moms Demand Action. Lucy is a passionate leader and advocate whose voice is badly needed in Washington, where she will work tirelessly to ensure that our communities are safe places where all working families can thrive.
 
 <Video id="OGpjQIyIVbg" />
 

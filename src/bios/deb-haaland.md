@@ -10,7 +10,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Activist"]
 }
 
 import Video from "../Video"

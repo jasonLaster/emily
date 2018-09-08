@@ -9,14 +9,14 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Veteran"]
 }
 
 import Video from "../Video"
 
 ## A veteran and advocate for working families
 
-MJ Hegar is an Air Force combat veteran running to fight for Texas working families in Congress. Raised in Texas’ Hill Country, MJ grew up dreaming of serving our country as a military pilot. After graduating from the University of Texas at Austin, she enlisted in the Air Force and began training to fly.
+MJ Hegar is an **Air Force combat veteran** running to fight for Texas working families in Congress. Raised in Texas’ Hill Country, MJ grew up dreaming of serving our country as a military pilot. After graduating from the University of Texas at Austin, she enlisted in the Air Force and began training to fly.
 
 - MJ went on to serve three tours in Afghanistan as a **rescue helicopter pilot** until her helicopter was shot down by enemy fire. She was **awarded a Purple Heart** and Distinguished Flying Cross with Valor for her bravery and heroism.
 

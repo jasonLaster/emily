@@ -9,14 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Attorney"]
 }
 
 import Video from "../Video"
 
 ## A champion for New Hampshire women and families
 
-Annie Kuster was born and raised in Concord, New Hampshire. Her mother, Susan McLane, served in the state Senate and was a pioneer for women in Granite State politics; her father, Malcolm McLane, was a WWII veteran and POW who served as Concord mayor and as a New Hampshire executive councilor — and both taught Annie the importance of public service. She worked as an adoption attorney for 25 years, and she has said that she “witnessed the extraordinary courage and compassion of women” facing unplanned pregnancy. “Not once did I believe that the government should interfere with their personal and private decision,” Annie has said. “In fact, I believe in less government interference in people's personal lives, including whom to marry, when and whether to bear a child and how to raise kind and compassionate children.” She is a longtime community activist, and has served on the boards of the New Hampshire Charitable Foundation, New Hampshire Public Radio, the Capitol Center for the Arts, and Child, and Family Services of New Hampshire. Annie and her husband Brad live in Hopkinton, where they raised their two sons. In 2012 she defeated an incumbent Republican to become the first woman to represent New Hampshire’s 2nd Congressional District. During her first term she also made history as part of the nation’s first all-women delegation. Annie works tirelessly to increase economic opportunity for Granite Staters, and she is committed to breaking through gridlock in Congress to get results for the women and families she serves.
+Annie Kuster was born and raised in Concord, New Hampshire. Her mother, Susan McLane, served in the state Senate and was a pioneer for women in Granite State politics; her father, Malcolm McLane, was a WWII veteran and POW who served as Concord mayor and as a New Hampshire executive councilor — and both taught Annie the importance of public service.
+
+- She worked as an **adoption attorney** for 25 years, and she has said that she “witnessed the extraordinary courage and compassion of women” facing unplanned pregnancy. “Not once did I believe that the government should interfere with their personal and private decision,” Annie has said. “In fact, I believe in less government interference in people's personal lives, including whom to marry, when and whether to bear a child and how to raise kind and compassionate children.”
+
+- She is a longtime community activist, and has served on the boards of the New Hampshire Charitable Foundation, New Hampshire Public Radio, the Capitol Center for the Arts, and Child, and Family Services of New Hampshire. Annie and her husband Brad live in Hopkinton, where they raised their two sons.
+
+- In 2012 she defeated an incumbent Republican to become the first woman to represent New Hampshire’s 2nd Congressional District. During her first term she also made history as part of the **nation’s first all-women delegation**. Annie works tirelessly to increase economic opportunity for Granite Staters, and she is committed to breaking through gridlock in Congress to get results for the women and families she serves.
 
 <Video id="HoFZCQAjmFM" />
 

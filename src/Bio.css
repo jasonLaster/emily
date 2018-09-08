@@ -17,7 +17,7 @@
   flex: 0 0 140px;
 }
 
-.candidate-bio .candidate-img{
+.candidate-bio .candidate-img {
   width: 120px;
   height: 120px;
   border-radius: 60px;
@@ -144,4 +144,23 @@
 .candidate-bio iframe {
   margin: 20px 30px;
   display: inline-block;
+}
+
+.candidate-bio strong {
+    color: #3c3c3c;
+}
+
+.candidate-bio em {
+  color: #ff007d;
+}
+
+.candidate-bio blockquote {
+    margin-left: -16px;
+    border-left: 6px solid #169bff;
+    padding-left: 10px;
+    color: blue;
+}
+
+.candidate-bio blockquote p {
+color:  #668cbf;
 }

@@ -16,22 +16,27 @@ body {
   display: flex;
   margin: 20px;
   border: 1px solid #d1d1d1;
-  background: #f6f6f6;
+  background: #f2f2f2;
   border-radius: 5px;
-  height: 100px;
+  min-height: 100px;
   color: #424242;
   text-decoration: none;
 }
 
 .candidate.selected {
   background: white;
-  border-color: #959595;
+  border-color: #2793e6;
+}
+
+.candidate.selected:hover {
+  background: white;
+  border: 1px solid #2793e6;;
 }
 
 .candidate:hover {
   cursor: pointer;
-  border: 1px solid #c5c5c5;
-  background: #f8f8f8;
+  background: #f7f7f7;
+  border: 1px solid #868686;;
 }
 
 .candidate .candidate-summary {
@@ -44,23 +49,31 @@ body {
   font-weight: bold;
 }
 
+.candidate .candidate-summary .keywords {
+  margin-top: 5px;
+}
+
 .candidate-img {
   width: 80px;
   border-radius: 40px;
   margin: 10px 8px 10px 16px;
   height: 80px;
-  border: 2px solid #cccccc;
+  border: 1px solid #dcdcdc;
   align-self: center;
+  box-shadow: 0px 1px 4px 1px rgba(187, 187, 187, 0.8);
 }
 
 .candidate .keyword {
-  border: 1px solid hsla(206, 79%, 43%, 1);
-  border-radius: 3px;
-  line-height: 30px;
-  padding: 3px 9px;
-  color: white;
-  background: #2793e6;
-  font-size: 12px;
-  font-weight: bold;
-  margin-right: 10px;
+    border: 1px solid hsl(206, 29%, 67%);
+    border-radius: 3px;
+    line-height: 15px;
+    padding: 3px 9px;
+    color: #2793e6;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+
+    float: left;
+    word-break: keep-all;
+    margin-bottom: 4px;
 }

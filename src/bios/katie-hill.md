@@ -1,7 +1,7 @@
 export const meta = {
   "name": "Katie Hill",
   "img": "https://www.emilyslist.org/i/images/Hill-Katie_circle.png/@zx_250@zy_250",
-  "location": "California",
+  "location": "California 25th",
   "link": "https://www.emilyslist.org/candidates/katie-hill",
   "id": "katie-hill",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-hill",
@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Executive"]
 }
 
 import Video from "../Video"
@@ -18,9 +18,9 @@ import Video from "../Video"
 
 Katie Hill is a community leader and fighter running for Congress to expand economic opportunity for hardworking California families. The daughter of a police officer and a nurse, Katie volunteered in a local hospital as a college student to learn about nursing — but her experience comforting patients and their families inspired her to pursue a career tackling the problems that health care alone couldn’t fix.
 
-- She joined an organization that serves members of her community experiencing homelessness and she was instrumental in its growth into a statewide organization. Until stepping down recently to campaign full time, Katie served as Deputy CEO and Executive Director.
+- She joined an organization that serves members of her community experiencing homelessness and she was instrumental in its growth into a statewide organization. Until stepping down recently to campaign full time, Katie served as Deputy **CEO and Executive Director**.
 
-- She oversaw hundreds of government contracts and partnered with public and private agencies across the state to better serve the needs of the most vulnerable Californians. This experience makes her perfectly suited to be a good steward of California tax dollars and smart government spending.
+- She **oversaw hundreds of government contracts** and partnered with public and private agencies across the state to better serve the needs of the most vulnerable Californians. This experience makes her perfectly suited to be a good steward of California tax dollars and smart government spending.
 
 - A lifelong resident of California’s 25th Congressional District, Katie lives in Agua Dulce with her husband on their farm for rescue animals.
 

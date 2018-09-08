@@ -10,14 +10,14 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate"]
 }
 
 import Video from "../Video"
 
 ## A proven fighter for working parents
 
-Liuba Grechen Shirley is a champion for women and families running for Congress to fight for hardworking Long Islanders. A proven advocate, she has dedicated her career to women’s economic empowerment. Liuba was raised by a single mother who worked as a public school teacher, and learned the value of hard work and the importance of community from her close- knit family in Amityville.
+Liuba Grechen Shirley is a champion for women and families running for Congress to fight for hardworking Long Islanders. A proven advocate, she has dedicated her career to **women’s economic empowerment**. Liuba was raised by a single mother who worked as a public school teacher, and learned the value of hard work and the importance of community from her close- knit family in Amityville.
 
 - She earned her bachelor’s degree at New York University and an MBA from NYU’s Stern School of Business, specializing in social innovation, and is a successful nonprofit leader fighting for working families.
 

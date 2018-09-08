@@ -9,14 +9,26 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Veteran", "Executive", "Teacher"]
 }
 
 import Video from "../Video"
 
 ## A veteran and business leader fighting for Pennsylvania working families
 
-Chrissy Houlahan is a veteran and business leader running for Congress to fight for Pennsylvania working families. Chrissy felt called to run for office for the first time after the 2016 election. “I never thought I would run for elected office, but service does not stop when you leave the Armed Forces,” she has said. Her story is uniquely American: Chrissy’s father, a Holocaust survivor, came to America with his widowed mother seeking safety and opportunity. He joined the U.S. Navy, rising to the rank of Captain and teaching Chrissy the importance of service. She attended Stanford on an ROTC scholarship, and went on to serve in the U.S. Air Force before going on to earn her master’s degree from MIT and growing and running a successful business. As COO of AND1 Basketball, Chrissy helped the footwear and apparel company’s revenue grow from $4M to over $250 million, while also building a socially responsible corporation. After ten years at AND1, Chrissy became the founding COO of B Lab, a non-profit that certifies and supports B Corporations — companies that harness the power of for-profit businesses to support social and environmental issues. Always seeking more ways to give back, in 2011 Chrissy took a year to teach 11th grade chemistry in North Philadelphia through Teach for America. Most recently, she has served as President and COO/CFO of Springboard Collaborative, an educational organization focused on early childhood literacy. Chrissy lives with her husband Bart in Chester County, where they raised their two grown daughters. She is running to bring her business savvy and commitment to public service to Washington, to stand up to Donald Trump, and fight for the people in her community.
+Chrissy Houlahan is a veteran and business leader running for Congress to fight for Pennsylvania working families. Chrissy felt called to run for office for the first time after the 2016 election. “I never thought I would run for elected office, but service does not stop when you leave the Armed Forces,” she has said.
+
+- Her story is uniquely American: Chrissy’s father, a Holocaust survivor, came to America with his widowed mother seeking safety and opportunity. He joined the U.S. Navy, rising to the rank of Captain and teaching Chrissy the importance of service.
+
+- She attended Stanford on an ROTC scholarship, and went on to serve in the **U.S. Air Force** before going on to earn her master’s degree from MIT and growing and running a successful business.
+
+- As **COO of AND1 Basketball**, Chrissy helped the footwear and apparel company’s revenue grow from $4M to over $250 million, while also building a socially responsible corporation.
+
+- After ten years at AND1, Chrissy became the founding COO of B Lab, a non-profit that certifies and supports B Corporations — companies that harness the power of for-profit businesses to support social and environmental issues.
+
+- Always seeking more ways to give back, in 2011 Chrissy took a year to **teach 11th grade chemistry** in North Philadelphia through Teach for America. Most recently, she has served as President and COO/CFO of Springboard Collaborative, an educational organization focused on early childhood literacy.
+
+- Chrissy lives with her husband Bart in Chester County, where they raised their two grown daughters. She is running to bring her business savvy and commitment to public service to Washington, to stand up to Donald Trump, and fight for the people in her community.
 
 <Video id="96GG4EwAt4g" />
 

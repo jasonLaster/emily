@@ -9,14 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Veteran"]
 }
 
 import Video from "../Video"
 
 ## A fighter for Virginia working families
 
-Elaine Luria is an experienced leader and a dedicated public servant running for Congress to fight for Virginia's working families. A graduate of the United States Naval Academy, she served our country in uniform for 20 years. Elaine was deployed around the world as a surface warfare officer and nuclear engineer, working tirelessly to enforce sanctions, operate nuclear reactors, and oversee complex weapons systems. She retired from the U.S. Navy in 2017 with the rank of commander, and started a small business from her kitchen table that has grown to create jobs in her community and support local organizations for youth and the arts. Elaine is a powerful advocate for Virginia military families. In 2017, she helped Virginia Attorney General Mark Herring launch the Military and Veterans Legal Guide, a new resource for military families and veterans who are often targets for fraud. Elaine and her husband Robert, who retired after 27 years of naval service, have lived in Norfolk for nearly twenty years and are proud to raise their daughter in the diverse and vibrant community they are proud to call home.
+Elaine Luria is an experienced leader and a dedicated public servant running for Congress to fight for Virginia's working families. A graduate of the United States **Naval Academy**, she served our country in uniform for 20 years. Elaine was deployed around the world as a **surface warfare officer and nuclear engineer**, working tirelessly to enforce sanctions, operate nuclear reactors, and oversee complex weapons systems.
+
+She retired from the U.S. Navy in 2017 with the rank of commander, and **started a small business** from her kitchen table that has grown to create jobs in her community and support local organizations for youth and the arts. Elaine is a powerful advocate for Virginia military families.
+
+In 2017, she helped Virginia Attorney General Mark Herring launch the Military and Veterans Legal Guide, a new resource for military families and veterans who are often targets for fraud.
+
+Elaine and her husband Robert, who retired after 27 years of naval service, have lived in Norfolk for nearly twenty years and are proud to raise their daughter in the diverse and vibrant community they are proud to call home.
 
 <Video id="BkB3KIFYwa4" />
 

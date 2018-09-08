@@ -9,14 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Congresswoman"]
 }
 
 import Video from "../Video"
 
 ## A proven and effective national leader
 
-Carolyn Maloney is running for re-election to continue her fight to expand economic opportunity for all hardworking New York families. Carolyn was first elected to Congress in 1992, where she’s consistently ranked as one of the top producers of legislation, either as stand-alone bills or incorporated into larger legislation packages. She is a national leader with accomplishments on security, financial services, the economy and women's issues, from securing health care for those suffering from ailments related to 9/11 to authoring the Credit Cardholders’ Bill of Rights, which, according to the Consumer Financial Protection Bureau (CFPB), has saved consumers more than $16 billion annually since it was signed into law in 2009. Carolyn is consistently ranked as one of the most effective leaders in the House of Representatives: In 2013, she introduced the fifth highest number of bills of all representatives, and in 2015, the bills she authored had 1,202 co-sponsors — the second most in all of Congress. Carolyn has been a champion in Washington for women and working families for more than two decades.
+Carolyn Maloney is running for re-election to continue her fight to expand economic opportunity for all hardworking New York families.
+
+Carolyn was first **elected to Congress in 1992**, where she’s consistently ranked as one of the top producers of legislation, either as stand-alone bills or incorporated into larger legislation packages.
+
+She is a national leader with accomplishments on security, financial services, the economy and women's issues, from securing health care for those suffering from ailments related to 9/11 to authoring the **Credit Cardholders’ Bill of Rights**, which, according to the Consumer Financial Protection Bureau (CFPB), has saved consumers more than $16 billion annually since it was signed into law in 2009.
+
+Carolyn is consistently ranked as one of the **most effective leaders** in the House of Representatives: In 2013, she introduced the fifth highest number of bills of all representatives, and in 2015, the bills she authored had **1,202 co-sponsors** — the second most in all of Congress. Carolyn has been a champion in Washington for women and working families for more than two decades.
 
 <Video id="qPJT9am__XM" />
 
