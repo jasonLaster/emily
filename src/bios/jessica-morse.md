@@ -1,7 +1,7 @@
 export const meta = {
   "name": "Jessica Morse",
   "img": "https://www.emilyslist.org/i/Jessica-Morse.png/@zx_250@zy_250",
-  "location": "California",
+  "location": "California 4th",
   "link": "https://www.emilyslist.org/candidates/jessica-morse",
   "id": "jessica-morse",
   "donate": "https://www.emilyslist.org/donate/candidate/jessica-morse",
@@ -9,14 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["National Security Expert"]
 }
 
 import Video from "../Video"
 
 ## A dedicated public servant fighting for working families
 
-Jessica Morse is a committed public servant and national security expert who is running to fight for California working families in Congress. A fifth-generation Northern Californian, Jessica’s family continues to manage land that has been in her family since the turn of the 20th century. Her deep roots in the area have spurred her love of the outdoors, inspiring her to hike 500 miles of the Pacific Crest Trail that cover the length of the 4th District. Jessica has served in a variety of national security roles throughout her career, working for both the U.S. Departments of State and Defense, and the U.S. Agency for International Development (USAID). She has worked to advance American interests in India and Iraq, among other countries, and is deeply familiar with the federal budget process. Jessica is now prepared to be a voice for Northern Californians in Washington, DC.
+Jessica Morse is a committed public servant and **national security expert** who is running to fight for California working families in Congress. A fifth-generation Northern Californian, Jessica’s family continues to manage land that has been in her family since the turn of the 20th century.
+
+Her deep roots in the area have spurred her love of the outdoors, inspiring her to hike 500 miles of the Pacific Crest Trail that cover the length of the 4th District.
+
+> Jessica has served in a variety of national security roles throughout her career, working for both the U.S. Departments of State and Defense, and the U.S. Agency for International Development (USAID).
+
+She has worked to advance American interests in India and Iraq, among other countries, and is deeply familiar with the federal budget process. Jessica is now prepared to be a voice for Northern Californians in Washington, DC.
 
 <Video id="qhTnxnb__ms" />
 

@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Professor"]
 }
 
 import Video from "../Video"
@@ -18,9 +18,11 @@ import Video from "../Video"
 
 Diane Mitsch Bush is running for Congress to expand economic opportunities for Colorado’s working families. She most recently served five years in the Colorado House of Representatives, where she was a vocal proponent of strengthening public education, improving access to affordable health care, protecting public lands, and more.
 
-- She previously served as a Routt County commissioner, working on issues important to rural Colorado including water rights, internet broadband access, transportation funding, and affordable housing.
+She previously served as a **Routt County commissioner**, working on issues important to rural Colorado including water rights, internet broadband access, transportation funding, and affordable housing.
 
-- Prior to serving as an elected official, she was a **professor at Colorado Mountain College and Colorado State University**. Diane has called Steamboat Springs her home for over 40 years and currently lives there with her husband, with whom she loves to ski, mountain bike, and rock climb.
+Prior to serving as an elected official, she was a **professor at Colorado Mountain College and Colorado State University**.
+
+Diane has called Steamboat Springs her home for over 40 years and currently lives there with her husband, with whom she loves to ski, mountain bike, and rock climb.
 
 <Video id="mR-4GreTyGs" />
 

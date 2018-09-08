@@ -1,7 +1,7 @@
 export const meta = {
   "name": "Katie Porter",
   "img": "https://www.emilyslist.org/i/images/Porter_Katie.png/@zx_250@zy_250",
-  "location": "California",
+  "location": "California 45",
   "link": "https://www.emilyslist.org/candidates/katie-porter-18",
   "id": "katie-porter-18",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-porter-18",
@@ -9,22 +9,26 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Consumer Advocate"]
 }
 
 import Video from "../Video"
 
 ## A consumer advocate who knows how to fight
 
-Katie has spent nearly 20 years as a consumer advocate taking on Wall Street banks and powerful financial institutions that try to take advantage of middle-class families. The daughter of a farmer and a teacher, Katie saw firsthand how the farm crisis of the 1980s hurt families and communities. After graduating from Yale University, she went to Harvard Law School and learned bankruptcy law from influential professor Elizabeth Warren, with whom she co-authored a book on debt and credit law.
+Katie has spent **nearly 20 years as a consumer advocate** taking on Wall Street banks and powerful financial institutions that try to take advantage of middle-class families.
 
-- She has earned her national acclaim for her fights against unfair practices by Wall Street banks, credit card companies, student loan servicers, and predatory lenders. She was teaching law at the University of California - Irvine and raising her three young children in 2012 when then-Attorney General of California Kamala Harris asked Katie to serve as the California Monitor of the National Mortgage Settlement.
+The daughter of a farmer and a teacher, Katie saw firsthand how the farm crisis of the 1980s hurt families and communities. After graduating from Yale University, she went to Harvard Law School and learned bankruptcy law from influential professor Elizabeth Warren, with whom she co-authored a book on debt and credit law.
 
-- The five biggest Wall Street banks had promised billions in relief to the homeowners they had cheated, and Katie held the banks' feet to the fire -- securing $18 billion for California homeowners and helping tens of thousands of families in the state. She has worked to bring down credit card fees and is dedicated to ending the predatory banking practices that hurt women and families.
+She has earned her national acclaim for her fights against unfair practices by Wall Street banks, credit card companies, student loan servicers, and predatory lenders. She was teaching law at the University of California - Irvine and raising her three young children in 2012 when then-Attorney General of California Kamala Harris asked Katie to serve as the California Monitor of the National Mortgage Settlement.
 
-- Katie is running for Congress to get our economy working for all Californians and to fight back against a dangerous agenda that puts powerful interests ahead of people and families. Elizabeth Warren and Kamala Harris, now both United States senators, have endorsed Katie’s strong campaign. She lives in Irvine with her three children, where she is a longtime leader in her sons’ Cub Scout pack.
+> The five biggest Wall Street banks had promised billions in relief to the homeowners they had cheated, and Katie held the banks' feet to the fire -- securing $18 billion for California homeowners and helping tens of thousands of families in the state.
 
-<Video id="7R7rvbSCOA8" />
+She has worked to bring down credit card fees and is dedicated to ending the predatory banking practices that hurt women and families.
+
+Katie is running for Congress to get our economy working for all Californians and to fight back against a dangerous agenda that puts powerful interests ahead of people and families. Elizabeth Warren and Kamala Harris, now both United States senators, have endorsed Katie’s strong campaign. She lives in Irvine with her three children, where she is a longtime leader in her sons’ Cub Scout pack.
+
+<Video id="CYBCNoVICzs" />
 
 ## A champion for California families
 

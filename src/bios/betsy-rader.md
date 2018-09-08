@@ -1,7 +1,7 @@
 export const meta = {
   "name": "Betsy Rader",
   "img": "https://www.emilyslist.org/i/images/Betsy-Rader_(2).png/@zx_250@zy_250",
-  "location": "Ohio",
+  "location": "Ohio 14th",
   "link": "https://www.emilyslist.org/candidates/betsy-rader",
   "id": "betsy-rader",
   "donate": "https://www.emilyslist.org/donate/candidate/betsy-rader",
@@ -9,20 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Civil Rights Advocate"]
 }
 
 import Video from "../Video"
 
 ## An experienced leader and civil rights advocate fighting for Ohioans
 
-Betsy Rader is an experienced community leader and civil rights advocate running for Congress to continue her fight for Ohio working families. A lifelong Ohioan, Betsy and her three siblings were raised by their single mother in a hardworking family that struggled to make ends meet after her parents’ divorce.
+Betsy Rader is an experienced community leader and **civil rights advocate** running for Congress to continue her fight for Ohio working families. A lifelong Ohioan, Betsy and her three siblings were raised by their single mother in a hardworking family that struggled to make ends meet after her parents’ divorce.
 
-- With the help of scholarships, she worked her way through college at The Ohio State University, graduating first in her class, and went on to earn her law degree from Yale to become an advocate for northeast Ohioans. -
+With the help of scholarships, she worked her way through college at The Ohio State University, graduating first in her class, and went on to earn her law degree from Yale to become an advocate for northeast Ohioans.
 
-- Betsy has served as the director or her county’s advocacy program for abused children, as senior counsel at the Cleveland Clinic, and as a fellow at the Innovation Center at the Centers for Medicare & Medicaid Services.
+> Betsy has served as the director or her county’s advocacy program for abused children, as senior counsel at the Cleveland Clinic, and as a fellow at the Innovation Center at the Centers for Medicare & Medicaid Services.
 
-- She currently serves as a civil rights attorney fighting for Ohioans facing employment discrimination. Betsy and her husband are proud to have called Ohio's 14th District home for more than twenty years, and to have raised their three adult children in the community.
+She currently serves as a **civil rights attorney** fighting for Ohioans facing employment discrimination. Betsy and her husband are proud to have called Ohio's 14th District home for more than twenty years, and to have raised their three adult children in the community.
 
 <Video id="Xt5xDNx4EZg" />
 

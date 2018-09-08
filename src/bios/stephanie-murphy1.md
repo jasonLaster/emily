@@ -9,20 +9,20 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Congresswoman", "Refugee"]
 }
 
 import Video from "../Video"
 
 ## An inspiring first generation American leader
 
-Stephanie Murphy is running for re-election to continue her fight to expand economic and educational opportunities for all. Stephanie was born in Ho Chi Minh City, Vietnam. After the fall of Saigon, she’s said, “Families associated with the South Vietnamese and American governments, like my own, were at risk of being sent to re-education camps and subjected to forced labor, torture, starvation and disease.” When she was just six months old, her family escaped Vietnam on a tugboat that ran out of fuel, leaving them stranded on the South China Sea. The U.S. Navy rescued them and helped them reach a refugee camp in Malaysia, from which Stephanie’s family ultimately immigrated to Virginia with the help of a local church.
+Stephanie Murphy is running for re-election to continue her fight to expand economic and educational opportunities for all. _Stephanie was born in Ho Chi Minh City, Vietnam_. After the fall of Saigon, she’s said, “Families associated with the South Vietnamese and American governments, like my own, were at risk of being sent to re-education camps and subjected to forced labor, torture, starvation and disease.”
 
-- Stephanie and her family came to America seeking freedom and opportunity, and she is committed to helping others live out the American dream. Stephanie’s parents worked at a power plant and tile manufacturer during the day and cleaned office buildings at night, and she became the first woman in her family ever to go to college.
+When she was just six months old, her family escaped Vietnam on a tugboat that ran out of fuel, leaving them stranded on the South China Sea. The U.S. Navy rescued them and helped them reach a refugee camp in Malaysia, from which Stephanie’s family ultimately immigrated to Virginia with the help of a local church.
 
-- After graduation, Stephanie began a career in the private sector until the events of September 11th motivated her to pursue a career in public service and to earn a master’s degree from the Georgetown University School of Foreign Service.
+> After graduation, Stephanie began a career in the private sector until the events of September 11th motivated her to pursue a career in public service and to earn a master’s degree from the Georgetown University School of Foreign Service.
 
-- She served as a **national security specialist** in the Office of the Secretary of Defense, where she received numerous awards, including the Secretary of Defense Medal for Exceptional Civilian Service, and she has served as a term **member of the Council on Foreign Relations**. Stephanie re-entered the private sector when she moved to Winter Park, Florida, where she still lives today with her husband Sean and their two young children, Liem and Maya. She worked as an executive and taught finance and social entrepreneurship at Rollins College before successfully running to flip a seat and represent Florida’s 7th Congressional District.
+She served as a **national security specialist** in the Office of the Secretary of Defense, where she received numerous awards, including the Secretary of Defense Medal for Exceptional Civilian Service, and she has served as a term **member of the Council on Foreign Relations**. Stephanie re-entered the private sector when she moved to Winter Park, Florida, where she still lives today with her husband Sean and their two young children, Liem and Maya. She worked as an executive and taught finance and social entrepreneurship at Rollins College before successfully running to flip a seat and represent Florida’s 7th Congressional District.
 
 <Video id="lSkFCxaKQ_g" />
 

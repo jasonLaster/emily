@@ -9,14 +9,22 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate", "Immigrant"]
 }
 
 import Video from "../Video"
 
 ## A first generation American and a champion for Florida working families
 
-Debbie Mucarsel-Powell is running for Congress to ensure that all working families have the opportunity to get ahead that her family had — opportunities that are disappearing in Florida and across the country. Born in Ecuador, Debbie immigrated to the United States as a young girl with her mother and three sisters seeking economic opportunity. Her mother worked tirelessly as a home health care provider and learned English in night and weekend classes, teaching her that anything is possible in America if you work hard. Debbie started working the early morning shift at a doughnut shop to help her family make ends meet when she was 15 years old, and remained focused on earning the grades she needed to get a college scholarship. After earning her bachelor’s degree in political science, she worked as an office manager at a shipping company to support herself while earning her master’s degree in international political economy. She has dedicated her career to improving the lives of all Floridians, helping nonprofits increase access to quality health care for all and fight the effects of climate change. Debbie and her husband have three school-aged children, and are proud to raise them in the Sunshine State. She is a champion for the Florida working families who need one most, and when elected she will fight to ensure their voices are heard in Congress.
+Debbie Mucarsel-Powell is running for Congress to ensure that all working families have the opportunity to get ahead that her family had — opportunities that are disappearing in Florida and across the country. Born in Ecuador, _Debbie immigrated to the United States as a young girl_ with her mother and three sisters seeking economic opportunity.
+
+Her mother worked tirelessly as a home health care provider and learned English in night and weekend classes, teaching her that anything is possible in America if you work hard. Debbie started working the early morning shift at a doughnut shop to help her family make ends meet when she was 15 years old, and remained focused on earning the grades she needed to get a college scholarship.
+
+After earning her bachelor’s degree in political science, she worked as an office manager at a shipping company to support herself while earning her **master’s degree in international political economy**.
+
+> She has dedicated her career to improving the lives of all Floridians, helping nonprofits increase access to quality health care for all and fight the effects of climate change.
+
+Debbie and her husband have three school-aged children, and are proud to raise them in the Sunshine State. She is a champion for the Florida working families who need one most, and when elected she will fight to ensure their voices are heard in Congress.
 
 <Video id="vBTG2CUq72k" />
 

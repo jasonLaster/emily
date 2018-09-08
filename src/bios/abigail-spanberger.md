@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Law Enforcement"]
 }
 
 import Video from "../Video"
@@ -18,13 +18,15 @@ import Video from "../Video"
 
 Abigail Spanberger is an experienced leader and a deeply committed public servant running for Congress to expand economic opportunity for Virginia working families. She grew up in Henrico County, Virginia, and is a proud graduate of the University of Virginia.
 
-- After earning her MBA, Abigail began her public service career as a **federal law enforcement officer** working narcotics and money laundering cases with the U.S. Postal Inspection Service. From there, she joined the CIA as an operations officer in 2006.
+After earning her MBA, Abigail began her public service career as a **federal law enforcement officer** working narcotics and money laundering cases with the U.S. Postal Inspection Service. From there, she joined the CIA as an operations officer in 2006.
 
-- **Focused on counterterrorism**, she recruited and developed spies and provided the critical intelligence that policymakers needed to make national security decisions to keep our country safe.
+> Focused on counterterrorism, she recruited and developed spies and provided the critical intelligence that policymakers needed to make national security decisions to keep our country safe.
 
-- She went on to work in the private sector as a strategic leader helping colleges and universities diversify their student bodies, increase graduation rates, and expand students’ access to affordable educational opportunities.
+She went on to work in the private sector as a strategic leader helping colleges and universities diversify their student bodies, increase graduation rates, and expand students’ access to affordable educational opportunities.
 
-- Abigail was appointed to the Virginia Fair Housing Board by former Governor Terry McAuliffe in 2017 and has worked to protect Virginians from housing discrimination. Abigail and her husband live with their three daughters in Glen Allen, and she is running to bring new leadership to Congress as she fights for Virginia's working families.
+Abigail was **appointed to the Virginia Fair Housing Board** by former Governor Terry McAuliffe in 2017 and has worked to protect Virginians from housing discrimination.
+
+Abigail and her husband live with their three daughters in Glen Allen, and she is running to bring new leadership to Congress as she fights for Virginia's working families.
 
 <Video id="PeuJl3mBSJ0" />
 

@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Doctor"]
 }
 
 import Video from "../Video"
@@ -18,9 +18,9 @@ import Video from "../Video"
 
 Kim Schrier is a pediatrician running for Congress to expand economic opportunity for Washington State working families. The daughter of an elementary school teacher and an aerospace engineer, Kim has understood what it means to worry about health and insurance coverage since she was diagnosed with Type 1 diabetes at the age of 16.
 
-- A proud graduate of public schools, including her degrees in astrophysics and medicine, Kim has dedicated her career to improving the lives of her patients and their families. After the 2016 election, Kim marched, protested, and called her elected officials to fight back against the agenda threatening to undo all the progress we’ve worked so hard to make.
+A proud graduate of public schools, including her **degrees in astrophysics and medicine**, Kim has dedicated her career to improving the lives of her patients and their families. After the 2016 election, Kim marched, protested, and called her elected officials to fight back against the agenda threatening to undo all the progress we’ve worked so hard to make.
 
-- When Republicans began their effort to take away millions of working families’ access to affordable health care, she decided to step up and run for office for the very first time. Kim, her husband, and their son live in Issaquah, the community where she has been serving children and families as a pediatrician for 16 years.
+When Republicans began their effort to take away millions of working families’ access to affordable health care, she decided to step up and run for office for the very first time. Kim, her husband, and their son live in Issaquah, the community where she has been serving children and families as a pediatrician for 16 years.
 
 <Video id="IRF45yBcWh0" />
 

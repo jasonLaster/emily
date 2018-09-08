@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Assistant Minority Leader", "Refugee"]
 }
 
 import Video from "../Video"
@@ -18,13 +18,13 @@ import Video from "../Video"
 
 Ilhan Omar is a groundbreaking candidate and public servant who is running for Congress to fight for Minnesota working families. When she was a young girl, Ilhan’s family escaped civil war in Somalia, spent several years in a refugee camp in Kenya, and eventually moved to the United States when Ilhan was 12 years old.
 
-- She learned English by watching American television shows, and after living in Virginia for a little over two years, her family settled in Minnesota. After graduating from college, Ilhan became politically active, working for state legislative campaigns and as a senior policy aide to a Minneapolis city councilmember.
+She learned English by watching American television shows, and after living in Virginia for a little over two years, her family settled in Minnesota. After graduating from college, Ilhan became politically active, working for state legislative campaigns and as a senior policy aide to a Minneapolis city councilmember.
 
-- She then served as the director of policy and initiatives at Women Organizing Women, helping to empower East African women to pursue civic leadership opportunities in their communities.
+She then served as the _director of policy and initiatives at Women Organizing Women_, helping to empower East African women to pursue civic leadership opportunities in their communities.
 
-- Ilhan was elected to the Minnesota House of Representatives in 2016, making history as the first Muslim refugee and first Somali American Muslim woman in elected office in the United States.
+> Ilhan was elected to the Minnesota House of Representatives in 2016, making history as the first Muslim refugee and first Somali American Muslim woman in elected office in the United States.
 
-- She serves as **assistant minority leader in the chamber**, and has received the Rising Star Award from the DFL Women’s Hall of Fame. Ilhan lives in Minneapolis with her husband and three children.
+She serves as **assistant minority leader in the chamber**, and has received the Rising Star Award from the DFL Women’s Hall of Fame. Ilhan lives in Minneapolis with her husband and three children.
 
 <Video id="ejVgj1BaWE0" />
 

@@ -151,16 +151,16 @@
 }
 
 .candidate-bio em {
-  color: #ff007d;
+  color: #ea2887;
 }
 
 .candidate-bio blockquote {
-    margin-left: -16px;
-    border-left: 6px solid #169bff;
-    padding-left: 10px;
-    color: blue;
+  margin-left: -16px;
+  border-left: 6px solid #169bff;
+  padding-left: 10px;
+  color: blue;
 }
 
 .candidate-bio blockquote p {
-color:  #668cbf;
+  color:  #668cbf;
 }

@@ -9,18 +9,24 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["National Security Expert"]
 }
 
 import Video from "../Video"
 
 ## A first generation American fighting for hardworking Texans
 
-Gina Ortiz Jones is a dedicated public servant running for Congress to expand economic opportunity for hardworking Texans. She grew up in San Antonio, where she and her sister were raised by their single mother who came to the United States from the Philippines in pursuit of the American dream. Gina’s mother had a graduate degree, but arrived in the United States as a domestic helper, and at times needed to take on multiple jobs. For a time, her family relied on public housing and reduced school lunch to make ends meet, and she learned the value of hard work and humility from the example of her mother’s sacrifices.
+Gina Ortiz Jones is a dedicated public servant running for Congress to expand economic opportunity for hardworking Texans. She grew up in San Antonio, where she and her sister were raised by their single mother who came to the United States from the Philippines in pursuit of the American dream. Gina’s mother had a graduate degree, but arrived in the United States as a domestic helper, and at times needed to take on multiple jobs.
 
-- Gina saw that education and service offered a pathway to opportunity, and earned an Air Force ROTC scholarship to college. After completing her B.A. and an M.A. in Economics, Gina entered the Air Force as an **intelligence officer**. She deployed to Iraq and served under the military’s “Don’t Ask, Don’t Tell” policy.
+For a time, her family relied on public housing and reduced school lunch to make ends meet, and she learned the value of hard work and humility from the example of her mother’s sacrifices.
 
-- Following her active duty service, Gina has served as a leader in economic and national security issues, most recently as director of investment at the **Office of Services and Investment** in the Office of the U.S. Trade Representative. At a time when opportunities are disappearing for families like hers, Gina is running for office for the first time to continue her lifelong fight for Texan working families.
+Gina saw that education and service offered a pathway to opportunity, and earned an Air Force ROTC scholarship to college.
+
+> After completing her B.A. and an M.A. in Economics, Gina entered the Air Force as an intelligence officer. She deployed to Iraq and served under the military’s “Don’t Ask, Don’t Tell” policy.
+
+Following her active duty service, Gina has served as a leader in economic and national security issues, most recently as _director of investment at the Office of Services and Investment_ in the Office of the U.S. Trade Representative.
+
+At a time when opportunities are disappearing for families like hers, Gina is running for office for the first time to continue her lifelong fight for Texan working families.
 
 <Video id="9dAgzPVSkdI" />
 

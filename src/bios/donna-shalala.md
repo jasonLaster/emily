@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Executive"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,17 @@ import Video from "../Video"
 
 Donna Shalala has dedicated her career to fighting for others. As the secretary of health and human services (HHS) under President Clinton, Donna led the introduction and implementation of the Children’s Health Insurance Program and helped achieve the highest child immunization rates in U.S. history.
 
-- Recently, Donna served as the president of the Clinton Foundation, helping carry out the foundation’s efforts to improve public health and increase economic opportunity around the world. Prior to that role, she was president of the University of Miami, where she increased the university’s endowment, expanding private support for student scholarships, academic and research programs, and facilities.
+Recently, Donna served as the **president of the Clinton Foundation**, helping carry out the foundation’s efforts to improve public health and increase economic opportunity around the world.
 
-- Previous positions include serving as the chancellor of the University of Wisconsin-Madison, president of Hunter College of the City University of New York, and assistant secretary for policy development and research at the U.S. Department of Housing and Urban Development.
+Prior to that role, she was **president of the University of Miami**, where she increased the university’s endowment, expanding private support for student scholarships, academic and research programs, and facilities.
 
-- Donna has also served as chair of the Committee on the Future of Nursing at the Institute of Medicine of the National Academy of Sciences and co-chair of the Commission on Care for Returning Wounded Warriors. Donna has lived in South Florida for the last 17 years.
+Previous positions include serving as assistant secretary for policy development and research at the U.S. Department of Housing and Urban Development.
+
+Donna has also served as **chair of the Committee on the Future of Nursing** at the Institute of Medicine of the National Academy of Sciences and co-chair of the Commission on Care for Returning Wounded Warriors.
+
+Donna has lived in South Florida for the last 17 years.
+
+<Video id="NxYryMhQXMo" />
 
 ## A champion for improving access to health care and education
 

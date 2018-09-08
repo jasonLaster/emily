@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["National Security Expert", "Executive"]
 }
 
 import Video from "../Video"
@@ -18,13 +18,21 @@ import Video from "../Video"
 
 Nancy is an experienced leader and a lifelong public servant running for Congress to fight for Florida working families. The daughter of a Korean War veteran, she began her career in policy and government with encouragement from her college professor Madeleine Albright.
 
-- Throughout her outstanding career of service, Nancy has worked closely with the White House, the United Nations, and the Senate.
-
-- She served as the foreign policy director for the Clinton/Gore 1992 campaign and transition team and as senior foreign policy advisor to late Senator Ted Kennedy.
+> Throughout her outstanding career of service, Nancy has worked closely with the White House, the United Nations, and the Senate. She served as the foreign policy director for the Clinton/Gore 1992 campaign and transition team and as senior foreign policy advisor to late Senator Ted Kennedy.
 
 <Video id="NaICigv-b1k" />
 
-Nancy served as the third ranking official of the National Security Council at the White House as deputy assistant to the president for national security affairs. President Bill Clinton next appointed her to serve as alternate representative to the United Nations in 1997, with the rank of Ambassador. She has over a decade of executive leadership experience in global organizations, and is a powerful advocate for conflict prevention and resolution. President Barack Obama appointed Nancy to serve as chair of the Public Interest Declassification Board in 2011, and she worked tirelessly to increase transparency in national security decisions. Nancy currently serves as a professor of foreign policy and director of the public service leadership program at the University of North Florida and is president and CEO of Soderberg Global Solutions, an international consulting firm. She is an author, a member of the Council on Foreign Relations, and serves on the board of advisors to the president of the Naval Postgraduate School and Naval War College.
+Nancy served as the third ranking official of the National Security Council at the White House as deputy assistant to the president for national security affairs.
+
+President Bill Clinton next appointed her to serve as alternate representative to the United Nations in 1997, with the rank of Ambassador.
+
+> She has over a decade of executive leadership experience in global organizations, and is a powerful advocate for conflict prevention and resolution.
+
+President Barack Obama appointed Nancy to serve as chair of the Public Interest Declassification Board in 2011, and she worked tirelessly to increase transparency in national security decisions.
+
+Nancy currently serves as a **professor of foreign policy** and director of the public service leadership program at the University of North Florida and is **president and CEO of Soderberg Global Solutions**, an international consulting firm.
+
+She is an author, a member of the Council on Foreign Relations, and serves on the board of advisors to the president of the Naval Postgraduate School and Naval War College.
 
 ## A fighter dedicated to expanding economic opportunity
 

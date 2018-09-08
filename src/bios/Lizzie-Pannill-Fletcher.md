@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate"]
 }
 
 import Video from "../Video"
@@ -18,13 +18,13 @@ import Video from "../Video"
 
 Lizzie Pannill Fletcher is a community leader and fierce advocate running for Congress to fight for Texas working families. Lizzie is a lawyer who has dedicated her career to representing diverse Houstonians who face many different challenges.
 
-- She co-founded Planned Parenthood Young Leaders in 2000, and has helped recruit a new generation of leaders to fight for the vital health care provider.
+**She co-founded Planned Parenthood Young Leaders in 2000**, and has helped recruit a new generation of leaders to fight for the vital health care provider.
 
-- As a volunteer attorney, Lizzie has worked to dismantle the school-to-prison pipeline in Texas, fighting to promote social and economic justice for all students.
+As a volunteer attorney, Lizzie has _worked to dismantle the school-to-prison pipeline in Texas_, fighting to promote social and economic justice for all students.
 
-- She is dedicated to helping young Houstonians find their voices, and serves on the boards of organizations that create opportunities for students to learn and grow through dance and writing.
+> She is dedicated to helping young Houstonians find their voices, and serves on the boards of organizations that create opportunities for students to learn and grow through dance and writing.
 
-- A fifth-generation Houstonian, Lizzie has deep roots in this city that she said “welcomes newcomers from around the world, that prides itself on scientific discovery, that serves as a hub of innovation, and that takes care of its neighbors.” Lizzie and her husband are proud to call Houston their home.
+A fifth-generation Houstonian, Lizzie has deep roots in this city that she said “welcomes newcomers from around the world, that prides itself on scientific discovery, that serves as a hub of innovation, and that takes care of its neighbors.” Lizzie and her husband are proud to call Houston their home.
 
 <Video id="lXckraM3-pY" />
 

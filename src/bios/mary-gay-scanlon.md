@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Mary Gay Scanlon is a dedicated advocate for justice and equality who will fight for Pennsylvania working families in Congress.
 
-- She currently serves as the national pro bono counsel at her law firm, leading the practice’s work for nonprofit organizations and low-income clients.
+She currently serves as the national pro bono counsel at her law firm, leading the practice’s work for nonprofit organizations and low-income clients.
 
-- Mary Gay previously served as president of the Wallingford Swarthmore School Board and worked as an attorney for the Education Law Center of Pennsylvania, among her involvement in other boards and initiatives dedicated to improving children’s lives.
+Mary Gay previously served as **president of the Wallingford Swarthmore School Board** and worked as an attorney for the Education Law Center of Pennsylvania, among her involvement in other boards and initiatives dedicated to improving children’s lives.
 
-- Mary Gay lives in Swarthmore with her husband and has three grown children.
+Mary Gay lives in Swarthmore with her husband and has three grown children.
 
 <Video id="o7uswXEWgSI" />
 
