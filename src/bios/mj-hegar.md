@@ -2,7 +2,15 @@ import Video from "../Video"
 
 ## A veteran and advocate for working families
 
-MJ Hegar is an Air Force combat veteran running to fight for Texas working families in Congress. Raised in Texas’ Hill Country, MJ grew up dreaming of serving our country as a military pilot. After graduating from the University of Texas at Austin, she enlisted in the Air Force and began training to fly. MJ went on to serve three tours in Afghanistan as a rescue helicopter pilot until her helicopter was shot down by enemy fire. She was awarded a Purple Heart and Distinguished Flying Cross with Valor for her bravery and heroism. She soon discovered that her options for a ground combat military job were limited because she is a woman. MJ partnered with the ACLU to successfully petition the U.S. Department of Defense to overturn the limitations. She published a memoir in 2017, and a film adaptation is currently in production. MJ currently lives in Round Rock with her husband, two toddlers, and three stepchildren.
+MJ Hegar is an Air Force combat veteran running to fight for Texas working families in Congress. Raised in Texas’ Hill Country, MJ grew up dreaming of serving our country as a military pilot. After graduating from the University of Texas at Austin, she enlisted in the Air Force and began training to fly.
+
+- MJ went on to serve three tours in Afghanistan as a **rescue helicopter pilot** until her helicopter was shot down by enemy fire. She was **awarded a Purple Heart** and Distinguished Flying Cross with Valor for her bravery and heroism.
+
+- She soon discovered that her options for a ground combat military job were limited because she is a woman. MJ partnered with the ACLU to successfully petition the U.S. Department of Defense to overturn the limitations.
+
+- She published a memoir in 2017, and a film adaptation is currently in production. MJ currently lives in Round Rock with her husband, two toddlers, and three stepchildren.
+
+<Video id="Zi6v4CYNSIQ" />
 
 ## An advocate for equal opportunity
 
@@ -11,4 +19,3 @@ MJ is a strong advocate for expanding opportunities for women and families. When
 ## A new voice ready to fight for Texans in Congress
 
 MJ won her primary and is now facing off against Republican incumbent Rep. John Carter, a Tea Party extremist who hasn’t faced a tough re-election challenge in years. “We must do better for our veterans, families, and seniors,” MJ has said. “Now is the time to come together to win in November and give Texans the present and available representation we deserve and have been sorely missing.” EMILY’s List strongly agrees, and that’s why we’re proud to be standing alongside this accomplished fighter to help her flip this seat.
-

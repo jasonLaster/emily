@@ -2,7 +2,15 @@ import Video from "../Video"
 
 ## A champion for El Pasoans and border communities across our country
 
-Veronica Escobar is running for Congress in Texas’ 16th Congressional District to fight for El Paso’s working families and to give border communities a new champion in Washington. She has more than a decade of experience as a public servant, most recently serving in her second term as El Paso County judge after completing one term as a county commissioner. A proud third-generation El Pasoan, Veronica grew up knowing the value of hard work through her childhood on the family dairy farm. After finishing graduate school, she returned to her community to teach freshman English and Chicano literature at the University of Texas at El Paso and El Paso Community College. Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the Border Rights Coalition in addition to her work as an educator, and she eventually became co-chair of the coalition. In 2006, she won her first campaign and took office as an El Paso County commissioner before being elected county judge in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
+Veronica Escobar is running for Congress in Texas’ 16th Congressional District to fight for El Paso’s working families and to give border communities a new champion in Washington. She has more than a decade of experience as a public servant, most recently serving in her second term as **El Paso County judge** after completing one term as a **county commissioner**. A proud third-generation El Pasoan, Veronica grew up knowing the value of hard work through her childhood on the family dairy farm.
+
+- After finishing graduate school, she returned to her community to **teach freshman English and Chicano literature** at the University of Texas at El Paso and El Paso Community College.
+
+- Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the Border Rights Coalition in addition to her work as an educator, and she eventually became co-chair of the coalition.
+
+- In 2006, she won her first campaign and took office as an El Paso County commissioner before being elected county judge in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
+
+<Video id="oTu5bNzLkqI" />
 
 ## An experienced leader fighting to increase economic opportunity
 
@@ -11,4 +19,3 @@ Veronica was raised by hardworking Mexican American parents in El Paso, and she 
 ## An opportunity to give Latinas a new voice in the halls of power
 
 Veronica is running for an open seat currently held by Democratic Congressman Beto O’Rourke, who is vacating this seat to run for the U.S. Senate. This dedicated champion for El Pasoans and Texans quickly mounted a formidable grassroots campaign. The Lone Star State is home to millions of Latinas, but the state has never elected a Latina to Congress. Veronica is poised to be the first, and she’s fighting tirelessly for the Texans whose voices aren’t being heard in Washington. Let’s show this champion for working families the full support of the EMILY’s List community and give Latinas a new voice in the halls of power.
-

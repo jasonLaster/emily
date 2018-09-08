@@ -2,7 +2,13 @@ import Video from "../Video"
 
 ## A community leader fighting for progress
 
-Deb Haaland is an accomplished community leader running for Congress to be a new voice for women and families in Washington. Deb was raised in a military family and learned to value public service from a young age — a value that has guided her throughout her career. As a longtime progressive activist, she has successfully fought for change on behalf of her community. When she was chair of the New Mexico Democratic Party, Deb protested the Dakota Access Pipeline in Standing Rock and divested the state party from a company that had invested in the pipeline and for-profit immigration detention facilities. Deb is a member of the Laguna Pueblo tribe who lives in Albuquerque and is a proud single mom of an LGBTQ daughter.
+Deb Haaland is an accomplished community leader running for Congress to be a new voice for women and families in Washington. Deb was raised in a military family and learned to value public service from a young age — a value that has guided her throughout her career.
+
+- As a longtime progressive activist, she has successfully fought for change on behalf of her community. When she was **chair of the New Mexico Democratic Party**, Deb protested the Dakota Access Pipeline in Standing Rock and divested the state party from a company that had invested in the pipeline and for-profit immigration detention facilities.
+
+- Deb is a member of the Laguna Pueblo tribe who lives in Albuquerque and is a proud single mom of an LGBTQ daughter.
+
+<Video id="AKxj7PXT0hs" />
 
 ## A champion for New Mexico’s working families
 
@@ -11,4 +17,3 @@ Deb is driven by her desire to fight for policies that expand economic opportuni
 ## A must-win race for an open seat
 
 Deb is running to fill the seat left open by EMILY’s List-endorsed New Mexico gubernatorial candidate Michelle Lujan Grisham. Following her win in the Democratic primary, Deb has shown she has what it takes to deliver this must-win seat for Democrats to take back the House. She also could make history as the first Native American woman to serve in Congress. “I am not running just to make history — although it is way past time for a voice like mine,” she has said. The EMILY’s List community is proud to stand with this champion for progress in her fight to represent New Mexicans in Washington.
-

@@ -1,13 +1,14 @@
-const candidates = require("./src/candidates")
+const candidates = require("../src/candidates")
 const fs = require('fs')
 // console.log(candidates)
 //
 for (id in candidates) {
   const candidate = candidates[id]
-  printBio(candidate)
+  // printBio(candidate)
   // console.log(candidate.id)
 }
 
+// fs.writeFileSync("./src/candidates2.json", JSON.stringify(candidates, null, 2))
 
 function printBio(candidate) {
 

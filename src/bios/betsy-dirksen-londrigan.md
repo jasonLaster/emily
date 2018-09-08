@@ -2,7 +2,15 @@ import Video from "../Video"
 
 ## A fighter for Illinois working families
 
-Betsy Dirksen Londrigan is an Illinois fighter running for Congress to serve the working families of the community that she has proudly called home all her life. An experienced progressive and nonprofit leader, Betsy has worked for United States Senator Dick Durbin and served as a fundraiser for the Abraham Lincoln Presidential Library Foundation. She has worked as a self-employed entrepreneur while raising her three children, and is a powerful advocate for small businesses that are the backbone of our economy. A champion for access to health care, a deeply personal issue for her family, Betsy has worked tirelessly to support children’s hospitals and to raise funds for the Children’s Miracle Network and St. John’s Children’s Hospital. She was born and raised in Springfield, where she and her husband have raised their three children, adding another generation to their deep family roots in Sangamon County.
+Betsy Dirksen Londrigan is an Illinois fighter running for Congress to serve the working families of the community that she has proudly called home all her life. An experienced progressive and nonprofit leader, Betsy has worked for United States Senator Dick Durbin and served as a fundraiser for the Abraham Lincoln Presidential Library Foundation.
+
+- She has worked as a self-employed entrepreneur while raising her three children, and is a powerful advocate for small businesses that are the backbone of our economy.
+
+- A champion for access to health care, a deeply personal issue for her family, Betsy has worked tirelessly to support children’s hospitals and to raise funds for the Children’s Miracle Network and St. John’s Children’s Hospital.
+
+- She was born and raised in Springfield, where she and her husband have raised their three children, adding another generation to their deep family roots in Sangamon County.
+
+<Video id="ebrIC_ilP2o" />
 
 ## A champion for health care and expanding economic opportunity
 
@@ -11,4 +19,3 @@ Betsy is running to expand economic opportunity and to help create good-paying j
 ## An opportunity to flip a seat from red to blue
 
 Betsy is taking on extreme Republican Congressman Rodney Davis, who has been advancing his party’s dangerous agenda at the expense of the working families he was elected to serve. Davis repeatedly voted to defund Planned Parenthood, voted to undermine equal pay protections for women, and voted for the House Republican health care plan to kick 23 million people off their insurance — threatening the health care coverage of Illinois working families as well as job losses in this district. This seat is a must-win on Democrats’ path to taking back the House, and Betsy has what it takes to flip it from red to blue. Let’s show her the full support of the EMILY’s List community and help elect this champion for Illinois working families to the U.S. House in 2018.
-
