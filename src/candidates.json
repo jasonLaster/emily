@@ -2,6 +2,11 @@
   "cindy-axne": {
     "name": "Cindy Axne",
     "img": "https://www.emilyslist.org/i/images/Cindy-Axne.png/@zx_250@zy_250",
+    "website": "https://cindyaxneforcongress.com/",
+    "videos": [
+      "8ObKgSYY2Zs",
+      "sHaS2rWkQKE"
+    ],
     "location": "Iowa",
     "link": "https://www.emilyslist.org/candidates/cindy-axne",
     "id": "cindy-axne",
@@ -28,6 +33,8 @@
     "location": "Florida",
     "link": "https://www.emilyslist.org/candidates/lauren-baer",
     "id": "lauren-baer",
+    "website": "https://laurenbaerforcongress.com/",
+    "videos": "Snk9kQ4",
     "summary": [
       "A champion for Florida working families",
       "A proven leader fighting to expand economic opportunity",
@@ -49,6 +56,10 @@
     "name": "Dana Balter",
     "img": "https://www.emilyslist.org/i/Dana-Balter.png/@zx_250@zy_250",
     "location": "New York",
+    "website": "https://electdanabalter.com/",
+    "videos": [
+      "2jnrfdVaQLA"
+    ],
     "link": "https://www.emilyslist.org/candidates/dana-balter",
     "id": "dana-balter",
     "summary": [
@@ -72,6 +83,8 @@
     "name": "Nanette Barragán",
     "img": "https://www.emilyslist.org/i/images/Nanette-Barragan.png/@zx_250@zy_250",
     "location": "California",
+    "website": "https://barragan.house.gov//",
+    "videos": [],
     "link": "https://www.emilyslist.org/candidates/nanette-barragan18",
     "id": "nanette-barragan18",
     "summary": [
@@ -96,6 +109,10 @@
     "name": "Mary Barzee Flores",
     "img": "https://www.emilyslist.org/i/images/Flores_Mary-Barzee.png/@zx_250@zy_250",
     "location": "Florida",
+    "website": "https://marybarzeeflores.com/",
+    "videos": [
+      "9Mx0U6j0SEE"
+    ],
     "link": "https://www.emilyslist.org/candidates/mary-barzee-flores",
     "id": "mary-barzee-flores",
     "summary": [
@@ -117,6 +134,10 @@
     "name": "Carolyn Bourdeaux",
     "img": "https://www.emilyslist.org/i/images/Carolyn-Bourdeaux.png/@zx_250@zy_250",
     "location": "Georgia",
+    "website": "https://www.carolyn4congress.com/",
+    "videos": [
+      "o8EGXZ0aIkY"
+    ],
     "link": "https://www.emilyslist.org/candidates/carolyn-bourdeaux",
     "id": "carolyn-bourdeaux",
     "summary": [
@@ -140,6 +161,10 @@
     "name": "Lisa Brown",
     "img": "https://www.emilyslist.org/i/images/Lisa-Brown.png/@zx_250@zy_250",
     "location": "Washington",
+    "website": "https://lisabrownforcongress.com/",
+    "videos": [
+      "4L8T-8sBPwE"
+    ],
     "link": "https://www.emilyslist.org/candidates/lisa-brown",
     "id": "lisa-brown",
     "summary": [
@@ -163,6 +188,10 @@
     "name": "Julia Brownley",
     "img": "https://www.emilyslist.org/i/images/Brownley_Julia_circle.png/@zx_250@zy_250",
     "location": "California",
+    "website": "https://juliabrownley.house.gov/",
+    "videos": [
+      "2citEmVgYZI"
+    ],
     "link": "https://www.emilyslist.org/candidates/julia-brownley-18",
     "id": "julia-brownley-18",
     "summary": [
@@ -186,6 +215,8 @@
     "name": "Cheri Bustos",
     "img": "https://www.emilyslist.org/i/images/Bustos_Cheri_circle.png/@zx_250@zy_250",
     "location": "Illinois",
+    "website": "https://bustos.house.gov/",
+    "videos": [],
     "link": "https://www.emilyslist.org/candidates/cheri-bustos-18",
     "id": "cheri-bustos-18",
     "summary": [
@@ -209,6 +240,8 @@
     "name": "Kristen Carlson",
     "img": "https://www.emilyslist.org/i/images/Kristen-Carlson.png/@zx_250@zy_250",
     "location": "Florida",
+    "website": "",
+    "videos": [],
     "link": "https://www.emilyslist.org/candidates/kristen-carlson",
     "id": "kristen-carlson",
     "summary": [
@@ -230,6 +263,8 @@
   },
   "leslie-cockburn": {
     "name": "Leslie Cockburn",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Leslie-Cockburn.png/@zx_250@zy_250",
     "location": "Virginia",
     "link": "https://www.emilyslist.org/candidates/leslie-cockburn",
@@ -251,6 +286,8 @@
   },
   "linda-coleman": {
     "name": "Linda Coleman",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/Linda-Coleman.png/@zx_250@zy_250",
     "location": "North Carolina",
     "link": "https://www.emilyslist.org/candidates/linda-coleman",
@@ -274,6 +311,8 @@
   },
   "angie-craig-18": {
     "name": "Angie Craig",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Angie-Craig.png/@zx_250@zy_250",
     "location": "Minnesota",
     "link": "https://www.emilyslist.org/candidates/angie-craig-18",
@@ -297,6 +336,8 @@
   },
   "sharice-davids": {
     "name": "Sharice Davids",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Sharice-Davids.png/@zx_250@zy_250",
     "location": "Kansas",
     "link": "https://www.emilyslist.org/candidates/sharice-davids",
@@ -320,6 +361,8 @@
   },
   "madeleine-dean": {
     "name": "Madeleine Dean",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Madeleine-Dean.png/@zx_250@zy_250",
     "location": "Pennsylvania",
     "link": "https://www.emilyslist.org/candidates/madeleine-dean",
@@ -343,6 +386,8 @@
   },
   "betsy-dirksen-londrigan": {
     "name": "Betsy Dirksen Londrigan",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Londrigan_Betsy.png/@zx_250@zy_250",
     "location": "Illinois",
     "link": "https://www.emilyslist.org/candidates/betsy-dirksen-londrigan",
@@ -366,6 +411,8 @@
   },
   "gretchen-driskell-18": {
     "name": "Gretchen Driskell",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Gretchen-Driskell.png/@zx_250@zy_250",
     "location": "Michigan",
     "link": "https://www.emilyslist.org/candidates/gretchen-driskell-18",
@@ -389,6 +436,8 @@
   },
   "kara-eastman": {
     "name": "Kara Eastman",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/Kara-Eastman.png/@zx_250@zy_250",
     "location": "Nebraska",
     "link": "https://www.emilyslist.org/candidates/kara-eastman",
@@ -412,6 +461,8 @@
   },
   "veronica-escobar": {
     "name": "Veronica Escobar",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Escobar-Veronica_circle.png/@zx_250@zy_250",
     "location": "Texas",
     "link": "https://www.emilyslist.org/candidates/veronica-escobar",
@@ -435,6 +486,8 @@
   },
   "abby-finkenauer": {
     "name": "Abby Finkenauer",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Finkenauer-Abby_Square.png/@zx_250@zy_250",
     "location": "Iowa",
     "link": "https://www.emilyslist.org/candidates/abby-finkenauer",
@@ -458,6 +511,8 @@
   },
   "sylvia-garcia": {
     "name": "Sylvia Garcia",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Garcia_Sylvia_circle.png/@zx_250@zy_250",
     "location": "Texas",
     "link": "https://www.emilyslist.org/candidates/sylvia-garcia",
@@ -481,6 +536,8 @@
   },
   "theresa-gasper": {
     "name": "Theresa Gasper",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Theresa-Gasper.png/@zx_250@zy_250",
     "location": "Ohio",
     "link": "https://www.emilyslist.org/candidates/theresa-gasper",
@@ -504,6 +561,8 @@
   },
   "liuba-grechen-shirley": {
     "name": "Liuba Grechen Shirley",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Liuba-Grechen-Shirley.png/@zx_250@zy_250",
     "location": "New York",
     "link": "https://www.emilyslist.org/candidates/liuba-grechen-shirley",
@@ -527,6 +586,8 @@
   },
   "deb-haaland": {
     "name": "Deb Haaland",
+    "website": "",
+    "videos": [],
     "img": "https://www.emilyslist.org/i/images/Deb-Haaland.png/@zx_250@zy_250",
     "location": "New Mexico",
     "link": "https://www.emilyslist.org/candidates/deb-haaland",

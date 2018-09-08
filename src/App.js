@@ -1,77 +1,58 @@
 import React, { Component } from 'react';
-import {List} from 'react-virtualized';
-
+import YouTube from 'react-youtube';
 import candidates from "./candidates"
+import Bio from "./Bio"
+
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from 'react-router-dom'
+
 
 import './App.css';
 
-console.log(List)
-class App extends Component {
+const candidateList = Object.values(candidates)
 
-  state = { selected: "cindy-axne" }
 
-  onClick(candidate) {
-    this.setState({selected: candidate.id})
-  }
-
-  renderCandidateItem(candidate) {
-    const selected = candidate.id == this.state.selected ? "selected" : ""
-    return <div className={`candidate ${selected}`} onClick={() => this.setState({selected: candidate.id})}>
+function Candidate({candidate, selected}) {
+  const isSelected = candidate.id == selected ? "selected" : ""
+  return (
+    <Link className={`candidate ${isSelected}`} to={`/${candidate.id}`}>
       <img className="candidate-img" src={candidate.img}></img>
       <div className="candidate-summary">
         <div className="top">{candidate.name}</div>
         <div className="bottom">{candidate.location}</div>
       </div>
-   </div>
-  }
+    </Link>
+  );
+}
 
+function CandidateList({candidate, selected}) {
+  return <div className="candidates">
+    {candidateList.map(candidate => <Candidate candidate={candidate} selected={selected} />)}
+  </div>
+}
 
-  renderCandidateBio() {
-    if (!this.state.selected) {
-      return null;
-    }
+function CandidatesRoute({match}) {
+  const  { candidateId } = match.params
+  const selected = candidateId || "cindy-axne"
+  return (
+    <div className="App">
+      <CandidateList selected={selected} />
+      <Bio selected={selected} />
+    </div>)
+}
 
-    const candidate = candidates[this.state.selected];
-
-    return <div key={candidate.id} className="candidate-bio">
-      <div className="candidate-header">
-        <img className="candidate-img" src={candidate.img}></img>
-        <div className="candidate-summary">
-          <div className="top">{candidate.name}</div>
-          <div className="bottom">{candidate.location}</div>
-          {/* <ul className="candidate-list">
-            {candidate.summary.map((item,i) => <li key={i} className="summary-item">{item}</li>)}
-          </ul> */}
-
-          <div className="candidate-links">
-            <a className="button" href={candidate.donate}>Donate</a>
-            <a className="facebook" href={candidate.facebook}></a>
-            <a className="twitter" href={candidate.twitter}></a>
-            <a className="emily" href={candidate.link}>Emily's List</a>
-          </div>
-        </div>
-      </div>
-      <div className="candidate-description">
-        <article>
-        {candidate.bio.map((text, index) =>
-          index % 2 === 0 ? <h2>{text}</h2> : <p>{text} </p>
-        )}
-      </article>
-      </div>
-   </div>
-  }
-
+class App extends Component {
   render() {
-    const candidateList = Object.values(candidates)
-    console.log(candidateList)
     return (
-      <div className="App">
-        <div className="candidates">
-        {candidateList.map(candidate => this.renderCandidateItem(candidate))}
-      </div>
-      {this.renderCandidateBio()}
-    </div>
-
+      <Router>
+        <div className="app-wrapper">
+        <Route path="/:candidateId" component={CandidatesRoute}/>
+        <Route exact path="/" component={CandidatesRoute}/>
+        </div>
+      </Router>
     );
   }
 }

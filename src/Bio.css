@@ -1,0 +1,142 @@
+
+.candidate-bio {
+  flex: 1 0 300px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+}
+
+.candidate-bio .candidate-header {
+  flex-direction: row;
+  display: flex;
+  height: auto;
+  width: 80%;
+  max-width: 560px;
+  align-self: center;
+  flex: 0 0 140px;
+}
+
+.candidate-bio .candidate-img{
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin: 10px 5px;
+  border: 1px solid #f4f4f4;
+}
+
+.candidate-bio .candidate-header .candidate-summary {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  align-self: inherit;
+  color: #424242;
+}
+
+.candidate-bio .candidate-header .candidate-summary .top {
+  font-weight: bold;
+}
+
+.candidate-bio .candidate-list {
+  margin-top: 20px;
+  padding-left: 10px;
+}
+.candidate-bio .candidate-summary .summary-item {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.candidate-bio .candidate-description {
+  margin-top: 20px;
+  background: #f4f4f4;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+
+
+.candidate-bio .candidate-links {
+  margin-top: 15px;
+  display: flex;
+  margin: 15px 10px 0 0 ;
+  justify-content: space-around;
+  width: 270px;
+}
+
+
+.candidate-bio .candidate-links a.icon {
+  background-size: 32px 30px none none;
+  width: 23px;
+  height: 23px;
+  display: inline-block;
+  line-height: 30px;
+  opacity: 0.9;
+}
+
+.candidate-bio .candidate-links a.icon:hover {
+  opacity: 1;
+}
+
+.candidate-bio .candidate-links a.facebook {
+    background: url("/facebook.svg");
+}
+.candidate-bio .candidate-links a.emily {
+    background: url("/emily.svg");
+    background-size: 41 23px none none;
+    width: 41px;
+    height: 23px;
+    display: inline-block;
+}
+
+.candidate-bio .candidate-links a.twitter {
+    background: url("/twitter.svg");
+}
+
+.candidate-bio .candidate-links a.youtube {
+    background: url("/youtube.svg");
+}
+
+
+.candidate-bio .candidate-links a.button {
+  background: hsl(220.6, 67.6%, 58.8%);
+  border: none;
+  border-radius: 3px;
+  line-height: 24px;
+  color: hsla(0, 0%, 100%, 0.9);
+  font-size: 16px;
+  padding: 0 20px;
+  border: 1px solid hsl(220.6, 67.6%, 38.8%);
+  text-decoration: none;
+  height: 24px;
+  display: inline-block;
+}
+
+
+.candidate-bio .candidate-links a.button:hover {
+  background: hsl(220.6, 67.6%, 54.8%);
+  border-radius: 3px;
+  border: 1px solid hsl(220.6, 67.6%, 34.8%);
+  cursor: pointer;
+}
+
+.candidate-bio .candidate-description article {
+  width: 80%;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.candidate-bio p {
+  line-height: 26px;
+  color: #808080;
+}
+
+.candidate-bio h2 {
+  font-size: 18px;
+  margin-top: 26px;
+  color: #515151;
+}
+
+.candidate-bio iframe {
+  margin: 20px 30px;
+  display: inline-block;
+}
