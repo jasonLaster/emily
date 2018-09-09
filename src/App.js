@@ -3,7 +3,7 @@ import { candidates } from "./bios"
 import Bio from './Bio'
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Link
 } from 'react-router-dom'
@@ -96,14 +96,6 @@ class App extends Component {
       </div>)
   }
 
-NoMatch = ({match}) => {
-  if (match) {
-    return null;
-  }
-
-  return this.CandidatesRoute({ match })
-}
-
   render() {
     const {query} = this.state
     return (
@@ -111,7 +103,6 @@ NoMatch = ({match}) => {
         <div className="app-wrapper">
           <Route path="/:candidateId" component={this.CandidatesRoute}/>
           <Route exact path="/" component={this.CandidatesRoute}/>
-
         </div>
       </Router>
 
