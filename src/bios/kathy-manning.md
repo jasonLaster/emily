@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/kathy-manning",
   "id": "kathy-manning",
   "donate": "https://www.emilyslist.org/donate/candidate/kathy-manning",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/KathyManningNC/",
   "twitter": "https://twitter.com/kathymanningnc?lang=en",
   "website": "",
   "youtube": "",

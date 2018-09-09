@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/mikie-sherrill",
   "id": "mikie-sherrill",
   "donate": "https://www.emilyslist.org/donate/candidate/mikie-sherrill",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/MikieSherrillForCongress/",
   "twitter": "https://twitter.com/mikiesherrill?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/donna-shalala",
   "id": "donna-shalala",
   "donate": "https://www.emilyslist.org/donate/candidate/donna-shalala",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/public/Donna-Shalala",
   "twitter": "https://twitter.com/donnashalala?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/xochitl-torres-small",
   "id": "xochitl-torres-small",
   "donate": "https://www.emilyslist.org/donate/candidate/xochitl-torres-small",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/XochitlforCongress/",
   "twitter": "https://twitter.com/xochforcongress?lang=en",
   "website": "",
   "youtube": "",

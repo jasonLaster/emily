@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/katie-porter-18",
   "id": "katie-porter-18",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-porter-18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/katieporteroc",
   "twitter": "https://twitter.com/katieporteroc?lang=en",
   "website": "",
   "youtube": "",

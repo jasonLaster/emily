@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/annie-kuster18",
   "id": "annie-kuster18",
   "donate": "https://www.emilyslist.org/donate/candidate/annie-kuster18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/CongresswomanAnnieKuster/",
   "twitter": "https://twitter.com/repanniekuster?lang=en",
   "website": "",
   "youtube": "",

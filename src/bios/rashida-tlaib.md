@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/rashida-tlaib",
   "id": "rashida-tlaib",
   "donate": "https://www.emilyslist.org/donate/candidate/rashida-tlaib",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/RashidaForCongress/",
   "twitter": "https://twitter.com/rashidatlaib?lang=en",
   "website": "",
   "youtube": "",

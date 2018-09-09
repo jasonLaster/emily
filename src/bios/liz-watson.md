@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/liz-watson",
   "id": "liz-watson",
   "donate": "https://www.emilyslist.org/donate/candidate/liz-watson",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/LizForIndiana/",
   "twitter": "https://twitter.com/lizforindiana?lang=en",
   "website": "",
   "youtube": "",

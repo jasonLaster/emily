@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/jessica-morse",
   "id": "jessica-morse",
   "donate": "https://www.emilyslist.org/donate/candidate/jessica-morse",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/Morse4America/",
   "twitter": "https://twitter.com/morse4america?lang=en",
   "website": "",
   "youtube": "",

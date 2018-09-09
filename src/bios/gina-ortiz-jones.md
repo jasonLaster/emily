@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/gina-ortiz-jones",
   "id": "gina-ortiz-jones",
   "donate": "https://www.emilyslist.org/donate/candidate/gina-ortiz-jones",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/GinaOrtizJones/",
   "twitter": "https://twitter.com/ginaortizjones?lang=en",
   "website": "",
   "youtube": "",

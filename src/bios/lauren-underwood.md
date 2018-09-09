@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/lauren-underwood",
   "id": "lauren-underwood",
   "donate": "https://www.emilyslist.org/donate/candidate/lauren-underwood",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/UnderwoodforCongress/",
   "twitter": "https://twitter.com/lunderwood630?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/susan-wild",
   "id": "susan-wild",
   "donate": "https://www.emilyslist.org/donate/candidate/susan-wild",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/wildforcongress/",
   "twitter": "https://twitter.com/wildforcongress?lang=en",
   "website": "",
   "youtube": "",

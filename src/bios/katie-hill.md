@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/katie-hill",
   "id": "katie-hill",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-hill",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/KatieHillforCongress/",
   "twitter": "https://twitter.com/katiehill4ca?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/kathleen-williams",
   "id": "kathleen-williams",
   "donate": "https://www.emilyslist.org/donate/candidate/kathleen-williams",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/Williamsformontana/",
   "twitter": "https://twitter.com/williamsformt?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/jennifer-wexton",
   "id": "jennifer-wexton",
   "donate": "https://www.emilyslist.org/donate/candidate/jennifer-wexton",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/JenniferTWexton/",
   "twitter": "https://twitter.com/jenniferwexton?lang=en",
   "website": "",
   "youtube": "",

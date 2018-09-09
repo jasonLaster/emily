@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/abigail-spanberger",
   "id": "abigail-spanberger",
   "donate": "https://www.emilyslist.org/donate/candidate/abigail-spanberger",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/SpanbergerForCongress/",
   "twitter": "https://twitter.com/spanbergerva07?lang=en",
   "website": "",
   "youtube": "",

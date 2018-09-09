@@ -9,7 +9,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/kristen-carlson",
   "id": "kristen-carlson",
   "donate": "https://www.emilyslist.org/donate/candidate/kristen-carlson",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/public/Kristen-Carlson",
   "twitter": "https://twitter.com/kristenforfl?lang=en",
   "youtube": "",
   "keywords": ["Advocate"]

@@ -7,7 +7,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/theresa-gasper",
   "id": "theresa-gasper",
   "donate": "https://www.emilyslist.org/donate/candidate/theresa-gasper",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/gasperforcongress/",
   "twitter": "https://twitter.com/gasperforoh10?lang=en",
   "youtube": "",
   "keywords": ["Entrepreneur"]

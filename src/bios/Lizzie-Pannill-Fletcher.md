@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/Lizzie-Pannill-Fletcher",
   "id": "Lizzie-Pannill-Fletcher",
   "donate": "https://www.emilyslist.org/donate/candidate/Lizzie-Pannill-Fletcher",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/LizzieForCongress/",
   "twitter": "https://twitter.com/lizzie4congress?lang=en",
   "website": "",
   "youtube": "",

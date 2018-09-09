@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/mj-hegar",
   "id": "mj-hegar",
   "donate": "https://www.emilyslist.org/donate/candidate/mj-hegar",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/MJforTexas/",
   "twitter": "https://twitter.com/mjhegar?lang=en",
   "website": "",
   "youtube": "",

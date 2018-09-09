@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/stephanie-murphy1",
   "id": "stephanie-murphy1",
   "donate": "https://www.emilyslist.org/donate/candidate/stephanie-murphy1",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/public/Stephanie-Murphy",
   "twitter": "https://twitter.com/repstephmurphy?lang=en",
   "website": "",
   "youtube": "",

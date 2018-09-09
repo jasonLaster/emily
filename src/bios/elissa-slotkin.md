@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/elissa-slotkin",
   "id": "elissa-slotkin",
   "donate": "https://www.emilyslist.org/donate/candidate/elissa-slotkin",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/elissaslotkinforcongress/",
   "twitter": "https://twitter.com/elissaslotkin?lang=en",
   "website": "",
   "youtube": "",

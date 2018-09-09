@@ -7,7 +7,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/angie-craig-18",
   "id": "angie-craig-18",
   "donate": "https://www.emilyslist.org/donate/candidate/angie-craig-18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/AngieCraigforCongress/",
   "twitter": "https://twitter.com/angiecraigmn?lang=en",
   "youtube": "",
   "keywords": ["Journalist", "Executive"]

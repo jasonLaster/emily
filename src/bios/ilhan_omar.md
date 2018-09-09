@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/ilhan_omar",
   "id": "ilhan_omar",
   "donate": "https://www.emilyslist.org/donate/candidate/ilhan_omar",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/IlhanMN/",
   "twitter": "https://twitter.com/ilhanmn?lang=en",
   "website": "",
   "youtube": "",

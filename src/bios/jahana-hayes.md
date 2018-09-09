@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/jahana-hayes",
   "id": "jahana-hayes",
   "donate": "https://www.emilyslist.org/donate/candidate/jahana-hayes",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/jahanahayesct/",
   "twitter": "https://twitter.com/jahanahayes?lang=en",
   "website": "",
   "youtube": "",

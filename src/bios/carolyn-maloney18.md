@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/carolyn-maloney18",
   "id": "carolyn-maloney18",
   "donate": "https://www.emilyslist.org/donate/candidate/carolyn-maloney18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/CarolynMaloney/",
   "twitter": "https://twitter.com/carolynbmaloney?lang=en",
   "website": "",
   "youtube": "",

@@ -7,7 +7,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/sylvia-garcia",
   "id": "sylvia-garcia",
   "donate": "https://www.emilyslist.org/donate/candidate/sylvia-garcia",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/public/Sylvia-Garcia",
   "twitter": "https://twitter.com/senatorsylvia",
   "youtube": "",
   "keywords": ["Judge", "Public Servant"]

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/betsy-rader",
   "id": "betsy-rader",
   "donate": "https://www.emilyslist.org/donate/candidate/betsy-rader",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/BetsyRaderOH/",
   "twitter": "https://twitter.com/betsyraderoh?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/elaine-luria",
   "id": "elaine-luria",
   "donate": "https://www.emilyslist.org/donate/candidate/elaine-luria",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/ElaineforCongress/",
   "twitter": "https://twitter.com/elaineluriava?lang=en",
   "website": "",
   "youtube": "",

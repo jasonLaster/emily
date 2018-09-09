@@ -9,7 +9,7 @@ export const meta = {
     "Gbc-Snk9kQ4"
   ],
   "donate": "https://www.emilyslist.org/donate/candidate/lauren-baer",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/LaurenBaerForCongress/",
   "twitter": "https://twitter.com/laurenbaer?lang=en",
   "youtube": "",
   "keywords": ["Policy Expert"]

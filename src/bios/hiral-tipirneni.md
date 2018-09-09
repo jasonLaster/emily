@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/hiral-tipirneni",
   "id": "hiral-tipirneni",
   "donate": "https://www.emilyslist.org/donate/candidate/hiral-tipirneni",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/hiralforcongress/",
   "twitter": "https://twitter.com/hiral4congress?lang=en",
   "website": "",
   "youtube": "",

@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/nancy-soderberg",
   "id": "nancy-soderberg",
   "donate": "https://www.emilyslist.org/donate/candidate/nancy-soderberg",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/SoderbergforCongress/",
   "twitter": "https://twitter.com/nancysoderberg?lang=en",
   "website": "",
   "youtube": "",

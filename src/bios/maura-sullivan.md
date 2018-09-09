@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/maura-sullivan",
   "id": "maura-sullivan",
   "donate": "https://www.emilyslist.org/donate/candidate/maura-sullivan",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/public/Maura-Sullivan",
   "twitter": "https://twitter.com/maurasullivan?lang=en",
   "website": "",
   "youtube": "",

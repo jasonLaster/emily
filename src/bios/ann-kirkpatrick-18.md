@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/ann-kirkpatrick-18",
   "id": "ann-kirkpatrick-18",
   "donate": "https://www.emilyslist.org/donate/candidate/ann-kirkpatrick-18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/KirkpatrickforCongress/",
   "twitter": "https://twitter.com/ann_kirkpatrick?lang=en",
   "website": "",
   "youtube": "",

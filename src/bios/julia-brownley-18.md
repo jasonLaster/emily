@@ -9,7 +9,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/julia-brownley-18",
   "id": "julia-brownley-18",
   "donate": "https://www.emilyslist.org/donate/candidate/julia-brownley-18",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/RepJuliaBrownley/",
   "twitter": "https://twitter.com/juliabrownley26?lang=en",
   "youtube": "",
   "keywords": ["Congresswoman"]

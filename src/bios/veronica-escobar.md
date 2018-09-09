@@ -7,7 +7,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/veronica-escobar",
   "id": "veronica-escobar",
   "donate": "https://www.emilyslist.org/donate/candidate/veronica-escobar",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/voteforveronica/",
   "twitter": "https://twitter.com/vgescobar?lang=en",
   "youtube": "",
   "keywords": ["Judge"]

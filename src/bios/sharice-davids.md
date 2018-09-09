@@ -7,7 +7,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/sharice-davids",
   "id": "sharice-davids",
   "donate": "https://www.emilyslist.org/donate/candidate/sharice-davids",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/ShariceforCongress/",
   "twitter": "https://twitter.com/sharicedavids?lang=en",
   "youtube": "",
   "keywords": ["White House Fellow"]

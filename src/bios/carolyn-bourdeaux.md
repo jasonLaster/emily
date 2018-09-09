@@ -9,7 +9,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/carolyn-bourdeaux",
   "id": "carolyn-bourdeaux",
   "donate": "https://www.emilyslist.org/donate/candidate/carolyn-bourdeaux",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/carolyn4congress/",
   "twitter": "https://twitter.com/carolyn4ga7?lang=en",
   "youtube": "",
   "keywords": ["Professor"]

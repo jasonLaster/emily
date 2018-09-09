@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/haley-stevens",
   "id": "haley-stevens",
   "donate": "https://www.emilyslist.org/donate/candidate/haley-stevens",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/HaleyStevensForCongress/",
   "twitter": "https://twitter.com/haleylive?lang=en",
   "website": "",
   "youtube": "",

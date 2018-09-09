@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/debbie-mucarsel-powell",
   "id": "debbie-mucarsel-powell",
   "donate": "https://www.emilyslist.org/donate/candidate/debbie-mucarsel-powell",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/debbieforfl/",
   "twitter": "https://twitter.com/debbieforfl?lang=en",
   "website": "",
   "youtube": "",

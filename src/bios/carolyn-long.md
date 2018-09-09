@@ -5,7 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/carolyn-long",
   "id": "carolyn-long",
   "donate": "https://www.emilyslist.org/donate/candidate/carolyn-long",
-  "facebook": "https://www.facebook.com/emilyslist",
+  "facebook": "https://www.facebook.com/ElectCarolynLong/",
   "twitter": "https://twitter.com/electlong?lang=en",
   "website": "",
   "youtube": "",
