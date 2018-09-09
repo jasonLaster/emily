@@ -18,7 +18,7 @@
 
 .candidate-bio .header {
   flex: 0 0 35px;
-  background: #633375;
+  background: #457dec;
   width: 100%;
 }
 
@@ -168,4 +168,16 @@
 
 .candidate-bio blockquote p {
   color:  #668cbf;
+}
+
+.header .links {
+  position: absolute;
+  right: 40px;
+  color: hsla(220, 81%, 85%, 1);
+  font-size: 14px;
+}
+.header .links a {
+  display: inline-block;
+  line-height: 35px;
+  color: hsla(220, 81%, 85%, 1);
 }

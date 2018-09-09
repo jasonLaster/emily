@@ -85,7 +85,10 @@ class App extends Component {
           <div className="searchbar">
             <input value={query} className="search" placeholder="Search..." type="text" onChange={e => this.onSearch(e)} />
           </div>
-          <CandidateList selected={selected} candidates={filteredList} search={this.search} />
+          {filteredList.length > 0 ?
+             <CandidateList selected={selected} candidates={filteredList} search={this.search} />
+             : <div className="no-matches">No Matches...</div>}
+
         </div>
 
           <Bio selected={selected} />
