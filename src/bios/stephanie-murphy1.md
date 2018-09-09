@@ -6,7 +6,7 @@ export const meta = {
   "id": "stephanie-murphy1",
   "donate": "https://www.emilyslist.org/donate/candidate/stephanie-murphy1",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/repstephmurphy?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Congresswoman", "Refugee"]

@@ -6,7 +6,7 @@ export const meta = {
   "id": "carolyn-long",
   "donate": "https://www.emilyslist.org/donate/candidate/carolyn-long",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/electlong?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Professor"]

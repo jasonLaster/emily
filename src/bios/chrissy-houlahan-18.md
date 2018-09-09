@@ -6,7 +6,7 @@ export const meta = {
   "id": "chrissy-houlahan-18",
   "donate": "https://www.emilyslist.org/donate/candidate/chrissy-houlahan-18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/houlahanforpa?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Veteran", "Executive", "Teacher"]

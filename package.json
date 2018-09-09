@@ -5,6 +5,7 @@
   "dependencies": {
     "@mdx-js/loader": "^0.15.0-2",
     "@mdx-js/mdx": "^0.15.0-2",
+    "google": "^2.1.0",
     "netlify-cli": "^1.2.3",
     "react": "^16.5.0",
     "react-app-rewired": "^1.6.2",

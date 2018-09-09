@@ -6,7 +6,7 @@ export const meta = {
   "id": "ilhan_omar",
   "donate": "https://www.emilyslist.org/donate/candidate/ilhan_omar",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/ilhanmn?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Assistant Minority Leader", "Refugee"]

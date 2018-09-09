@@ -8,7 +8,7 @@ export const meta = {
   "id": "liuba-grechen-shirley",
   "donate": "https://www.emilyslist.org/donate/candidate/liuba-grechen-shirley",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/liuba4congress?lang=en",
   "youtube": "",
   "keywords": ["Advocate"]
 }

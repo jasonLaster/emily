@@ -6,7 +6,7 @@ export const meta = {
   "id": "betsy-rader",
   "donate": "https://www.emilyslist.org/donate/candidate/betsy-rader",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/betsyraderoh?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Civil Rights Advocate"]

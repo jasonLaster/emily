@@ -6,7 +6,7 @@ export const meta = {
   "id": "susie-lee-18",
   "donate": "https://www.emilyslist.org/donate/candidate/susie-lee-18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/susieleenv?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Advocate"]

@@ -8,7 +8,7 @@ export const meta = {
   "id": "linda-coleman",
   "donate": "https://www.emilyslist.org/donate/candidate/linda-coleman",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/lindafornc?lang=en",
   "youtube": "",
   "keywords": ["Public Servant", "Trustee"]
 }

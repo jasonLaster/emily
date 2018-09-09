@@ -8,7 +8,7 @@ export const meta = {
   "id": "leslie-cockburn",
   "donate": "https://www.emilyslist.org/donate/candidate/leslie-cockburn",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/lesliecockburn?lang=en",
   "youtube": "",
   "keywords": ["Journalist"]
 }

@@ -6,7 +6,7 @@ export const meta = {
   "id": "rashida-tlaib",
   "donate": "https://www.emilyslist.org/donate/candidate/rashida-tlaib",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/rashidatlaib?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Public Servant"]

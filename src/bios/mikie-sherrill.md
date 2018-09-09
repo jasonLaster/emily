@@ -6,7 +6,7 @@ export const meta = {
   "id": "mikie-sherrill",
   "donate": "https://www.emilyslist.org/donate/candidate/mikie-sherrill",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/mikiesherrill?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Veteran", "Prosecutor"]

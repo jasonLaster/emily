@@ -6,7 +6,7 @@ export const meta = {
   "id": "gina-ortiz-jones",
   "donate": "https://www.emilyslist.org/donate/candidate/gina-ortiz-jones",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/ginaortizjones?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["National Security Expert"]

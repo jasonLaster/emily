@@ -6,7 +6,7 @@ export const meta = {
   "id": "nancy-soderberg",
   "donate": "https://www.emilyslist.org/donate/candidate/nancy-soderberg",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/nancysoderberg?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["National Security Expert", "Executive"]

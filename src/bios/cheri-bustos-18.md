@@ -10,7 +10,7 @@ export const meta = {
   "id": "cheri-bustos-18",
   "donate": "https://www.emilyslist.org/donate/candidate/cheri-bustos-18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/repcheri?lang=en",
   "youtube": "",
   "keywords": ["Congresswoman", "Journalist"]
 }

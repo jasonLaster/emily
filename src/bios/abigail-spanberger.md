@@ -6,7 +6,7 @@ export const meta = {
   "id": "abigail-spanberger",
   "donate": "https://www.emilyslist.org/donate/candidate/abigail-spanberger",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/spanbergerva07?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Law Enforcement"]

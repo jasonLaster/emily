@@ -6,7 +6,7 @@ export const meta = {
   "id": "katie-hill",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-hill",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/katiehill4ca?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Executive"]

@@ -10,7 +10,7 @@ export const meta = {
   "id": "lisa-brown",
   "donate": "https://www.emilyslist.org/donate/candidate/lisa-brown",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/lisa4congress?lang=en",
   "youtube": "",
   "keywords": ["Senate Majority Leader"]
 }

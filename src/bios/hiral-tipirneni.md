@@ -6,7 +6,7 @@ export const meta = {
   "id": "hiral-tipirneni",
   "donate": "https://www.emilyslist.org/donate/candidate/hiral-tipirneni",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/hiral4congress?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Doctor", "Immigrant"]

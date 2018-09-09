@@ -6,7 +6,7 @@ export const meta = {
   "id": "kathy-manning",
   "donate": "https://www.emilyslist.org/donate/candidate/kathy-manning",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/kathymanningnc?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Executive", "Attorney"]

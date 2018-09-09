@@ -10,7 +10,7 @@ export const meta = {
   "id": "mary-barzee-flores",
   "donate": "https://www.emilyslist.org/donate/candidate/mary-barzee-flores",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/mbfforcongress?lang=en",
   "youtube": "",
   "keywords": ["Judge", "Public Defender"]
 }

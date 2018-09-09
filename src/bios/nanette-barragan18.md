@@ -8,7 +8,7 @@ export const meta = {
   "id": "nanette-barragan18",
   "donate": "https://www.emilyslist.org/donate/candidate/nanette-barragan18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/repbarragan?lang=en",
   "youtube": "",
   "keywords": ["Congresswoman"]
 }

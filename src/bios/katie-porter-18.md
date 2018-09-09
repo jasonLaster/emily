@@ -6,7 +6,7 @@ export const meta = {
   "id": "katie-porter-18",
   "donate": "https://www.emilyslist.org/donate/candidate/katie-porter-18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/katieporteroc?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Consumer Advocate"]

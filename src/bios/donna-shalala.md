@@ -6,7 +6,7 @@ export const meta = {
   "id": "donna-shalala",
   "donate": "https://www.emilyslist.org/donate/candidate/donna-shalala",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/donnashalala?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Executive"]

@@ -6,7 +6,7 @@ export const meta = {
   "id": "mj-hegar",
   "donate": "https://www.emilyslist.org/donate/candidate/mj-hegar",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/mjhegar?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Veteran"]

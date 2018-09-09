@@ -6,7 +6,7 @@ export const meta = {
   "id": "elaine-luria",
   "donate": "https://www.emilyslist.org/donate/candidate/elaine-luria",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/elaineluriava?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Veteran"]

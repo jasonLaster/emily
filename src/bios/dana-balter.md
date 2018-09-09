@@ -10,7 +10,7 @@ export const meta = {
   "id": "dana-balter",
   "donate": "https://www.emilyslist.org/donate/candidate/dana-balter",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/dana_balter?lang=en",
   "youtube": "",
   "keywords": ["Community Leader"]
 }

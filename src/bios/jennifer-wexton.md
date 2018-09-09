@@ -6,7 +6,7 @@ export const meta = {
   "id": "jennifer-wexton",
   "donate": "https://www.emilyslist.org/donate/candidate/jennifer-wexton",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/jenniferwexton?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Judge", "Prosectutor"]

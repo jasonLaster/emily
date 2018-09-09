@@ -6,7 +6,7 @@ export const meta = {
   "id": "jessica-morse",
   "donate": "https://www.emilyslist.org/donate/candidate/jessica-morse",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/morse4america?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["National Security Expert"]

@@ -6,7 +6,7 @@ export const meta = {
   "id": "susan-wild",
   "donate": "https://www.emilyslist.org/donate/candidate/susan-wild",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/wildforcongress?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Publc Servant"]

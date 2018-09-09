@@ -8,7 +8,7 @@ export const meta = {
   "id": "madeleine-dean",
   "donate": "https://www.emilyslist.org/donate/candidate/madeleine-dean",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/mad4pa?lang=en",
   "youtube": "",
   "keywords": ["Professor", "Public Servant"]
 }

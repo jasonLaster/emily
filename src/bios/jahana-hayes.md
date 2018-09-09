@@ -6,7 +6,7 @@ export const meta = {
   "id": "jahana-hayes",
   "donate": "https://www.emilyslist.org/donate/candidate/jahana-hayes",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/jahanahayes?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Teacher"]

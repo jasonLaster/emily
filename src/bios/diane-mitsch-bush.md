@@ -6,7 +6,7 @@ export const meta = {
   "id": "diane-mitsch-bush",
   "donate": "https://www.emilyslist.org/donate/candidate/diane-mitsch-bush",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/repdmb?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Professor"]

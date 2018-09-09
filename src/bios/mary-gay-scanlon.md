@@ -6,7 +6,7 @@ export const meta = {
   "id": "mary-gay-scanlon",
   "donate": "https://www.emilyslist.org/donate/candidate/mary-gay-scanlon",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/marygayscanlon?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Advocate"]

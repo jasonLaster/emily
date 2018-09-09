@@ -11,7 +11,7 @@ export const meta = {
   "id": "cindy-axne",
   "donate": "https://www.emilyslist.org/donate/candidate/cindy-axne",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/axne4congress?lang=en",
   "youtube": "",
   "keywords": ["Entrepreneur"]
 }

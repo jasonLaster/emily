@@ -6,7 +6,7 @@ export const meta = {
   "id": "lauren-underwood",
   "donate": "https://www.emilyslist.org/donate/candidate/lauren-underwood",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/lunderwood630?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["HHS Senior Advisor"]

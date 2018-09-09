@@ -8,7 +8,7 @@ export const meta = {
   "id": "angie-craig-18",
   "donate": "https://www.emilyslist.org/donate/candidate/angie-craig-18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/angiecraigmn?lang=en",
   "youtube": "",
   "keywords": ["Journalist", "Executive"]
 }

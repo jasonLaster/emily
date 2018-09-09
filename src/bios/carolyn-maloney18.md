@@ -6,7 +6,7 @@ export const meta = {
   "id": "carolyn-maloney18",
   "donate": "https://www.emilyslist.org/donate/candidate/carolyn-maloney18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/carolynbmaloney?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Congresswoman"]

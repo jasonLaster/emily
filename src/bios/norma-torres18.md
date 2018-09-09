@@ -6,7 +6,7 @@ export const meta = {
   "id": "norma-torres18",
   "donate": "https://www.emilyslist.org/donate/candidate/norma-torres18",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/normajtorres?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Congresswoman"]

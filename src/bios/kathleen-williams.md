@@ -6,7 +6,7 @@ export const meta = {
   "id": "kathleen-williams",
   "donate": "https://www.emilyslist.org/donate/candidate/kathleen-williams",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/williamsformt?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Public Servant"]

@@ -6,7 +6,7 @@ export const meta = {
   "id": "kim-schrier",
   "donate": "https://www.emilyslist.org/donate/candidate/kim-schrier",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/drkimschrier?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Doctor"]

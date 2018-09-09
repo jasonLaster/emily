@@ -6,7 +6,7 @@ export const meta = {
   "id": "maura-sullivan",
   "donate": "https://www.emilyslist.org/donate/candidate/maura-sullivan",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/maurasullivan?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Veteran"]

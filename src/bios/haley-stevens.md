@@ -6,7 +6,7 @@ export const meta = {
   "id": "haley-stevens",
   "donate": "https://www.emilyslist.org/donate/candidate/haley-stevens",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/haleylive?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Senior Official"]

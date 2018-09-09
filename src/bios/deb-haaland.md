@@ -8,7 +8,7 @@ export const meta = {
   "id": "deb-haaland",
   "donate": "https://www.emilyslist.org/donate/candidate/deb-haaland",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/deb4congressnm?lang=en",
   "youtube": "",
   "keywords": ["Activist"]
 }

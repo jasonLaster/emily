@@ -6,7 +6,7 @@ export const meta = {
   "id": "debbie-mucarsel-powell",
   "donate": "https://www.emilyslist.org/donate/candidate/debbie-mucarsel-powell",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/debbieforfl?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Advocate", "Immigrant"]

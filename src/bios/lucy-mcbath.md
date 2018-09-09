@@ -6,7 +6,7 @@ export const meta = {
   "id": "lucy-mcbath",
   "donate": "https://www.emilyslist.org/donate/candidate/lucy-mcbath",
   "facebook": "https://www.facebook.com/emilyslist",
-  "twitter": "https://twitter.com/emilyslist",
+  "twitter": "https://twitter.com/lucywins2018?lang=en",
   "website": "",
   "youtube": "",
   "keywords": ["Activist"]
