@@ -177,3 +177,53 @@ body {
 .searchbar input::placeholder:focus {
   color: hsla(220, 81%, 95%, 1);
 }
+
+.App .candidate-bio .header .back {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .sidebar {
+    flex: auto;
+  }
+
+  .App.selected .sidebar {
+    display: none;
+  }
+
+  .App.selected .candidate-bio .header * {
+    display: none;
+  }
+
+  .App.selected .candidate-bio .header .back {
+    display: block;
+    color: white;
+    line-height: 35px;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+
+  .App.selected .candidate-bio .button {
+    display: none;
+  }
+
+  .App.selected .candidate-bio .candidate-summary {
+    flex: 0 0 100%;
+  }
+
+  .App.selected .candidate-bio .candidate-links {
+    justify-content: flex-start;
+  }
+
+  .App.selected .candidate-bio .candidate-links div {
+    margin-right: 5px;
+  }
+
+  .candidate-bio iframe {
+    margin: 20px -20px;
+  }
+
+  .App:not(.selected) .candidate-bio {
+    display: none;
+  }
+}

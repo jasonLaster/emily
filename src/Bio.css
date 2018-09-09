@@ -58,6 +58,12 @@
   overflow-y: auto;
 }
 
+.candidate-bio .candidate-summary {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
 .candidate-bio .candidate-summary .bottom {
   color: hsl(0, 0%, 42.9%);
   margin-top: 4px;
@@ -68,7 +74,7 @@
   margin-top: 15px;
   display: flex;
   margin: 15px 10px 0 0;
-  justify-content: space-around;
+  justify-content: start;
   width: 270px;
 }
 
@@ -79,6 +85,7 @@
   display: inline-block;
   line-height: 30px;
   opacity: 0.9;
+  margin-right: 10px;
 }
 
 .candidate-bio .candidate-links a.icon:hover {
@@ -116,6 +123,7 @@
   text-decoration: none;
   height: 24px;
   display: inline-block;
+  margin-right: 10px;
 }
 
 .candidate-bio .candidate-links a.button:hover {

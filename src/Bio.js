@@ -1,6 +1,7 @@
 import React from "react";
 import { CandidateBio } from "./bios";
 import { candidates } from "./bios";
+import { Link } from "react-router-dom";
 
 import "./Bio.css";
 
@@ -44,6 +45,10 @@ function Banner({ starCount, toggleShowStars, showStars }) {
   const noStars = starCount == 0;
   return (
     <div className="header">
+      <Link className={`back`} to={`/`}>
+        ← Back
+      </Link>
+
       <div
         className={`stars ${noStars ? "no-stars" : ""} ${
           showStars ? "active" : ""

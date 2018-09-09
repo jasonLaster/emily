@@ -1,12 +1,14 @@
-import React from 'react';
-import YouTube from 'react-youtube';
+import React from "react";
+import YouTube from "react-youtube";
 
-export default function ({id}) {
-  return <YouTube
-   videoId={id}
-   opts={{
-     height: '312',
-     width: '500',
-   }}
- />
+export default function({ id }) {
+  let width = 500;
+  let height = 312;
+
+  if (window.outerWidth <= 700) {
+    width = window.outerWidth * 0.8;
+    height = width / 1.6;
+  }
+
+  return <YouTube videoId={id} opts={{ height, width }} />;
 }

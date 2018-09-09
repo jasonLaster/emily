@@ -115,7 +115,7 @@ class App extends Component {
 
     this.selected = selected;
     return (
-      <div className="App">
+      <div className={`App ${candidateId ? "selected" : ""}`}>
         <div className="sidebar">
           <div className="searchbar">
             <input
