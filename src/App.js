@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import YouTube from 'react-youtube';
 import { candidates } from "./bios"
-
-import { MDXProvider } from '@mdx-js/tag'
 import Bio from './Bio'
 
 import {
@@ -16,24 +13,34 @@ import './App.css';
 
 const candidateList = Object.values(candidates)
 
-function Candidate({candidate, selected}) {
-  const isSelected = candidate.id == selected ? "selected" : ""
+function Candidate({candidate, selected, search}) {
+  const isSelected = candidate.id === selected ? "selected" : ""
   return (
     <Link className={`candidate ${isSelected}`} to={`/${candidate.id}`}>
       <img className="candidate-img" src={candidate.img}></img>
       <div className="candidate-summary">
         <div className="top">{candidate.name}</div>
         <div className="location">{candidate.location}</div>
-        <div className="keywords">{candidate.keywords.map(key => <span key={key} className="keyword">{key}</span>)}</div>
+        <div className="keywords">{candidate.keywords.map(key =>
+          <span key={key} onClick={() => search(key)} className="keyword">{key}</span>)}
+        </div>
       </div>
     </Link>
   );
 }
 
-function CandidateList({candidate, selected}) {
-  return <div className="candidates">
-    {candidateList.map(candidate => <Candidate candidate={candidate} selected={selected} />)}
-  </div>
+function matchCandidate(query, candidate) {
+  const rQuery = new RegExp(query, "i");
+  return query === "" ||
+    candidate.name.match(rQuery) ||
+    candidate.location.match(rQuery) ||
+    candidate.keywords.join(" ").match(rQuery)
+}
+
+function CandidateList({candidates, selected, search}) {
+  return  <div className="candidates">
+      {candidates.map(candidate => <Candidate key={candidate.id} search={search} candidate={candidate} selected={selected} />)}
+    </div>
 }
 
 function scrollToSelectedEl() {
@@ -44,40 +51,59 @@ function scrollToSelectedEl() {
   }
 }
 
-
 class App extends Component {
-  // state = {selected: null}
   selected = null;
+  state = {query: ""};
 
-  componentDidUpdate() {
-    console.log('yo', this.selected)
+  onSearch(e) {
+    const {value} = e.target;
+    this.setState({query: value})
+  }
+
+  search = query => {
+    this.setState({query})
   }
 
   componentDidMount() {
     scrollToSelectedEl()
   }
 
-  CandidatesRoute(match) {
+  CandidatesRoute = ({match}) =>{
     const  { candidateId } = match.params
-    const selected = candidateId || "cindy-axne"
+    const {query} = this.state;
+    const filteredList = candidateList.filter(candidate => matchCandidate(query, candidate))
+
+    let selected = filteredList.length > 0 ? filteredList[0].id : null;
+    if (candidateId && filteredList.map(c => c.id).includes(candidateId)) {
+      selected = candidateId;
+    }
+
     this.selected = selected;
     return (
       <div className="App">
-        <CandidateList selected={selected} />
-        <Bio selected={selected} />
+        <div  className="sidebar">
+          <div className="searchbar">
+            <input value={query} className="search" placeholder="Search..." type="text" onChange={e => this.onSearch(e)} />
+          </div>
+          <CandidateList selected={selected} candidates={filteredList} search={this.search} />
+        </div>
+
+          <Bio selected={selected} />
+
       </div>)
   }
 
 
   render() {
-    return ( <MDXProvider>
-          <Router>
-            <div className="app-wrapper">
-            <Route path="/:candidateId" component={({match}) => this.CandidatesRoute(match)}/>
-            <Route exact path="/" component={({match}) => this.CandidatesRoute(match)}/>
-            </div>
-          </Router>
-       </MDXProvider>
+    const {query} = this.state
+    return (
+      <Router>
+        <div className="app-wrapper">
+          <Route key="a" path="/:candidateId" component={this.CandidatesRoute}/>
+          <Route key="b" exact path="/" component={this.CandidatesRoute}/>
+        </div>
+      </Router>
+
     );
   }
 }

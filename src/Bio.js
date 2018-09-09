@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import candidates from "./candidates"
 import { CandidateBio } from "./bios"
 
@@ -6,7 +6,7 @@ import "./Bio.css"
 
 function Header({candidate}) {
   return <div className="candidate-header">
-    <img className="candidate-img" src={candidate.img}></img>
+    <img alt={candidate.name} className="candidate-img" src={candidate.img}></img>
     <div className="candidate-summary">
       <div className="top">{candidate.name}</div>
       <div className="bottom">{candidate.location}</div>
@@ -27,16 +27,16 @@ function Article({candidate}) {
 }
 
 export default function renderCandidateBio({selected}) {
-  if (!selected) {
-    return null;
+  const candidate = candidates[selected];
+  if (!candidate) {
+    return <div className="candidate-bio"><div className="header"></div></div>
   }
 
-  const candidate = candidates[selected];
-
   return <div key={candidate.id} className="candidate-bio">
-    <Header candidate={candidate} />
-    <div className="candidate-description">
-      <Article candidate={candidate} />
-    </div>
+    <div className="header"></div>
+      <Header candidate={candidate} />
+      <div className="candidate-description">
+        <Article candidate={candidate} />
+      </div>
  </div>
 }

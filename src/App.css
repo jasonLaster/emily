@@ -4,10 +4,10 @@ body {
 
 .App {
   display: flex;
+  height: 100vh;
 }
 
 .candidates {
-  flex: 0 0 400px;
   height: 100vh;
   overflow-y: auto;
 }
@@ -76,4 +76,44 @@ body {
     float: left;
     word-break: keep-all;
     margin-bottom: 4px;
+}
+
+.candidate .keyword:hover {
+  background: hsla(206, 79%, 94%, 1);
+  cursor: pointer;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 400px;
+}
+
+.searchbar {
+  flex: 0 0 30px;
+  padding-top: 5px;
+  background: #633375;
+}
+
+.searchbar input {
+  width: calc(100% - 70px);
+  line-height: 20px;
+  background: hsla(284, 39%, 37%, 1);
+  border: 1px solid hsla(284, 39%, 37%, 1);
+  border-radius: 5px;
+  font-size: 14px;
+  padding-left: 10px;
+  margin: 0 20px;
+  display: block;
+  color: hsla(284, 39%, 85%, 1);
+}
+
+.searchbar input:focus {
+  border: 1px solid hsla(284, 39%, 45%, 1);
+  /* background: hsla(284, 39%, 47%, 1); */
+  outline: none;
+}
+
+.searchbar input::placeholder {
+  color: hsla(284, 39%, 85%, 1);
 }
