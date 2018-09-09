@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/MikieSherrillForCongress/",
   "twitter": "https://twitter.com/mikiesherrill?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/sherrillablog",
   "youtube": "https://www.youtube.com/channel/UCR3vtY_9uTyhWmiF2R8awzg",
   "keywords": ["Veteran", "Prosecutor"]
 }

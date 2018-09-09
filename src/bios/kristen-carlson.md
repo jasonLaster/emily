@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Kristen-Carlson.png/@zx_250@zy_250",
   "location": "Florida",
   "website": "",
+  "actblue": "",
   "videos": [
     "RqKWqLOd_2M"
   ],

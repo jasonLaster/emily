@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Brownley_Julia_circle.png/@zx_250@zy_250",
   "location": "California 26th ",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/julia-brownley-victory-fund-1",
   "videos": [
     "2citEmVgYZI"
   ],

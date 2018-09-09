@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Abby Finkenauer",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw4abbyf2018",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Finkenauer-Abby_Square.png/@zx_250@zy_250",
   "location": "Iowa",

@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/JenniferTWexton/",
   "twitter": "https://twitter.com/jenniferwexton?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_va10",
   "youtube": "",
   "keywords": ["Judge", "Prosectutor"]
 }

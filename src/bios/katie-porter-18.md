@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/katieporteroc",
   "twitter": "https://twitter.com/katieporteroc?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/bluerevforkp",
   "youtube": "",
   "keywords": ["Consumer Advocate"]
 }

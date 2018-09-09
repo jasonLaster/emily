@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/DrKimSchrier/",
   "twitter": "https://twitter.com/drkimschrier?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw4kims2018",
   "youtube": "",
   "keywords": ["Doctor"]
 }

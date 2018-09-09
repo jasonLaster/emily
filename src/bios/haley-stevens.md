@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/HaleyStevensForCongress/",
   "twitter": "https://twitter.com/haleylive?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "https://www.youtube.com/channel/UC8m5KMBA8Ja7nwrSaVXhJ_w",
   "keywords": ["Senior Official"]
 }

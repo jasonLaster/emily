@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/RepDMB/",
   "twitter": "https://twitter.com/repdmb?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "",
   "keywords": ["Professor"]
 }

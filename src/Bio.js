@@ -19,7 +19,7 @@ function Header({ candidate }) {
         <div className="bottom">{candidate.location}</div>
 
         <div className="candidate-links">
-          <a className="button" href={candidate.donate}>
+          <a className="button" href={candidate.actblue || candidate.donate}>
             Donate
           </a>
           <a className="icon facebook" href={candidate.facebook} />

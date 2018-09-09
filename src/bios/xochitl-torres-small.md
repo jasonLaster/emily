@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/XochitlforCongress/",
   "twitter": "https://twitter.com/xochforcongress?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/earlblumenauer-torres-small",
   "youtube": "",
   "keywords": ["Advocate"]
 }

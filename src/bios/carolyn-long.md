@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/ElectCarolynLong/",
   "twitter": "https://twitter.com/electlong?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/earlblumenauer-carolynlong",
   "youtube": "https://www.youtube.com/channel/UCLD7TID0r2WNUBrodPESLjg",
   "keywords": ["Professor"]
 }

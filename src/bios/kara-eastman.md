@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Kara Eastman",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/peace_action_keastman",
   "videos": [],
   "img": "https://www.emilyslist.org/i/Kara-Eastman.png/@zx_250@zy_250",
   "location": "Nebraska",

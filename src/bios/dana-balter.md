@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/Dana-Balter.png/@zx_250@zy_250",
   "location": "New York 24th",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/bjny24",
   "videos": [
     "2jnrfdVaQLA"
   ],

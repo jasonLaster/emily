@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/KirkpatrickforCongress/",
   "twitter": "https://twitter.com/ann_kirkpatrick?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw4annk2018",
   "youtube": "https://www.youtube.com/channel/UCZNx8MPyjQH7ryZGrCXxQJQ",
   "keywords": ["Teacher", "Congresswoman"]
 }

@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/KatieHillforCongress/",
   "twitter": "https://twitter.com/katiehill4ca?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_ca25",
   "youtube": "https://www.youtube.com/channel/UCPywtKt4VZZgj4P1hVNvizA",
   "keywords": ["Executive"]
 }

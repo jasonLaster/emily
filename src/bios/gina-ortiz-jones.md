@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/GinaOrtizJones/",
   "twitter": "https://twitter.com/ginaortizjones?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_tx23",
   "youtube": "https://www.youtube.com/channel/UC6e6dzam49qUp3fDH_G3Tlw",
   "keywords": ["National Security Expert"]
 }

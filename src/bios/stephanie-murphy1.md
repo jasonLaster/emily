@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/public/Stephanie-Murphy",
   "twitter": "https://twitter.com/repstephmurphy?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/ivfw-fl-smurphy",
   "youtube": "https://www.youtube.com/channel/UCmd4mo5owVTGetYcPmkcI1g",
   "keywords": ["Congresswoman", "Refugee"]
 }

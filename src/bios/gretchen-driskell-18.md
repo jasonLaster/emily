@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Gretchen Driskell",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/gdfb_eoq",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Gretchen-Driskell.png/@zx_250@zy_250",
   "location": "Michigan",

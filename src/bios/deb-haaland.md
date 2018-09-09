@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Deb Haaland",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/haalandablog",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Deb-Haaland.png/@zx_250@zy_250",
   "location": "New Mexico",

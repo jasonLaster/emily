@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/RashidaForCongress/",
   "twitter": "https://twitter.com/rashidatlaib?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "",
   "keywords": ["Public Servant"]
 }

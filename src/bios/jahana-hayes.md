@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/jahanahayesct/",
   "twitter": "https://twitter.com/jahanahayes?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_ct05",
   "youtube": "https://www.youtube.com/channel/UC1px5TjAdWt5wZSRGWu3z6w",
   "keywords": ["Teacher"]
 }

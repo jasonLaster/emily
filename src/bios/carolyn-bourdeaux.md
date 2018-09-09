@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Carolyn-Bourdeaux.png/@zx_250@zy_250",
   "location": "Georgia 7th",
   "website": "",
+  "actblue": "",
   "videos": [
     "o8EGXZ0aIkY"
   ],

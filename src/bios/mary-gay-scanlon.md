@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/marygayscanlon/",
   "twitter": "https://twitter.com/marygayscanlon?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_pa05",
   "youtube": "",
   "keywords": ["Advocate"]
 }

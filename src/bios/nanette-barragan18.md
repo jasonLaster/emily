@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Nanette-Barragan.png/@zx_250@zy_250",
   "location": "California 44th ",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/nanette-barragan-1",
   "videos": [],
   "link": "https://www.emilyslist.org/candidates/nanette-barragan18",
   "id": "nanette-barragan18",

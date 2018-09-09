@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/SoderbergforCongress/",
   "twitter": "https://twitter.com/nancysoderberg?lang=en",
   "website": "",
+  "actblue": "https://donate.jstreetpac.org/candidate/nancy-soderberg/",
   "youtube": "",
   "keywords": ["National Security Expert", "Executive"]
 }

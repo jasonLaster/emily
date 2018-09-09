@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Sharice Davids",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/bjsd",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Sharice-Davids.png/@zx_250@zy_250",
   "location": "Kansas",

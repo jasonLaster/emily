@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Veronica Escobar",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dkendorsesveronicaescobar",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Escobar-Veronica_circle.png/@zx_250@zy_250",
   "location": "Texas 18th ",

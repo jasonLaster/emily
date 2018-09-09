@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Sylvia Garcia",
   "website": "",
+  "actblue": "",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Garcia_Sylvia_circle.png/@zx_250@zy_250",
   "location": "Texas",

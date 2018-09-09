@@ -58,6 +58,12 @@
   overflow-y: auto;
 }
 
+.candidate-bio .candidate-summary .bottom {
+  color: hsl(0, 0%, 42.9%);
+  margin-top: 4px;
+  font-size: 18px;
+}
+
 .candidate-bio .candidate-links {
   margin-top: 15px;
   display: flex;

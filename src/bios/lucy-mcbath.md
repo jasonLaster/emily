@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/lucywins2018/",
   "twitter": "https://twitter.com/lucywins2018?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "",
   "keywords": ["Activist"]
 }

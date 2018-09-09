@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/ElaineforCongress/",
   "twitter": "https://twitter.com/elaineluriava?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/ny4elaine",
   "youtube": "https://www.youtube.com/channel/UCeoEqYRera48rHYdt8Hj4vQ",
   "keywords": ["Veteran"]
 }

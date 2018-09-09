@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Bustos_Cheri_circle.png/@zx_250@zy_250",
   "location": "Illinois",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/cheri",
   "videos": [
     "K2bC-guFzHM"
   ],

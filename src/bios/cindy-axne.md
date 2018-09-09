@@ -2,6 +2,7 @@ export const meta = {
   "name": "Cindy Axne",
   "img": "https://www.emilyslist.org/i/images/Cindy-Axne.png/@zx_250@zy_250",
   "website": "",
+  "actblue": "",
   "videos": [
     "8ObKgSYY2Zs",
     "sHaS2rWkQKE"

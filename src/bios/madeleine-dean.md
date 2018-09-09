@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Madeleine Dean",
   "website": "",
+  "actblue": "",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Madeleine-Dean.png/@zx_250@zy_250",
   "location": "Pennsylvania",

@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/CongresswomanAnnieKuster/",
   "twitter": "https://twitter.com/repanniekuster?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/amk20142",
   "youtube": "",
   "keywords": ["Attorney"]
 }

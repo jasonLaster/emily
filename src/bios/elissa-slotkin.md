@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/elissaslotkinforcongress/",
   "twitter": "https://twitter.com/elissaslotkin?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/ipc2018",
   "youtube": "",
   "keywords": ["Veteran"]
 }

@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/Morse4America/",
   "twitter": "https://twitter.com/morse4america?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/climatehawks4morse",
   "youtube": "https://www.youtube.com/channel/UCaX8RNDbPrfNRAnoQCzoBjg",
   "keywords": ["National Security Expert"]
 }

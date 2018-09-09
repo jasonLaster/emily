@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Betsy Dirksen Londrigan",
   "website": "",
+  "actblue": "",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Londrigan_Betsy.png/@zx_250@zy_250",
   "location": "Illinois",

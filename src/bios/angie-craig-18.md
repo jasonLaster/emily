@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Angie Craig",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/nope4angiemn2",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Angie-Craig.png/@zx_250@zy_250",
   "location": "Minnesota 2nd ",

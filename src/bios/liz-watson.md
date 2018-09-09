@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/LizForIndiana/",
   "twitter": "https://twitter.com/lizforindiana?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/ty-sb-watson",
   "youtube": "https://www.youtube.com/channel/UCQkFLnE1CHlq08UgOaTleHA",
   "keywords": ["Professor"]
 }

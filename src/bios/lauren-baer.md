@@ -5,6 +5,7 @@ export const meta = {
   "link": "https://www.emilyslist.org/candidates/lauren-baer",
   "id": "lauren-baer",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_fl18",
   "videos": [
     "Gbc-Snk9kQ4"
   ],

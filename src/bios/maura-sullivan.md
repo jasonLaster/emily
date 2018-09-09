@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/public/Maura-Sullivan",
   "twitter": "https://twitter.com/maurasullivan?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "",
   "keywords": ["Veteran"]
 }

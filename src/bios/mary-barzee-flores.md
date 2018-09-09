@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Flores_Mary-Barzee.png/@zx_250@zy_250",
   "location": "Florida 25th",
   "website": "",
+  "actblue": "",
   "videos": [
     "9Mx0U6j0SEE"
   ],

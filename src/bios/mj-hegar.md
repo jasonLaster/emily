@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/MJforTexas/",
   "twitter": "https://twitter.com/mjhegar?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "https://www.youtube.com/channel/UC2VhG-TrBYj-QEV8NWAAQTA",
   "keywords": ["Veteran"]
 }

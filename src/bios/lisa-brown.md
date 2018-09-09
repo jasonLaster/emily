@@ -3,6 +3,7 @@ export const meta = {
   "img": "https://www.emilyslist.org/i/images/Lisa-Brown.png/@zx_250@zy_250",
   "location": "Washington",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw4lisab2018",
   "videos": [
     "4L8T-8sBPwE"
   ],

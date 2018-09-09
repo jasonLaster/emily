@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/BetsyRaderOH/",
   "twitter": "https://twitter.com/betsyraderoh?lang=en",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/dw_oh14",
   "youtube": "https://www.youtube.com/channel/UCLMebMHQAwL77ybBhMKKnGQ",
   "keywords": ["Civil Rights Advocate"]
 }

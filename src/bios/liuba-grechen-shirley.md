@@ -1,6 +1,7 @@
 export const meta = {
   "name": "Liuba Grechen Shirley",
   "website": "",
+  "actblue": "https://secure.actblue.com/donate/liubaforus",
   "videos": [],
   "img": "https://www.emilyslist.org/i/images/Liuba-Grechen-Shirley.png/@zx_250@zy_250",
   "location": "New York",

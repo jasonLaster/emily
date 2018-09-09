@@ -8,6 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/KathyManningNC/",
   "twitter": "https://twitter.com/kathymanningnc?lang=en",
   "website": "",
+  "actblue": "",
   "youtube": "https://www.youtube.com/channel/UCNRtoVYFW4Jb8YopMw2GBZQ",
   "keywords": ["Executive", "Attorney"]
 }
