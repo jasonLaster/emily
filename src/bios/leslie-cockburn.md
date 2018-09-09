@@ -27,4 +27,11 @@ A proud resident of Rappahannock County, Leslie has served on local conservation
 
 ## A champion for expanding economic opportunity and protecting the environment
 
-Leslie is running for office because she feels as though she can “actually do something in Congress about the acute need for environmental protection, health care, transportation, opioid treatment, criminal justice, and the starved public schools.” She is determined to expand economic opportunities for working families and protect the environment for future generations. Leslie wants to be a voice in Washington for the women, children, and senior citizens of Virginia whose needs are overlooked. “At that office on Capitol Hill, what we need to do is not only kick the door open, but take the door right off the hinges so that people in Henry County can come up there and always have access to their congressperson,” she has said. Leslie has spent her career holding government officials accountable to the people they serve, and plans to do the same when elected to office.
+Leslie is running for office because she feels as though she can “actually do something in Congress about the acute need for environmental protection, health care, transportation, opioid treatment, criminal justice, and the starved public schools.” She is determined to expand economic opportunities for working families and protect the environment for future generations.
+
+Leslie wants to be a voice in Washington for the women, children, and senior citizens of Virginia whose needs are overlooked. “At that office on Capitol Hill, what we need to do is not only kick the door open, but take the door right off the hinges so that people in Henry County can come up there and always have access to their congressperson,” she has said.
+
+Leslie has spent her career holding government officials accountable to the people they serve, and plans to do the same when elected to office.
+
+
+<Video id="irp50NdxH1w" />
