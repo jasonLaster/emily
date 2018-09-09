@@ -9,22 +9,22 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Public Servant"]
 }
 
 import Video from "../Video"
 
 ## An experienced leader fighting for Montanans
 
-Kathleen Williams is an experienced leader and fighter on behalf of Montana’s working families. As a three-term state representative, Kathleen gained respect from colleagues on both sides of the aisle and distinguished herself as an ethical, effective legislator.
+Kathleen Williams is an experienced leader and fighter on behalf of Montana’s working families. As a **three-term state representative**, Kathleen gained respect from colleagues on both sides of the aisle and distinguished herself as an ethical, effective legislator.
 
-- Serving as vice chair of the agriculture committee, she emphasized the importance of local farming initiatives in Montana and used her expertise on rivers to inform decisions to protect Montanans’ water rights.
+Serving as _vice chair of the agriculture committee_, she emphasized the importance of local farming initiatives in Montana and used her expertise on rivers to inform decisions to protect Montanans’ water rights.
 
-- Kathleen also served as vice chair of the House taxation committee, where she saw the importance of tax reform that helps expand economic opportunities for working families.
+Kathleen also served as _vice chair of the House taxation committee_, where she saw the importance of tax reform that helps expand economic opportunities for working families.
 
-- She has also worked as an associate director at the Western Landowners Alliance, where she focused on water and conservation policy issues. Kathleen enjoys fishing, hunting, canoeing, and cycling in Montana’s beautiful wilderness, which she wants to protect for public use.
+She has also worked as an associate director at the Western Landowners Alliance, where she focused on water and conservation policy issues.
 
-- She has two grown step-sons and a German wirehair pointer named Danni.
+Kathleen enjoys fishing, hunting, canoeing, and cycling in Montana’s beautiful wilderness, which she wants to protect for public use. She has two grown step-sons and a German wirehair pointer named Danni.
 
 <Video id="Mzc7SRb_ZZ8" />
 

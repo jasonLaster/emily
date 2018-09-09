@@ -1,7 +1,7 @@
 export const meta = {
   "name": "Lauren Underwood",
   "img": "https://www.emilyslist.org/i/images/Lauren-Underwood.png/@zx_250@zy_250",
-  "location": "Illinois",
+  "location": "Illinois 14th",
   "link": "https://www.emilyslist.org/candidates/lauren-underwood",
   "id": "lauren-underwood",
   "donate": "https://www.emilyslist.org/donate/candidate/lauren-underwood",
@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["HHS Senior Advisor"]
 }
 
 import Video from "../Video"
@@ -18,17 +18,17 @@ import Video from "../Video"
 
 Lauren Underwood is a champion for Illinois working families running for Congress to expand economic opportunity for all. She is a registered nurse with hands-on experience in our health care system and an experienced leader who has dedicated her career to expanding all Americans’ access to quality, affordable care.
 
-- When she was 8 years old, Lauren discovered that she had a heart condition — and the health care providers who treated and helped her manage her condition inspired her to pursue a career in nursing.
+When she was 8 years old, Lauren discovered that she had a heart condition — and the health care providers who treated and helped her manage her condition inspired her to pursue a career in nursing.
 
-- President Obama appointed Lauren to serve as a **senior advisor at the U.S. Department of Health and Human Services (HHS)**, where she helped communities across the country prevent, prepare for, and respond to disasters, bioterror threats, and public health emergencies.
+President Obama appointed Lauren to serve as a **senior advisor at the U.S. Department of Health and Human Services (HHS)**, where she helped communities across the country prevent, prepare for, and respond to disasters, bioterror threats, and public health emergencies.
 
-- Lauren worked tirelessly to help implement the Affordable Care Act — broadening access for those on Medicare, improving health care quality, and reforming private insurance for working families across the country.
+Lauren worked tirelessly to help implement the Affordable Care Act — broadening access for those on Medicare, improving health care quality, and reforming private insurance for working families across the country.
 
-- She currently **works for a Medicaid-managed health care plan** in Chicago, working with clinical staff to ensure the plan provides high-quality, cost-efficient care to Illinois families.
+She currently **works for a Medicaid-managed health care plan** in Chicago, working with clinical staff to ensure the plan provides high-quality, cost-efficient care to Illinois families.
 
-- Lauren also teaches a graduate-level nursing course future helping to grow the next generation of nurse practitioners.
+> Lauren also teaches a graduate-level nursing course future helping to grow the next generation of nurse practitioners.
 
-- She lives in Naperville, Illinois — the community where she is proud to have grown up and attended public schools.
+She lives in Naperville, Illinois — the community where she is proud to have grown up and attended public schools.
 
 <Video id="v=9kmnliJja-8" />
 

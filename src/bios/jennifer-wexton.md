@@ -9,14 +9,22 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Judge", "Prosectutor"]
 }
 
 import Video from "../Video"
 
 ## An experienced leader fighting for Virginia's working families
 
-Jennifer Wexton is an experienced leader and advocate for justice who is running to fight for Virginia’s working families in Congress. Currently a state senator, Jennifer has previously served Loudon County as a substitute judge, special justice, and assistant commonwealth’s attorney. She successfully prosecuted and tried cases ranging from criminals who committed domestic violence to misdemeanor traffic cases. In the state Senate, she has passed over 40 bills in the last four years she’s been in office, proving herself to be an effective bipartisan legislator. Jennifer is a Washington-area native who lives in Leesburg with her husband, two sons, and two rescued labrador retrievers.
+Jennifer Wexton is an experienced leader and advocate for justice who is running to fight for Virginia’s working families in Congress.
+
+Currently a **state senator**, Jennifer has previously served Loudon County as a **substitute judge, special justice**, and assistant commonwealth’s attorney.
+
+> She successfully prosecuted and tried cases ranging from criminals who committed domestic violence to misdemeanor traffic cases.
+
+In the state Senate, she has passed over 40 bills in the last four years she’s been in office, proving herself to be an effective bipartisan legislator.
+
+Jennifer is a Washington-area native who lives in Leesburg with her husband, two sons, and two rescued labrador retrievers.
 
 <Video id="wf-tFzjPN8w" />
 

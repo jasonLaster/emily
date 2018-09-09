@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Congresswoman"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Norma Torres is running for re-election to continue her fight to expand economic opportunity for all. A longtime resident of Pomona, Norma immigrated to the United States from Guatemala when she was five and has dedicated her career to serving her community.
 
-- Norma was inspired to run for public office while she was working as a 911 dispatcher and sought to address the lack of Spanish-speaking dispatchers in the role.
+Norma was inspired to run for public office while she was working as a **911 dispatcher** and sought to address the lack of Spanish-speaking dispatchers in the role.
 
-- After unseating a longtime incumbent on the Pomona City Council, Norma became the city’s first Latina mayor.
+After unseating a longtime incumbent on the Pomona City Council, Norma **became the city’s first Latina mayor**.
 
-- She went on to serve in the California state Assembly and state Senate before she was elected to Congress in 2014. Norma is a champion for schools, quality health care, veterans, and working families’ economic security.
+She went on to serve in the California state Assembly and state Senate before she was elected to Congress in 2014. Norma is a champion for schools, quality health care, veterans, and working families’ economic security.
 
 <Video id="wGd3Lbw8ni4" />
 

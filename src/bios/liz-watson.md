@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Professor"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Liz Watson is a fifth-generation Hoosier who is running for Congress to fight for working families in Indiana. “This race is about the kind of future we want for our children and grandchildren,” she has said, “I will never stop fighting for Hoosier families.”
 
-- Liz grew up in Bloomington and attended Bloomington public schools and is committed to ensuring every child receives a great public school education. She then went on to college and law school, where as a law student she **helped represent victims of domestic violence**.
+Liz grew up in Bloomington and attended Bloomington public schools and is committed to ensuring every child receives a great public school education. She then went on to college and law school, where as a law student she **helped represent victims of domestic violence**.
 
-- Currently a faculty member at Indiana University, Liz has spent her career fiercely advocating for women and families, including serving as director of workplace justice at the National Women’s Law Center, executive director of the Georgetown Poverty Center, and as the labor policy director for congressional Democrats.
+Currently a **faculty member at Indiana University**, Liz has spent her career fiercely advocating for women and families, including serving as director of workplace justice at the National Women’s Law Center, executive director of the Georgetown Poverty Center, and as the labor policy director for congressional Democrats.
 
-- Liz and her husband live near her parents in Bloomington with their two children, who attend the same elementary school that Liz did.
+Liz and her husband live near her parents in Bloomington with their two children, who attend the same elementary school that Liz did.
 
 <Video id="AOmPDFPKi4Q" />
 

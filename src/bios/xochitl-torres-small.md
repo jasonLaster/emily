@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Advocate"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Xochitl Torres Small is a dedicated community leader and lifelong New Mexican running for Congress to fight for working families. The daughter of a teacher and a social worker, Xochitl learned the importance of education, hard work, and giving back to southern New Mexico.
 
-- She took out loans and worked multiple jobs to pay for her college education, and graduated cum laude from Georgetown University in just three years. Xochitl returned home to Las Cruces and served as field representative for Senator Tom Udall, advocating for broadband expansion, working with education and business leaders to create job opportunities for New Mexico graduates, and helping community stakeholders protect southern New Mexico’s water resources.
+She took out loans and worked multiple jobs to pay for her college education, and graduated cum laude from Georgetown University in just three years. Xochitl returned home to Las Cruces and served as **field representative for Senator Tom Udall**, advocating for broadband expansion, working with education and business leaders to create job opportunities for New Mexico graduates, and helping community stakeholders protect southern New Mexico’s water resources.
 
-- She went on to earn her law degree from the University of New Mexico, and practiced natural resource and water law.
+She went on to earn her law degree from the University of New Mexico, and practiced natural resource and water law.
 
-- Xochitl and her husband live in Las Cruces, the community where she grew up. When elected, she will work tirelessly to make all southern New Mexico working families’ voices heard in Congress.
+Xochitl and her husband live in Las Cruces, the community where she grew up. When elected, she will work tirelessly to make all southern New Mexico working families’ voices heard in Congress.
 
 <Video id="1KIasK8mdPM" />
 

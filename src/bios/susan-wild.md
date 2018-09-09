@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Publc Servant"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Susan Wild is an experienced community advocate running for Congress to fight for Pennsylvania working families. Susan grew up in a military family, moving frequently, but found home when she moved to the Lehigh Valley more than 30 years ago.
 
-- An experienced attorney, she has dedicated her career to advocating for fairness and equal justice in her practice that includes health care, civil rights, and employment law.
+An **experienced attorney**, she has dedicated her career to advocating for fairness and equal justice in her practice that includes health care, civil rights, and employment law.
 
-- In 2015, the Allentown city council unanimously confirmed her appointment to serve as city solicitor, a position that had never before been held by a woman, and accountability and transparency have increased under her leadership.
+In 2015, the Allentown city council unanimously confirmed her appointment to serve as **city solicitor**, a position that had never before been held by a woman, and accountability and transparency have increased under her leadership.
 
-- Susan has served her community on the boards of her local food bank, regional theater, and Jewish federation. She is the proud mother of two grown children, has two dogs, and supports local animal rescue organizations.
+> Susan has served her community on the boards of her local food bank, regional theater, and Jewish federation. She is the proud mother of two grown children, has two dogs, and supports local animal rescue organizations.
 
 <Video id="7itYWWC7Fkw" />
 

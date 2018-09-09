@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Senior Official"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,13 @@ import Video from "../Video"
 
 Haley Stevens is a leader in advanced manufacturing and a former public servant running for Congress to continue her fight for Michigan working families. As the daughter of a CEO mother and public school teacher father who started a small business together, Haley knows what it takes to work hard and make a difference.
 
-- She served as a political appointee under President Obama, serving as **chief of staff for the Treasury Department’s** Auto Task Force and as a special advisor for the Department of Commerce. 
+> She served as a political appointee under President Obama, serving as chief of staff for the Treasury Department’s Auto Task Force and as a special advisor for the Department of Commerce. 
 
-- Haley played a key role in restoring the financial stability of the auto industry and helped save thousands of Michigan jobs during the recession. She worked tirelessly to help set up the Office of Recovery for Automotive Communities and Workers and the White House Office of Manufacturing Policy, federal offices that contributed to the creation of new jobs for hardworking Michiganders.
+Haley played a key role in restoring the financial stability of the auto industry and _helped save thousands of Michigan jobs during the recession_.
 
-- Born and raised in Oakland County, she is a proud resident of Rochester Hills and has most recently led a national workforce development program and launched a STEM education initiative for middle and high school students.
+She worked tirelessly to help set up the Office of Recovery for Automotive Communities and Workers and the White House Office of Manufacturing Policy, federal offices that contributed to the creation of new jobs for hardworking Michiganders.
+
+Born and raised in Oakland County, she is a proud resident of Rochester Hills and has most recently led a national workforce development program and launched a STEM education initiative for middle and high school students.
 
 <Video id="sgYMShUQE9A" />
 

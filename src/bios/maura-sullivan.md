@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Veteran"]
 }
 
 import Video from "../Video"
@@ -18,11 +18,11 @@ import Video from "../Video"
 
 Maura Sullivan is a **Marine veteran** and experienced leader running for Congress to fight for New Hampshire working families. She began her career of service as a young woman in ROTC with the encouragement of her public high school guidance counselor. Maura hadn’t seen many women in the military and is grateful to have had the support she needed to envision and begin this path of service. “Becoming a Marine officer was the best decision I made in my life,” she has said. “It was a transformational experience. Simply put, I would not be the person I am today if I had not done it.”
 
-- Maura served in the Marine Corps for five years in East Asia and Fallujah, Iraq, rising to the rank of captain before she went on to earn an MBA and an MPA from Harvard.
+> Maura served in the Marine Corps for five years in East Asia and Fallujah, Iraq, rising to the rank of captain before she went on to earn an MBA and an MPA from Harvard.
 
-- After graduate school she worked as a New England manager for a food and beverage company. In 2010 Maura **joined the Obama administration**, first serving on the American Battle Monuments Commission, then as an assistant secretary at the Department of Veterans Affairs during a time of crisis, and then in the Pentagon.
+After graduate school she worked as a New England manager for a food and beverage company. In 2010 Maura **joined the Obama administration**, first serving on the American Battle Monuments Commission, then as an _assistant secretary at the Department of Veterans Affairs_ during a time of crisis, and then in the Pentagon.
 
-- Maura felt her fellow Marines were like family, and “I went through a pretty difficult time when I left the Marine Corps community, as a lot of veterans do,” she has said. After her service in the Obama administration, she found community again in Portsmouth, New Hampshire, where she and her fiancé bought their first home to put down roots and raise a family.
+Maura felt her fellow Marines were like family, and “I went through a pretty difficult time when I left the Marine Corps community, as a lot of veterans do,” she has said. After her service in the Obama administration, she found community again in Portsmouth, New Hampshire, where she and her fiancé bought their first home to put down roots and raise a family.
 
 <Video id="F2zOMI9S2NY" />
 

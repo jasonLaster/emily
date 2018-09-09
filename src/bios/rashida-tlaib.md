@@ -9,7 +9,7 @@ export const meta = {
   "twitter": "https://twitter.com/emilyslist",
   "website": "",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Public Servant"]
 }
 
 import Video from "../Video"
@@ -18,13 +18,15 @@ import Video from "../Video"
 
 Rashida Tlaib is a proven leader running for Congress to fight for Michigan working families. Born and raised in Detroit and a proud graduate of the city’s public schools, she is the daughter of Palestinian immigrants and the oldest of 14 children.
 
-- Rashida earned her law degree while working full time and taking classes on weekends, and she has dedicated her career to fighting for Michiganders.
+Rashida earned her law degree while working full time and taking classes on weekends, and she has dedicated her career to fighting for Michiganders.
 
-- She was elected to the Michigan State House in 2008, making history as the first Muslim woman ever to serve in the state legislature, and she quickly earned a reputation as a fierce advocate for working families. In her three terms Rashida fought for economic opportunity, protections from fraudulent mortgage bankers, access to health care, and education funding.
+She was **elected to the Michigan State House in 2008**, making history as the _first Muslim woman ever to serve in the state legislature_, and she quickly earned a reputation as a fierce advocate for working families.
 
-- She worked tirelessly to provide critical constituent services that included saving families from foreclosure, free tax preparation for working-class Michiganders, and helping seniors weatherize their homes to save on energy bills.
+In her three terms Rashida fought for economic opportunity, protections from fraudulent mortgage bankers, access to health care, and education funding.
 
-- Most recently, Rashida worked as a public interest lawyer at the nonprofit Sugar Law Center for Economic and Social Justice. She and is the proud mother of two sons. When elected, Rashida will fight tirelessly for Michiganders in Washington.
+> She worked tirelessly to provide critical constituent services that included saving families from foreclosure, free tax preparation for working-class Michiganders, and helping seniors weatherize their homes to save on energy bills.
+
+Most recently, Rashida worked as a **public interest lawyer** at the nonprofit Sugar Law Center for Economic and Social Justice. She and is the proud mother of two sons. When elected, Rashida will fight tirelessly for Michiganders in Washington.
 
 <Video id="ZSUm5NqlVXY" />
 
