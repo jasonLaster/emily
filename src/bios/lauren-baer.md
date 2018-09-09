@@ -11,7 +11,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/lauren-baer",
   "facebook": "https://www.facebook.com/LaurenBaerForCongress/",
   "twitter": "https://twitter.com/laurenbaer?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCTwZ2pIgZp0BZlq_aDTkdMw",
   "keywords": ["Policy Expert"]
 }
 

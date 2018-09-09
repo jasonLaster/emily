@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/KatieHillforCongress/",
   "twitter": "https://twitter.com/katiehill4ca?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCPywtKt4VZZgj4P1hVNvizA",
   "keywords": ["Executive"]
 }
 

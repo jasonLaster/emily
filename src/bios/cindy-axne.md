@@ -12,7 +12,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/cindy-axne",
   "facebook": "https://www.facebook.com/CindyAxneForCongress/",
   "twitter": "https://twitter.com/axne4congress?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCgfBeXyKdwzEJUPilFu8ILg",
   "keywords": ["Entrepreneur"]
 }
 

@@ -11,7 +11,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/cheri-bustos-18",
   "facebook": "https://www.facebook.com/RepCheri/",
   "twitter": "https://twitter.com/repcheri?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCrkOYuIsVeb4dvKeeO7jnaA",
   "keywords": ["Congresswoman", "Journalist"]
 }
 

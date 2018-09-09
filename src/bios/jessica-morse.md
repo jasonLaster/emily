@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/Morse4America/",
   "twitter": "https://twitter.com/morse4america?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCaX8RNDbPrfNRAnoQCzoBjg",
   "keywords": ["National Security Expert"]
 }
 

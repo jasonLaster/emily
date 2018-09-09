@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/abby-finkenauer",
   "facebook": "https://www.facebook.com/Abby4Iowa/",
   "twitter": "https://twitter.com/abby4iowa?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCfEVsTHd6ifVduf82-9OKxg",
   "keywords": ["Policy Expert"]
 }
 

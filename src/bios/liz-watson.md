@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/LizForIndiana/",
   "twitter": "https://twitter.com/lizforindiana?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCQkFLnE1CHlq08UgOaTleHA",
   "keywords": ["Professor"]
 }
 

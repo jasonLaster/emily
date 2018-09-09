@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/RepNormaTorres/",
   "twitter": "https://twitter.com/normajtorres?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCvWY4qKP6--o3pIJY7hhKDg",
   "keywords": ["Congresswoman"]
 }
 

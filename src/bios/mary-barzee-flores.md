@@ -11,7 +11,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/mary-barzee-flores",
   "facebook": "https://www.facebook.com/MaryBarzeeFlores/",
   "twitter": "https://twitter.com/mbfforcongress?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCYm4WYM3w-42hF-mjWhByMA",
   "keywords": ["Judge", "Public Defender"]
 }
 

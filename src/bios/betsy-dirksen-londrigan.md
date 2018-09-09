@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/betsy-dirksen-londrigan",
   "facebook": "https://www.facebook.com/BetsyDirksenLondrigan/",
   "twitter": "https://twitter.com/betsyforil?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCMCrMHQ-hRGG0WiJSxQ4zUA",
   "keywords": ["Advisor", "Entrepreneur"]
 }
 

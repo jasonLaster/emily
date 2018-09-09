@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/leslie-cockburn",
   "facebook": "https://www.facebook.com/LeslieforCongress/",
   "twitter": "https://twitter.com/lesliecockburn?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC6Rgh3QBJR3j1g6Ro9IUbYQ",
   "keywords": ["Journalist"]
 }
 

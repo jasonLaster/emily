@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/KirkpatrickforCongress/",
   "twitter": "https://twitter.com/ann_kirkpatrick?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCZNx8MPyjQH7ryZGrCXxQJQ",
   "keywords": ["Teacher", "Congresswoman"]
 }
 

@@ -5,6 +5,9 @@ import { candidates } from "./bios"
 import "./Bio.css"
 
 function Header({candidate}) {
+
+  const youtube = candidate.youtube || `https://www.youtube.com/results?search_query=${candidate.name.replace(/ /, '+')}`
+
   return <div className="candidate-header">
     <img alt={candidate.name} className="candidate-img" src={candidate.img}></img>
     <div className="candidate-summary">
@@ -15,7 +18,7 @@ function Header({candidate}) {
         <a className="button" href={candidate.donate}>Donate</a>
         <a className="icon facebook" href={candidate.facebook}></a>
         <a className="icon twitter" href={candidate.twitter}></a>
-        <a className="icon youtube" href={`https://www.youtube.com/results?search_query=${candidate.name.replace(/ /, '+')}`}></a>
+        <a className="icon youtube" href={youtube}></a>
         <a className="icon emily" href={candidate.link}></a>
       </div>
     </div>

@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/deb-haaland",
   "facebook": "https://www.facebook.com/DebforCongress/",
   "twitter": "https://twitter.com/deb4congressnm?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCV-7E0WQkLlhRoQv-Q-4dOg",
   "keywords": ["Activist"]
 }
 

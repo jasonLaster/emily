@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/BetsyRaderOH/",
   "twitter": "https://twitter.com/betsyraderoh?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCLMebMHQAwL77ybBhMKKnGQ",
   "keywords": ["Civil Rights Advocate"]
 }
 

@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/madeleine-dean",
   "facebook": "https://www.facebook.com/Mad4PA/",
   "twitter": "https://twitter.com/mad4pa?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC2kzp6lVsq-vRdyUClCaDZA",
   "keywords": ["Professor", "Public Servant"]
 }
 

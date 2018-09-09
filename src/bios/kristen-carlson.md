@@ -11,7 +11,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/kristen-carlson",
   "facebook": "https://www.facebook.com/public/Kristen-Carlson",
   "twitter": "https://twitter.com/kristenforfl?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCmaDRMRHA1GXmLj3gvEnSIQ",
   "keywords": ["Advocate"]
 }
 

@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/gretchen-driskell-18",
   "facebook": "https://www.facebook.com/votegretchen/",
   "twitter": "https://twitter.com/gdriskell?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC3TzHgvBpJ5lCaAdEPRsJ5Q",
   "keywords": ["Mayor", "Public Servant"]
 }
 

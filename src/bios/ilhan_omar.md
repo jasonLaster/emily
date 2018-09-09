@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/IlhanMN/",
   "twitter": "https://twitter.com/ilhanmn?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCASdCeGESHrymqpe-Lvz0EQ",
   "keywords": ["Assistant Minority Leader", "Refugee"]
 }
 

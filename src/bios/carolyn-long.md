@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/ElectCarolynLong/",
   "twitter": "https://twitter.com/electlong?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCLD7TID0r2WNUBrodPESLjg",
   "keywords": ["Professor"]
 }
 

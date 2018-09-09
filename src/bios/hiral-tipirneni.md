@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/hiralforcongress/",
   "twitter": "https://twitter.com/hiral4congress?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC9W8ReokNuLi2ysAvkUkL-Q",
   "keywords": ["Doctor", "Immigrant"]
 }
 

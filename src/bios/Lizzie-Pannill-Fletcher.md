@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/LizzieForCongress/",
   "twitter": "https://twitter.com/lizzie4congress?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCb1_n8fVrDWDOqQXjFhCCNw",
   "keywords": ["Advocate"]
 }
 

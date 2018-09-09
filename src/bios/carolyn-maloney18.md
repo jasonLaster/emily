@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/CarolynMaloney/",
   "twitter": "https://twitter.com/carolynbmaloney?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCmqlZgleE6p_EKEN5RJxBxw",
   "keywords": ["Congresswoman"]
 }
 

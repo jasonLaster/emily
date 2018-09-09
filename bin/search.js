@@ -8,14 +8,16 @@ const list = Object.values(candidates)
 google.resultsPerPage = 5
 
 function searchCandidate(candidate) {
-  google(`facebook ${candidate.name}`, function (err, res){
-    const link = res.links[0];
+  google(`youtube channel ${candidate.name}`, function (err, res){
+    // const link = res.links[0];
+    //
+    const link = res.links.slice(0,3).map(({link}) =>link).find(l => l.includes("channel"))
 
-    let doc = fs.readFileSync(`./src/bios/${candidate.id}.md`, 'utf8')
-
-    doc = doc.replace(/"facebook":.*/, `"facebook": "${link.link}",`)
-    fs.writeFileSync(`./src/bios/${candidate.id}.md`, doc)
-    console.log(link.link)
+    if (link) {
+      let doc = fs.readFileSync(`./src/bios/${candidate.id}.md`, 'utf8')
+      doc = doc.replace(/"youtube":.*/, `"youtube": "${link}",`)
+      fs.writeFileSync(`./src/bios/${candidate.id}.md`, doc)
+    }
   })
 
 }

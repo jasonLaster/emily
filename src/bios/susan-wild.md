@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/wildforcongress/",
   "twitter": "https://twitter.com/wildforcongress?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCN2-8Sk9OKM1YuFDiW0vMwg",
   "keywords": ["Publc Servant"]
 }
 

@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/public/Stephanie-Murphy",
   "twitter": "https://twitter.com/repstephmurphy?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCmd4mo5owVTGetYcPmkcI1g",
   "keywords": ["Congresswoman", "Refugee"]
 }
 

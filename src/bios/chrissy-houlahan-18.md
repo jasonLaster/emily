@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/HoulahanForPA/",
   "twitter": "https://twitter.com/houlahanforpa?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCtPdIcxthUnsZPRv-b0AhHg",
   "keywords": ["Veteran", "Executive", "Teacher"]
 }
 

@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/susieleenv/",
   "twitter": "https://twitter.com/susieleenv?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC8Y84rauBqO8qFbM6z_dSiA",
   "keywords": ["Advocate"]
 }
 

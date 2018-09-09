@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/GinaOrtizJones/",
   "twitter": "https://twitter.com/ginaortizjones?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UC6e6dzam49qUp3fDH_G3Tlw",
   "keywords": ["National Security Expert"]
 }
 

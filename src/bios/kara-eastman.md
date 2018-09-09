@@ -9,7 +9,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/kara-eastman",
   "facebook": "https://www.facebook.com/eastmanforcongress/",
   "twitter": "https://twitter.com/karaforcongress?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCcH69NSPHCAC0HebpUtdt1Q",
   "keywords": ["Board of Governors"]
 }
 

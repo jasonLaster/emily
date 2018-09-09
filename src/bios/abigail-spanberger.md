@@ -8,7 +8,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/SpanbergerForCongress/",
   "twitter": "https://twitter.com/spanbergerva07?lang=en",
   "website": "",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCxJTgExEfcqCdIj4SMJyqrQ",
   "keywords": ["Law Enforcement"]
 }
 

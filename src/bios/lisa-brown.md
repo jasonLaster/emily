@@ -11,7 +11,7 @@ export const meta = {
   "donate": "https://www.emilyslist.org/donate/candidate/lisa-brown",
   "facebook": "https://www.facebook.com/public/Lisa-Brown",
   "twitter": "https://twitter.com/lisa4congress?lang=en",
-  "youtube": "",
+  "youtube": "https://www.youtube.com/channel/UCMjNcLW4NShaB_gNoW1UZQg",
   "keywords": ["Senate Majority Leader"]
 }
 
