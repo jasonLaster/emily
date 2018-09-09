@@ -1,6 +1,6 @@
 import React from 'react';
-import candidates from "./candidates"
 import { CandidateBio } from "./bios"
+import { candidates } from "./bios"
 
 import "./Bio.css"
 
