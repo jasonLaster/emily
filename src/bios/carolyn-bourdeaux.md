@@ -21,9 +21,9 @@ import Video from "../Video"
 
 Carolyn Bourdeaux is an experienced leader and dedicated public servant running for Congress to continue her lifelong fight for working families. The daughter of two teachers, Carolyn won grants and took out federal loans to work her way through college at Yale and went on to earn a master’s degree in public administration from the University of Southern California as well as a Ph.D. in public administration with a focus on public finance from Syracuse University.
 
-- She served as **director of Georgia’s Senate Budget and Evaluation Office**, where she advocated for policies that put taxpayer dollars to work in ways that improve Georgians’ lives. Carolyn has worked on projects to improve public transportation and land use, which laid the groundwork for the Livable Communities Initiative that has revitalized many downtown communities.
+She served as **director of Georgia’s Senate Budget and Evaluation Office**, where she advocated for policies that put taxpayer dollars to work in ways that improve Georgians’ lives. Carolyn has worked on projects to improve public transportation and land use, which laid the groundwork for the Livable Communities Initiative that has revitalized many downtown communities.
 
-- Carolyn was most recently a **professor at Georgia State University** and lives in Suwanee with her husband and their young son. When elected, Carolyn will fight tirelessly for hardworking Georgia families.
+Carolyn was most recently a **professor at Georgia State University** and lives in Suwanee with her husband and their young son. When elected, Carolyn will fight tirelessly for hardworking Georgia families.
 
 <Video id="o8EGXZ0aIkY" />
 

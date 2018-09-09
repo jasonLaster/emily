@@ -19,13 +19,14 @@ import Video from "../Video"
 
 Theresa Gasper is an **experienced entrepreneur** and community leader running for Congress to fight for Ohio working families. She grew up in Dayton and learned the importance of hard work and public service from her parents. As a young mother, Theresa took over a local telephone answering service and **served as president for 14 years**.
 
-- She went on to found a business renovating and rehabilitating local homes, and is dedicated to revitalizing Dayton communities affected by the housing crisis.
-
-- A powerful advocate for Ohioans, Theresa has worked with local organizations that provide educational programs for first-time homebuyers, coaching for homeowners modifying their loans, and home repair assistance for elderly homeowners.
-
-- A fourth-generation resident of the Dayton area, Theresa lives in Beavercreek with her husband and is committed to fighting for the community where she has lived all her life.
+She went on to found a business renovating and rehabilitating local homes, and is dedicated to revitalizing Dayton communities affected by the housing crisis.
 
 <Video id="aaTG6ClZ_jg" />
+
+A powerful advocate for Ohioans, Theresa has worked with local organizations that provide educational programs for first-time homebuyers, coaching for homeowners modifying their loans, and home repair assistance for elderly homeowners.
+
+A fourth-generation resident of the Dayton area, Theresa lives in Beavercreek with her husband and is committed to fighting for the community where she has lived all her life.
+
 
 ## A powerful advocate working to expand economic opportunity
 

@@ -20,6 +20,7 @@
   flex: 0 0 35px;
   background: #457dec;
   width: 100%;
+  border-bottom: 1px solid hsl(219.9, 81.5%, 29.8%);
 }
 
 .candidate-bio .candidate-img {

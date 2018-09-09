@@ -19,13 +19,14 @@ import Video from "../Video"
 
 Betsy Dirksen Londrigan is an Illinois fighter running for Congress to serve the working families of the community that she has proudly called home all her life. An experienced progressive and nonprofit leader, Betsy has **worked for United States Senator Dick Durbin** and served as a fundraiser for the Abraham Lincoln Presidential Library Foundation.
 
-- She has worked as a **self-employed entrepreneur** while raising her three children, and is a powerful advocate for small businesses that are the backbone of our economy.
-
-- A champion for access to health care, a deeply personal issue for her family, Betsy has worked tirelessly to support children’s hospitals and to raise funds for the Children’s Miracle Network and St. John’s Children’s Hospital.
-
-- She was born and raised in Springfield, where she and her husband have raised their three children, adding another generation to their deep family roots in Sangamon County.
+She has worked as a **self-employed entrepreneur** while raising her three children, and is a powerful advocate for small businesses that are the backbone of our economy.
 
 <Video id="ebrIC_ilP2o" />
+
+A champion for access to health care, a deeply personal issue for her family, Betsy has worked tirelessly to support children’s hospitals and to raise funds for the Children’s Miracle Network and St. John’s Children’s Hospital.
+
+She was born and raised in Springfield, where she and her husband have raised their three children, adding another generation to their deep family roots in Sangamon County.
+
 
 ## A champion for health care and expanding economic opportunity
 

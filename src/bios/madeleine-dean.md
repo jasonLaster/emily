@@ -19,14 +19,14 @@ import Video from "../Video"
 
 Madeleine Dean is a dedicated public servant and experienced leader who will fight for the women and families of Montgomery County in Congress. As the youngest of seven children in a politically engaged family, Madeleine Dean has been interested in public service and advocacy from a young age.
 
-- She received her undergraduate degree from La Salle University and her law degree from Widener University, eventually practicing law and serving as executive director of the Philadelphia Trial Lawyers.
-
-- Madeleine served as an assistant professor at La Salle University for over a decade and then as a local township commissioner, writing as a contributor to local daily newspapers along the way.
-
-- She was elected to be a state representative in 2012 and has served in Harrisburg since then. Madeleine lives in Jenkintown, Abington Township with her husband and has three grown sons and one granddaughter.
-
+She received her undergraduate degree from La Salle University and her law degree from Widener University, eventually practicing law and serving as executive director of the Philadelphia Trial Lawyers.
 
 <Video id="fuHTsZfxgg8" />
+
+Madeleine served as an **assistant professor at La Salle University** for over a decade and then as a **local township commissioner**, writing as a contributor to local daily newspapers along the way.
+
+She was elected to be a **state representative** in 2012 and has served in Harrisburg since then. Madeleine lives in Jenkintown, Abington Township with her husband and has three grown sons and one granddaughter.
+
 
 ## An experienced leader dedicated to expanding economic opportunity
 

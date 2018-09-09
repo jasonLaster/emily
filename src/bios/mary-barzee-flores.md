@@ -12,7 +12,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": []
+  "keywords": ["Judge", "Public Defender"]
 }
 
 import Video from "../Video"
@@ -21,9 +21,13 @@ import Video from "../Video"
 
 Mary Barzee Flores is a dedicated public servant running for Congress to fight for Miami's working families. Mary’s father, a World War II veteran who managed a local fish and tackle store, and her mother, a registered nurse who was an Air Force officer in the Korean War, raised Mary and her brother and sister just outside of Little Havana, and all three siblings attended Miami-Dade public schools.
 
-- She started working at the age of 15, one year after her father passed away, and worked as a dishwasher, a maid, a cook, and a bartender as a young woman to help her family make ends meet. Mary worked her way through the University of Miami and went on to the University of Miami School of Law — beginning her lifelong passion for service and justice.
+She started working at the age of 15, one year after her father passed away, and worked as a dishwasher, a maid, a cook, and a bartender as a young woman to help her family make ends meet. Mary worked her way through the University of Miami and went on to the University of Miami School of Law — beginning her lifelong passion for service and justice.
 
-- She served in the federal Office of the Public Defender in Miami for twelve years. In 2002, Mary stepped up to run for an open seat as a Florida Circuit Court Judge. After nearly eight years on the Circuit Court, Mary retired and went into private practice until just a few years later, when President Obama nominated her for a judgeship on the U.S. District Court — but Senator Marco Rubio, citing two small donations she made to the ACLU and to EMILY’s List in the 1990s, blocked her getting a fair hearing in the Senate judiciary committee, much less a vote. This experience only deepened Mary’s commitment to her community, and she is running for Congress to make their voices heard in Washington. Mary and her husband, Hector, live in Coral Gables, and are the proud parents of two children.
+> She served in the federal Office of the Public Defender in Miami for twelve years. In 2002, Mary stepped up to run for an open seat as a Florida Circuit Court Judge.
+
+After nearly eight years on the Circuit Court, Mary retired and went into private practice until just a few years later, when _President Obama nominated her for a judgeship on the U.S. District Court_ — but Senator Marco Rubio, citing two small donations she made to the ACLU and to EMILY’s List in the 1990s, blocked her getting a fair hearing in the Senate judiciary committee, much less a vote.
+
+Mary and her husband, Hector, live in Coral Gables, and are the proud parents of two children.
 
 
 <Video id="9Mx0U6j0SEE" />

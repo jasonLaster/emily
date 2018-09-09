@@ -29,16 +29,20 @@ function Article({candidate}) {
 export default function renderCandidateBio({selected}) {
   const candidate = candidates[selected];
   if (!candidate) {
-    return <div className="candidate-bio"><div className="header">
-    </div></div>
+    return <div className="candidate-bio">
+      <div className="header">
+        <div class="links">
+          <a href="https://github.com/jasonlaster/emily">Help</a>
+        </div>
+      </div>
+    </div>
   }
 
   return <div key={candidate.id} className="candidate-bio">
     <div className="header">
 
       <div class="links">
-        <a href="https://github.com/jasonlaster/emily">Help</a> &nbsp; - &nbsp;
-        <a href="https://github.com/jasonlaster/emily">About</a>
+        <a href="https://github.com/jasonlaster/emily">Help</a>
       </div>
     </div>
       <Header candidate={candidate} />

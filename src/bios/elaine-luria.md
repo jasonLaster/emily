@@ -20,11 +20,13 @@ Elaine Luria is an experienced leader and a dedicated public servant running for
 
 She retired from the U.S. Navy in 2017 with the rank of commander, and **started a small business** from her kitchen table that has grown to create jobs in her community and support local organizations for youth and the arts. Elaine is a powerful advocate for Virginia military families.
 
+
+<Video id="BkB3KIFYwa4" />
+
 In 2017, she helped Virginia Attorney General Mark Herring launch the Military and Veterans Legal Guide, a new resource for military families and veterans who are often targets for fraud.
 
 Elaine and her husband Robert, who retired after 27 years of naval service, have lived in Norfolk for nearly twenty years and are proud to raise their daughter in the diverse and vibrant community they are proud to call home.
 
-<Video id="BkB3KIFYwa4" />
 
 ## A leader dedicated to expanding economic opportunity
 

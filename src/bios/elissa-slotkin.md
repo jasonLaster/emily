@@ -18,13 +18,15 @@ import Video from "../Video"
 
 Elissa Slotkin is a **national security leader** and a life-long public servant running for Congress to fight for Michigan working families. Following the 9/11 attacks, Elissa was recruited to join the Central Intelligence Agency as a Middle East analyst.
 
-- Working alongside the U.S. military, Elissa served a total of three tours in Iraq over a span of five years. Elissa has held a variety of defense intelligence roles – under both President Bush and President Obama – at the White House, the Office of the Director of National Intelligence, the State Department, and the Pentagon.
-
-- She currently runs a small business consulting on national security and government affairs. In her final role in government, Elissa served as the acting assistant secretary of defense for international security affairs, where she managed a 700-person organization with a $140 million budget, and was the principal advisor to the secretary of defense on security strategy and policy issues related to NATO, Russia, the Middle East, Africa, and the Western Hemisphere.
-
-- In Baghdad, she met her husband Dave, a now-retired colonel who served in the U.S. Army for 30 years. She currently lives on her family farm in Holly, Michigan, and runs a small business consulting on national security and government affairs.
+Working alongside the U.S. military, Elissa served a total of three tours in Iraq over a span of five years. Elissa has held a variety of defense intelligence roles – under both President Bush and President Obama – at the White House, the Office of the Director of National Intelligence, the State Department, and the Pentagon.
 
 <Video id="TPA8cqIWpAA" />
+
+
+She currently runs a small business consulting on national security and government affairs. In her final role in government, Elissa served as the acting assistant secretary of defense for international security affairs, where she managed a 700-person organization with a $140 million budget, and was the principal advisor to the secretary of defense on security strategy and policy issues related to NATO, Russia, the Middle East, Africa, and the Western Hemisphere.
+
+In Baghdad, she met her husband Dave, a now-retired colonel who served in the U.S. Army for 30 years. She currently lives on her family farm in Holly, Michigan, and runs a small business consulting on national security and government affairs.
+
 
 ## A champion for Michigan working families
 

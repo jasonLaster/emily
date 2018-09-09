@@ -19,9 +19,9 @@ import Video from "../Video"
 
 Leslie Cockburn is an accomplished journalist and community advocate running for Congress to expand economic opportunity for Virginia’s working families.
 
-- Leslie was an **investigative journalist for 35 years**, working as a producer and correspondent on programs such as CBS News’ “60 Minutes” and PBS’ “Frontline,” and has received multiple awards throughout her career. She has covered international conflicts, including the wars in Afghanistan and Iraq, and has reported on wrongdoing in Washington and on Wall Street.
+Leslie was an **investigative journalist for 35 years**, working as a producer and correspondent on programs such as CBS News’ _“60 Minutes”_ and PBS’ _“Frontline,”_ and has received multiple awards throughout her career. She has covered international conflicts, including the wars in Afghanistan and Iraq, and has reported on wrongdoing in Washington and on Wall Street.
 
-- A proud resident of Rappahannock County, Leslie has served on local conservation boards and has fought against energy policies that would be harmful to the environment. Leslie and her husband reside on a farm in the footsteps of Blue Ridge Mountains and have two daughters – both of whom were married on the farm – one son, and four grandchildren.
+A proud resident of Rappahannock County, Leslie has served on local conservation boards and has fought against energy policies that would be harmful to the environment. Leslie and her husband reside on a farm in the footsteps of Blue Ridge Mountains and have two daughters – both of whom were married on the farm – one son, and four grandchildren.
 
 <Video id="djmxFCXXIJw" />
 

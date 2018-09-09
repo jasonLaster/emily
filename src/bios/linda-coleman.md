@@ -19,13 +19,13 @@ import Video from "../Video"
 
 Linda Coleman is a proven leader running for Congress to fight for North Carolina working families. A lifelong North Carolinian, she grew up in a family of ten children and worked in tobacco fields as a teenager to pay for school clothes.
 
-- Linda began her career as a public school teacher, driven by a passion for public service. She was elected to the Wake County Board of Commissioners in 1998 and went on to become the first African American woman to serve as chair when she was unanimously elected to lead the board in 2001.
+Linda began her career as a **public school teacher**, driven by a passion for public service. She was elected to the Wake County Board of Commissioners in 1998 and went on to become the first African American woman to serve as chair when she was unanimously elected to lead the board in 2001.
 
-- Linda went on to be elected to three terms in the North Carolina House of Representatives and to serve North Carolina as the **Director of the Office of State Personnel** from 2009 to 2012.
-
-- She currently serves as a trustee of Wake Technical Community College and is a powerful advocate for all North Carolina students and families. Linda is the proud mother of two children and grandmother of two.
+Linda went on to be elected to three terms in the **North Carolina House of Representatives** and to serve North Carolina as the **Director of the Office of State Personnel** from 2009 to 2012.
 
 <Video id="7bmzY99lEiw" />
+
+She currently serves as a _trustee of Wake Technical Community College_ and is a powerful advocate for all North Carolina students and families. Linda is the proud mother of two children and grandmother of two.
 
 
 ## A fierce advocate for expanding economic opportunity

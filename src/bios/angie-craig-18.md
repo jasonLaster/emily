@@ -10,7 +10,7 @@ export const meta = {
   "facebook": "https://www.facebook.com/emilyslist",
   "twitter": "https://twitter.com/emilyslist",
   "youtube": "",
-  "keywords": ["Executive"]
+  "keywords": ["Journalist", "Executive"]
 }
 
 import Video from "../Video"
@@ -19,12 +19,11 @@ import Video from "../Video"
 
 Angie Craig is running for Congress because the opportunities she was lucky enough to have are disappearing for too many working families. Angie grew up in a mobile home park, one of three kids raised by a single mom who worked while going to school to earn her college degree. Angie’s mom taught her that if she worked hard, she could grow up to be anything she wanted to be—and Angie believed her.
 
-- Angie worked two jobs to keep up with the cost of her education, and graduated from a state college. She began her career as a **newspaper reporter** then worked her way up in business over fifteen years to eventually lead a workforce of 16,000 employees for a major Minnesota manufacturer.
+Angie worked two jobs to keep up with the cost of her education, and graduated from a state college. She began her career as a **newspaper reporter** then worked her way up in business over fifteen years to eventually lead a workforce of 16,000 employees for a major Minnesota manufacturer.
 
-- As a former **Fortune 500 company executive**, Angie has helped create jobs, empowered women and veterans to advance in their careers, and created workplace policies to promote diversity and inclusion. As a leader in the Minnesota business community, Angie has been a powerful advocate for marriage equality in the state.
+As a former **Fortune 500 company executive**, Angie has helped create jobs, empowered women and veterans to advance in their careers, and created workplace policies to promote diversity and inclusion. As a leader in the Minnesota business community, Angie has been a powerful advocate for marriage equality in the state.
 
-- She and her wife are proud to have raised their four sons in Minnesota and embrace this state’s values of family, community, and caring for each other—values Angie is fighting to bring to Congress.
-
+She and her wife are proud to have raised their four sons in Minnesota and embrace this state’s values of family, community, and caring for each other—values Angie is fighting to bring to Congress.
 
 <Video id="TE81oYMY8X4" />
 

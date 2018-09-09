@@ -98,6 +98,7 @@ body {
   flex: 0 0 30px;
   padding-top: 5px;
   background: #457dec;
+  border-bottom: 1px solid hsl(219.9, 81.5%, 29.8%);
 }
 
 .searchbar input {
@@ -111,14 +112,19 @@ body {
   margin: 0 20px;
   display: block;
   outline: none;
-  color: hsla(220, 81%, 85%, 1);
+  color: hsla(220, 81%, 100%, 1);
 }
 
 .searchbar input:focus {
-  border: 1px solid hsla(220, 81%, 50%, 1);
   outline: none;
+  border: 1px solid hsla(220, 81%, 55%, 1);
+  background: hsla(220, 81%, 69%, 1);
 }
 
 .searchbar input::placeholder {
-  color: hsla(220, 81%, 85%, 1);
+  color: white
+}
+
+.searchbar input::placeholder:focus {
+  color: hsla(220, 81%, 95%, 1);
 }

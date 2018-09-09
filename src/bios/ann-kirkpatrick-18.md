@@ -20,11 +20,12 @@ Ann Kirkpatrick is running for Congress in Arizona’s 2nd Congressional Distric
 
 Born and raised in the Copper State, Ann’s earliest roots are in the small timber town of McNary and on the White Mountain Apache Nation, where her father ran the general store and her mother taught school. Ann worked her way through the University of Arizona, earning her bachelor’s degree and law degree.
 
+<Video id="KB8nQONxlnI" />
+
+
 She has served Arizonans as a **public school teacher**, **prosecutor**, **state legislator**, **congresswoman**, and **candidate for the U.S. Senate** in a tough 2016 race.
 
 Through it all, Ann has never stopped living her Arizona values of hard work and resilience, working across the aisle to find commonsense solutions and get the job done for working families. She and her husband Roger live in Tucson, near their children and grandchildren.
-
-<Video id="KB8nQONxlnI" />
 
 ## A leader fighting to expand economic opportunity
 

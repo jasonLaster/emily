@@ -18,13 +18,15 @@ import Video from "../Video"
 
 MJ Hegar is an **Air Force combat veteran** running to fight for Texas working families in Congress. Raised in Texas’ Hill Country, MJ grew up dreaming of serving our country as a military pilot. After graduating from the University of Texas at Austin, she enlisted in the Air Force and began training to fly.
 
-- MJ went on to serve three tours in Afghanistan as a **rescue helicopter pilot** until her helicopter was shot down by enemy fire. She was **awarded a Purple Heart** and Distinguished Flying Cross with Valor for her bravery and heroism.
+MJ went on to serve three tours in Afghanistan as a **rescue helicopter pilot** until her helicopter was shot down by enemy fire. She was **awarded a Purple Heart** and Distinguished Flying Cross with Valor for her bravery and heroism.
 
-- She soon discovered that her options for a ground combat military job were limited because she is a woman. MJ partnered with the ACLU to successfully petition the U.S. Department of Defense to overturn the limitations.
-
-- She published a memoir in 2017, and a film adaptation is currently in production. MJ currently lives in Round Rock with her husband, two toddlers, and three stepchildren.
 
 <Video id="Zi6v4CYNSIQ" />
+
+She soon discovered that her options for a ground combat military job were limited because she is a woman. MJ partnered with the ACLU to successfully petition the U.S. Department of Defense to overturn the limitations.
+
+She published a memoir in 2017, and a film adaptation is currently in production. MJ currently lives in Round Rock with her husband, two toddlers, and three stepchildren.
+
 
 ## An advocate for equal opportunity
 

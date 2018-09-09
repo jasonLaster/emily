@@ -19,11 +19,11 @@ import Video from "../Video"
 
 Nanette Diaz Barragán is running for re-election to continue her fight to expand economic and educational opportunities for all. The daughter of a factory worker and a TV repairman, Nanette grew up near Carson, CA, the youngest of 11 kids. Nanette’s parents immigrated to the United States from Mexico before she was born — her mother coming to the U.S. with just a third grade education.
 
-- Growing up in a community where many of her peers didn’t graduate from high school, Nanette says there was “no real expectation” that she would go to college — and no sense that higher education would be possible for her. But with the urging of her mother, Nanette applied to the University of California-Davis and was accepted.
+Growing up in a community where many of her peers didn’t graduate from high school, Nanette says there was “no real expectation” that she would go to college — and no sense that higher education would be possible for her. But with the urging of her mother, Nanette applied to the University of California-Davis and was accepted.
 
-- Nanette worked odd jobs to pay her way through school, transferring to UCLA during her freshman year to be closer to home so she could help support her sick father. After graduating from UCLA, Nanette put herself through law school at the University of Southern California.
+Nanette worked odd jobs to pay her way through school, transferring to UCLA during her freshman year to be closer to home so she could help support her sick father. After graduating from UCLA, Nanette put herself through law school at the University of Southern California.
 
-- Driven by a commitment to helping hardworking families in communities like hers, Nanette has dedicated her career to public service — from working for the NAACP to help address inequalities in health care to her work as a pro bono Spanish-speaking adoption attorney. She became the first Latina ever elected to the Hermosa Beach City Council, and served as the city’s first Latina mayor prior to successfully running for Congress in 2016.
+Driven by a commitment to helping hardworking families in communities like hers, Nanette has dedicated her career to public service — from working for the NAACP to help address inequalities in health care to her work as a pro bono Spanish-speaking adoption attorney. She became the first Latina ever elected to the Hermosa Beach City Council, and served as the city’s first Latina mayor prior to successfully running for Congress in 2016.
 
 
 ## A fighter dedicated to expanding economic opportunity

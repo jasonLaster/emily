@@ -19,13 +19,14 @@ import Video from "../Video"
 
 Liuba Grechen Shirley is a champion for women and families running for Congress to fight for hardworking Long Islanders. A proven advocate, she has dedicated her career to **women’s economic empowerment**. Liuba was raised by a single mother who worked as a public school teacher, and learned the value of hard work and the importance of community from her close- knit family in Amityville.
 
-- She earned her bachelor’s degree at New York University and an MBA from NYU’s Stern School of Business, specializing in social innovation, and is a successful nonprofit leader fighting for working families.
-
-- She recently made national headlines when she became the first woman to get federal approval to use campaign funds for child care, breaking down barriers for women candidates across the country.
-
-- Liuba lives in Amityville with her husband and two young children. When elected, she will continue her life’s work of making the voices of women and families heard in the halls of power.
+She earned her bachelor’s degree at New York University and an MBA from NYU’s Stern School of Business, specializing in social innovation, and is a successful nonprofit leader fighting for working families.
 
 <Video id="Goynt5et6AI" />
+
+She recently made national headlines when she became the first woman to get federal approval to use campaign funds for child care, breaking down barriers for women candidates across the country.
+
+Liuba lives in Amityville with her husband and two young children. When elected, she will continue her life’s work of making the voices of women and families heard in the halls of power.
+
 
 ## A champion for expanding economic opportunity
 

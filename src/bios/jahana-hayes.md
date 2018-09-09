@@ -18,13 +18,15 @@ import Video from "../Video"
 
 Jahana Hayes is a teacher and community leader running for Congress to fight for Connecticut working families. A lifelong Connecticut resident, she grew up in a Waterbury public housing project. Jahana’s family struggled with poverty and addiction.
 
-- After she got pregnant as a teenager she found her calling as a teacher and overcame barriers to break the cycle of poverty with the support of her community. She enrolled in her local community college and went on to earn her bachelor’s, master’s, and advanced degrees all while working to support her family.
+After she got pregnant as a teenager she found her calling as a teacher and overcame barriers to break the cycle of poverty with the support of her community. She enrolled in her local community college and went on to earn her bachelor’s, master’s, and advanced degrees all while working to support her family.
 
-- Jahana has dedicated her career to public education, and worked as a high school social studies teacher in New Haven and Waterbury. A champion for students and their families, Jahana earned the 2016 Connecticut Teacher Of The Year Award and went on to earn the **2016 National Teacher of the Year Award**.
+Jahana has dedicated her career to public education, and worked as a high school social studies teacher in New Haven and Waterbury. A champion for students and their families, Jahana earned the 2016 Connecticut Teacher Of The Year Award and went on to earn the **2016 National Teacher of the Year Award**.
 
-- Jahana currently serves as talent and professional development supervisor for Waterbury Public Schools, and lives in Wolcott with her husband, a police officer, and is a proud mother of four children.
 
 <Video id="QeWjRRYtqlA" />
+
+Jahana currently serves as talent and professional development supervisor for Waterbury Public Schools, and lives in Wolcott with her husband, a police officer, and is a proud mother of four children.
+
 
 ## A proven leader dedicated to expanding economic opportunity
 

@@ -19,13 +19,16 @@ import Video from "../Video"
 
 Kara Eastman has been a children's health nonprofit executive and education leader and is running for Congress to fight for Nebraska working families. Raised by a single mother, Kara learned the values of hard work and service to others from her close-knit Midwestern family. She and her husband, a professor, chose Nebraska as their home, and live in Omaha with their daughter. Kara, who began her career as a social worker, is a problem solver dedicated to serving her community.
 
-- In 2006 she **founded the Omaha Healthy Kids Alliance**, an organization that has directly served thousands of Nebraska families and raised millions of dollars to support green, safe, and healthy housing in Omaha.
+In 2006 she **founded the Omaha Healthy Kids Alliance**, an organization that has directly served thousands of Nebraska families and raised millions of dollars to support green, safe, and healthy housing in Omaha.
 
-- In 2014, she was elected to the **Board of Governors of Metropolitan Community College**, the largest community college in Nebraska, and has served as vice chair.
+> In 2014, she was elected to the Board of Governors of Metropolitan Community College, the largest community college in Nebraska, and has served as vice chair.
 
-- Kara has worked tirelessly to strengthen non-discrimination policies, develop programs that create jobs in the community, and to make all campuses safe, healthy environments where students can thrive.
 
 <Video id="3cYQVpyJhzs" />
+
+
+Kara has worked tirelessly to strengthen non-discrimination policies, develop programs that create jobs in the community, and to make all campuses safe, healthy environments where students can thrive.
+
 
 ## A champion for expanding economic opportunity
 

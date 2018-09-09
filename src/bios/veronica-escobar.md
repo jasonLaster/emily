@@ -19,13 +19,14 @@ import Video from "../Video"
 
 Veronica Escobar is running for Congress in Texas’ 16th Congressional District to fight for El Paso’s working families and to give border communities a new champion in Washington. She has more than a decade of experience as a public servant, most recently serving in her second term as **El Paso County judge** after completing one term as a **county commissioner**. A proud third-generation El Pasoan, Veronica grew up knowing the value of hard work through her childhood on the family dairy farm.
 
-- After finishing graduate school, she returned to her community to **teach freshman English and Chicano literature** at the University of Texas at El Paso and El Paso Community College.
+After finishing graduate school, she returned to her community to **teach freshman English and Chicano literature** at the University of Texas at El Paso and El Paso Community College.
 
-- Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the **Border Rights Coalition** in addition to her work as an educator, and she eventually became co-chair of the coalition.
-
-- In 2006, she won her first campaign and took office as an **El Paso County commissioner** before being elected **county judge** in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
+Talk of a wall being built on the border motivated Veronica to join in the advocacy efforts of the **Border Rights Coalition** in addition to her work as an educator, and she eventually became co-chair of the coalition.
 
 <Video id="oTu5bNzLkqI" />
+
+In 2006, she won her first campaign and took office as an **El Paso County commissioner** before being elected **county judge** in 2010. Veronica has worked tirelessly to increase economic opportunity and the quality of life in El Paso, and to expand access to health care and transportation. She and her husband live in El Paso, the community where they raised their two college-aged children.
+
 
 ## An experienced leader fighting to increase economic opportunity
 

@@ -22,8 +22,9 @@ import Video from "../Video"
 
 Cindy Axne is a small business owner, mother and community activist running for Congress to fight for Iowa working families. A fifth-generation Iowan, Cindy grew up on the south side of Des Moines and worked for the state government across a variety of departments for nearly a decade, helping hold over twenty different state agencies accountable to taxpayers.
 
-- A champion for equality, Cindy successfully fought for full-day kindergarten to be available to all children in West Des Moines public schools, not just those who won a lottery.
-- In addition to co-running a digital design and consulting firm with her husband, Cindy currently serves as a mentor with the John Pappajohn Entrepreneurial Center at the University of Iowa, her alma mater. She lives in West Des Moines with her husband and two teenage sons, and is an active member of her church.
+A champion for equality, Cindy successfully fought for full-day kindergarten to be available to all children in West Des Moines public schools, not just those who won a lottery.
+
+In addition to co-running a digital design and consulting firm with her husband, Cindy currently serves as a mentor with the John Pappajohn Entrepreneurial Center at the University of Iowa, her alma mater. She lives in West Des Moines with her husband and two teenage sons, and is an active member of her church.
 
 <Video id="8ObKgSYY2Zs" />
 

@@ -19,11 +19,13 @@ import Video from "../Video"
 
 Deb Haaland is an accomplished community leader running for Congress to be a new voice for women and families in Washington. Deb was raised in a military family and learned to value public service from a young age — a value that has guided her throughout her career.
 
-- As a longtime progressive activist, she has successfully fought for change on behalf of her community. When she was **chair of the New Mexico Democratic Party**, Deb protested the Dakota Access Pipeline in Standing Rock and divested the state party from a company that had invested in the pipeline and for-profit immigration detention facilities.
+As a longtime progressive activist, she has successfully fought for change on behalf of her community. When she was **chair of the New Mexico Democratic Party**, Deb protested the Dakota Access Pipeline in Standing Rock and divested the state party from a company that had invested in the pipeline and for-profit immigration detention facilities.
 
-- Deb is a member of the Laguna Pueblo tribe who lives in Albuquerque and is a proud single mom of an LGBTQ daughter.
 
 <Video id="AKxj7PXT0hs" />
+
+Deb is a member of the Laguna Pueblo tribe who lives in Albuquerque and is a proud single mom of an LGBTQ daughter.
+
 
 ## A champion for New Mexico’s working families
 
