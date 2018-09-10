@@ -2,8 +2,12 @@ import React from "react";
 import { CandidateBio } from "./bios";
 import { candidates } from "./bios";
 import { Link } from "react-router-dom";
+// import { Share } from "react-twitter-widgets";
+import { TwitterShareButton, TwitterIcon } from "react-share";
 
 import "./Bio.css";
+
+// console.log(Share);
 
 function Header({ candidate }) {
   const youtube =
@@ -20,9 +24,6 @@ function Header({ candidate }) {
         <div className="bottom">{candidate.location}</div>
 
         <div className="candidate-links">
-          <a className="button" href={candidate.actblue || candidate.donate}>
-            Donate
-          </a>
           <a className="icon facebook" href={candidate.facebook} />
           <a className="icon twitter" href={candidate.twitter} />
           <a className="icon youtube" href={youtube} />
@@ -84,6 +85,8 @@ export default function renderCandidateBio({
     );
   }
 
+  const tweet = `I support ${candidate.name} for congress\n\n`;
+
   return (
     <div key={candidate.id} className="candidate-bio">
       <Banner
@@ -92,6 +95,23 @@ export default function renderCandidateBio({
         showStars={showStars}
       />
       <Header candidate={candidate} />
+      <div className="actions">
+        <div className="row">
+          <a className="donate" href={candidate.actblue || candidate.donate}>
+            Donate
+          </a>
+          {/* <a
+            class="twitter-share-button"
+            href={`https://twitter.com/intent/tweet?text=${tweet.split("%20")}`}
+            data-size="large"
+          /> */}
+
+          <TwitterShareButton url={document.location.href} title={tweet}>
+            <TwitterIcon size={32} />
+            <span>Tweet</span>
+          </TwitterShareButton>
+        </div>
+      </div>
       <div className="candidate-description">
         <Article candidate={candidate} />
       </div>

@@ -10,5 +10,9 @@ export default function({ id }) {
     height = width / 1.6;
   }
 
-  return <YouTube videoId={id} opts={{ height, width }} />;
+  return (
+    <div className="youtube">
+      <YouTube videoId={id} opts={{ height, width }} />
+    </div>
+  );
 }

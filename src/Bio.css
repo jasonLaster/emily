@@ -52,9 +52,7 @@
 }
 
 .candidate-bio .candidate-description {
-  margin-top: 20px;
   background: #f4f4f4;
-  padding: 20px;
   overflow-y: auto;
 }
 
@@ -111,26 +109,64 @@
   background: url("/youtube.svg");
 }
 
-.candidate-bio .candidate-links a.button {
-  background: hsl(220.6, 67.6%, 58.8%);
+.candidate-bio .actions {
+  width: 100%;
+  background: #f4f4f4;
+  display: flex;
+  border-top: 1px solid #d1d1d1;
+}
+
+.candidate-bio .actions .row {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  max-width: 560px;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.candidate-bio .actions a.donate {
+  background: hsl(221, 64%, 46%);
   border: none;
-  border-radius: 3px;
-  line-height: 24px;
+  border-radius: 5px;
+  line-height: 30px;
   color: hsla(0, 0%, 100%, 0.9);
   font-size: 16px;
   padding: 0 20px;
   border: 1px solid hsl(220.6, 67.6%, 38.8%);
   text-decoration: none;
-  height: 24px;
+  height: 30px;
   display: inline-block;
   margin-right: 10px;
 }
 
-.candidate-bio .candidate-links a.button:hover {
+.candidate-bio .actions a.donate:hover {
   background: hsl(220.6, 67.6%, 54.8%);
   border-radius: 3px;
   border: 1px solid hsl(220.6, 67.6%, 34.8%);
   cursor: pointer;
+}
+
+.SocialMediaShareButton {
+  background: #00aced;
+  color: white;
+  border-radius: 5px;
+  line-height: 32px;
+  padding-right: 10px;
+  display: flex;
+  padding-left: 3px;
+}
+
+.SocialMediaShareButton div {
+  display: inline;
+}
+
+.SocialMediaShareButton:hover,
+.SocialMediaShareButton:hover rect {
+  cursor: pointer;
+  background: hsl(196.5, 100%, 56.5%);
+  fill: hsl(196.5, 100%, 56.5%);
 }
 
 .candidate-bio .candidate-description article {
@@ -156,7 +192,7 @@
   color: #515151;
 }
 
-.candidate-bio iframe {
+.candidate-bio article .youtube {
   margin: 20px 30px;
   display: inline-block;
 }
