@@ -1,0 +1,80 @@
+
+const res = {
+  "cindy-axne": [],
+  "lauren-baer": ["https://secure.actblue.com/donate/dw_fl18"],
+  "dana-balter": ["https://secure.actblue.com/donate/bjny24"],
+  "nanette-barragan18": [
+    "https://secure.actblue.com/donate/nanette-barragan-1"
+  ],
+  "mary-barzee-flores": [],
+  "carolyn-bourdeaux": [],
+  "lisa-brown": ["https://secure.actblue.com/donate/dw4lisab2018"],
+  "julia-brownley-18": [
+    "https://secure.actblue.com/donate/julia-brownley-victory-fund-1"
+  ],
+  "cheri-bustos-18": ["https://secure.actblue.com/donate/cheri"],
+  "kristen-carlson": [],
+  "leslie-cockburn": [],
+  "linda-coleman": [],
+  "angie-craig-18": ["https://secure.actblue.com/donate/nope4angiemn2"],
+  "sharice-davids": ["https://secure.actblue.com/donate/bjsd"],
+  "madeleine-dean": [],
+  "betsy-dirksen-londrigan": [],
+  "gretchen-driskell-18": ["https://secure.actblue.com/donate/gdfb_eoq"],
+  "kara-eastman": ["https://secure.actblue.com/donate/peace_action_keastman"],
+  "veronica-escobar": [
+    "https://secure.actblue.com/donate/dkendorsesveronicaescobar"
+  ],
+  "abby-finkenauer": ["https://secure.actblue.com/donate/dw4abbyf2018"],
+  "sylvia-garcia": [],
+  "theresa-gasper": ["https://secure.actblue.com/donate/timryan_gasper"],
+  "liuba-grechen-shirley": ["https://secure.actblue.com/donate/liubaforus"],
+  "deb-haaland": ["https://secure.actblue.com/donate/haalandablog"],
+  "jahana-hayes": ["https://secure.actblue.com/donate/dw_ct05"],
+  "mj-hegar": [],
+  "katie-hill": ["https://secure.actblue.com/donate/dw_ca25"],
+  "chrissy-houlahan-18": [],
+  "ann-kirkpatrick-18": ["https://secure.actblue.com/donate/dw4annk2018"],
+  "annie-kuster18": ["https://secure.actblue.com/donate/amk20142"],
+  "susie-lee-18": ["https://secure.actblue.com/donate/dw_nv03"],
+  "carolyn-long": [
+    "https://secure.actblue.com/donate/earlblumenauer-carolynlong"
+  ],
+  "elaine-luria": ["https://secure.actblue.com/donate/ny4elaine"],
+  "carolyn-maloney18": ["https://secure.actblue.com/donate/carolyn-maloney-2"],
+  "kathy-manning": [],
+  "lucy-mcbath": [],
+  "diane-mitsch-bush": [],
+  "jessica-morse": ["https://secure.actblue.com/donate/climatehawks4morse"],
+  "debbie-mucarsel-powell": [],
+  "stephanie-murphy1": ["https://secure.actblue.com/donate/ivfw-fl-smurphy"],
+  ilhan_omar: [
+    "https://secure.actblue.com/donate/pccc_2018_ironstache_candidates"
+  ],
+  "gina-ortiz-jones": ["https://secure.actblue.com/donate/dw_tx23"],
+  "Lizzie-Pannill-Fletcher": [],
+  "katie-porter-18": ["https://secure.actblue.com/donate/bluerevforkp"],
+  "betsy-rader": ["https://secure.actblue.com/donate/dw_oh14"],
+  "mary-gay-scanlon": ["https://secure.actblue.com/donate/dw_pa05"],
+  "kim-schrier": ["https://secure.actblue.com/donate/dw4kims2018"],
+  "donna-shalala": [],
+  "mikie-sherrill": ["https://secure.actblue.com/donate/sherrillablog"],
+  "elissa-slotkin": ["https://secure.actblue.com/donate/ipc2018"],
+  "nancy-soderberg": [
+    "https://donate.jstreetpac.org/candidate/nancy-soderberg/"
+  ],
+  "abigail-spanberger": ["https://secure.actblue.com/donate/dw_va07"],
+  "haley-stevens": [],
+  "maura-sullivan": [],
+  "hiral-tipirneni": ["https://secure.actblue.com/donate/hiral4congress"],
+  "rashida-tlaib": [],
+  "norma-torres18": ["https://secure.actblue.com/donate/ivfw-ca-ntorres"],
+  "xochitl-torres-small": [
+    "https://secure.actblue.com/donate/earlblumenauer-torres-small"
+  ],
+  "lauren-underwood": ["https://secure.actblue.com/donate/underwood-dc-jan18"],
+  "liz-watson": ["https://secure.actblue.com/donate/ty-sb-watson"],
+  "jennifer-wexton": ["https://secure.actblue.com/donate/dw_va10"],
+  "susan-wild": [],
+  "kathleen-williams": ["https://secure.actblue.com/donate/kathleenwilliams"]
+};
