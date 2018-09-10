@@ -1,16 +1,16 @@
 export const meta = {
-  "name": "Chrissy Houlahan",
-  "img": "https://www.emilyslist.org/i/images/Houlahan_Chrissy_Sq.png/@zx_250@zy_250",
-  "location": "Pennsylvania",
-  "link": "https://www.emilyslist.org/candidates/chrissy-houlahan-18",
-  "id": "chrissy-houlahan-18",
-  "donate": "https://www.emilyslist.org/donate/candidate/chrissy-houlahan-18",
-  "facebook": "https://www.facebook.com/HoulahanForPA/",
-  "twitter": "https://twitter.com/houlahanforpa?lang=en",
-  "website": "",
-  "actblue": "",
-  "youtube": "https://www.youtube.com/channel/UCtPdIcxthUnsZPRv-b0AhHg",
-  "keywords": ["Veteran", "Executive", "Teacher"]
+"name": "Chrissy Houlahan",
+"img": "https://www.emilyslist.org/i/images/Houlahan_Chrissy_Sq.png/@zx_250@zy_250",
+"location": "Pennsylvania",
+"link": "https://www.emilyslist.org/candidates/chrissy-houlahan-18",
+"id": "chrissy-houlahan-18",
+"donate": "https://www.emilyslist.org/donate/candidate/chrissy-houlahan-18",
+"facebook": "https://www.facebook.com/HoulahanForPA/",
+"twitter": "https://twitter.com/houlahanforpa?lang=en",
+"website": "",
+"actblue": "",
+"youtube": "https://www.youtube.com/channel/UCtPdIcxthUnsZPRv-b0AhHg",
+"keywords": ["Veteran", "Executive", "Teacher"]
 }
 
 import Video from "../Video"
@@ -25,7 +25,7 @@ She attended Stanford on an ROTC scholarship, and went on to serve in the **U.S.
 
 As **COO of AND1 Basketball**, Chrissy helped the footwear and apparel company’s revenue grow from $4M to over $250 million, while also building a socially responsible corporation.
 
-After ten years at AND1, Chrissy became the founding COO of B Lab, a non-profit that certifies and supports B Corporations — companies that harness the power of for-profit businesses to support social and environmental issues.
+> After ten years at AND1, Chrissy became the founding COO of B Lab, a non-profit that certifies and supports B Corporations — companies that harness the power of for-profit businesses to support social and environmental issues.
 
 <Video id="96GG4EwAt4g" />
 
