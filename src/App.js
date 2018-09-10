@@ -13,7 +13,7 @@ function Candidate({ candidate, selected, starred, toggleStar, search }) {
   const id = candidate.id;
   const isSelected = id === selected ? "selected" : "";
   return (
-    <Link className={`candidate ${isSelected}`} to={`/${id}`}>
+    <Link className={`candidate ${isSelected}`} to={`/candidate/${id}`}>
       <img className="candidate-img" src={candidate.img} />
       <div className="candidate-summary">
         <div className="top">{candidate.name}</div>
