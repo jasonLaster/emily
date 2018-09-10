@@ -61,6 +61,3 @@
 /candidate/jennifer-wexton /jennifer-wexton.html  200
 /candidate/susan-wild /susan-wild.html  200
 /candidate/kathleen-williams /kathleen-williams.html  200
-
-/candidate/*    /index.html   200
-/*    /index.html   200
