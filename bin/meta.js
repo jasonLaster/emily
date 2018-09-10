@@ -16,7 +16,7 @@ function writeMeta(candidate) {
     candidate.id
   }">`;
 
-  const doc = index.replace("<!-- META -->", meta);
+  const doc = index.replace("<span/>", meta);
   fs.writeFileSync(`./build/${candidate.id}.html`, doc);
   // console.log(index);
 }
