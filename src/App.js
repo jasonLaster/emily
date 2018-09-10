@@ -59,6 +59,9 @@ function starCount(stars) {
 
 function scrollToSelectedEl() {
   const selectedEl = document.querySelector(".selected");
+  if (!selectedEl) {
+    return;
+  }
   const top = selectedEl.getBoundingClientRect().top;
   if (top < 0 || top > window.outerHeight) {
     selectedEl.scrollIntoView({ block: "center", behavior: "instant" });
@@ -173,6 +176,7 @@ class App extends Component {
             path="/candidate/:candidateId"
             component={this.CandidatesRoute}
           />
+          <Route path="/:candidateId" component={this.CandidatesRoute} />
           <Route exact path="/" component={this.CandidatesRoute} />
         </div>
       </Router>

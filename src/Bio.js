@@ -60,7 +60,7 @@ function Banner({ starCount, toggleShowStars, showStars }) {
         <div className="star" />
         <span> {noStars ? "Star Candidates" : `${starCount} Candidates`}</span>
       </div>
-      <div class="links">
+      <div className="links">
         <a href="https://github.com/jasonlaster/emily">Help</a>
       </div>
     </div>
