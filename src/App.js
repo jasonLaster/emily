@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { candidates } from "./bios";
 import Bio from "./Bio";
+import Helmet, { meta } from "react-helmet";
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
@@ -116,6 +117,15 @@ class App extends Component {
     this.selected = selected;
     return (
       <div className={`App ${candidateId ? "selected" : ""}`}>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Emily's House</title>
+          <meta
+            name="description"
+            content="Discover female progressive candidates"
+          />
+          <link rel="canonical" href="http://emilys-list.rocks" />
+        </Helmet>
         <div className="sidebar">
           <div className="searchbar">
             <input

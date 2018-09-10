@@ -2,6 +2,7 @@ import React from "react";
 import { CandidateBio } from "./bios";
 import { candidates } from "./bios";
 import { Link } from "react-router-dom";
+import Helmet, { meta } from "react-helmet";
 // import { Share } from "react-twitter-widgets";
 import { TwitterShareButton, TwitterIcon } from "react-share";
 
@@ -66,6 +67,35 @@ function Banner({ starCount, toggleShowStars, showStars }) {
   );
 }
 
+function Meta({ candidate }) {
+  return (
+    <Helmet>
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@jasonLaster11" />
+      <meta
+        name="twitter:title"
+        content={`Emily's House - discover progressive female candidates`}
+      />
+      <meta
+        name="twitter:description"
+        content={`${candidate.name} for congress.`}
+      />
+      <meta name="twitter:image" content={candidate.img} />
+
+      <meta
+        property="og:title"
+        content={`Emily's House - discover progressive female candidates`}
+      />
+      <meta
+        property="og:description"
+        content={`${candidate.name} for congress.`}
+      />
+      <meta property="og:image" content={candidate.img} />
+      <meta property="og:url" content={document.location.href} />
+    </Helmet>
+  );
+}
+
 export default function renderCandidateBio({
   selected,
   starCount,
@@ -89,6 +119,7 @@ export default function renderCandidateBio({
 
   return (
     <div key={candidate.id} className="candidate-bio">
+      <Meta candidate={candidate} />
       <Banner
         starCount={starCount}
         toggleShowStars={toggleShowStars}
