@@ -169,7 +169,10 @@ class App extends Component {
     return (
       <Router>
         <div className="app-wrapper">
-          <Route path="/:candidateId" component={this.CandidatesRoute} />
+          <Route
+            path="/candidate/:candidateId"
+            component={this.CandidatesRoute}
+          />
           <Route exact path="/" component={this.CandidatesRoute} />
         </div>
       </Router>
