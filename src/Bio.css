@@ -114,6 +114,7 @@
   background: #f4f4f4;
   display: flex;
   border-top: 1px solid #d1d1d1;
+  flex: 0 0 70px;
 }
 
 .candidate-bio .actions .row {
