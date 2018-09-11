@@ -6,10 +6,12 @@ const list = Object.values(candidates);
 const index = fs.readFileSync("./build/index.html", "utf8");
 
 function writeMeta(candidate) {
-  const meta = `<meta name="twitter:title" content="Emily's House - discover progressive female candidates">
+  const meta = `
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Discover progressive female candidates">
   <meta name="twitter:description" content="${candidate.name} for congress.">
   <meta name="twitter:image" content="${candidate.img}">
-  <meta property="og:title" content="Emily's House - discover progressive female candidates">
+  <meta property="og:title" content="Discover progressive female candidates">
   <meta property="og:description" content="${candidate.name} for congress.">
   <meta property="og:image" content="${candidate.img}">
   <meta property="og:url" content="https://emilys-house.rocks/${
