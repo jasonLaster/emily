@@ -176,7 +176,7 @@ class App extends Component {
             path="/candidate/:candidateId"
             component={this.CandidatesRoute}
           />
-          <Route path="/:candidateId" component={this.CandidatesRoute} />
+          <Route exact path="/:candidateId" component={this.CandidatesRoute} />
           <Route exact path="/" component={this.CandidatesRoute} />
         </div>
       </Router>
