@@ -111,6 +111,15 @@ export default function renderCandidateBio({
           toggleShowStars={toggleShowStars}
           showStars={showStars}
         />
+
+        <div className="splash">
+          <div className="pitch">
+            <div className="title">Emily's House</div>
+            <div className="descrpition">
+              Discover progressive female house candidates.
+            </div>
+          </div>
+        </div>
       </div>
     );
   }

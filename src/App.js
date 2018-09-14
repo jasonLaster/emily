@@ -112,7 +112,7 @@ class App extends Component {
         (showStars ? stars[candidate.id] : true)
     );
 
-    let selected = filteredList.length > 0 ? filteredList[0].id : null;
+    let selected = null;
     if (candidateId && filteredList.map(c => c.id).includes(candidateId)) {
       selected = candidateId;
     }
