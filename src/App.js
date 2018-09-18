@@ -134,7 +134,7 @@ class App extends Component {
             <input
               value={query}
               className="search"
-              placeholder="Search..."
+              placeholder="Search Candidates"
               type="text"
               onChange={e => this.onSearch(e)}
             />

@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import Helmet, { meta } from "react-helmet";
 // import { Share } from "react-twitter-widgets";
 import { TwitterShareButton, TwitterIcon } from "react-share";
+import Splash from "./Splash";
 
 import "./Bio.css";
 
@@ -61,7 +62,7 @@ function Banner({ starCount, toggleShowStars, showStars }) {
         <span> {noStars ? "Star Candidates" : `${starCount} Candidates`}</span>
       </div>
       <div className="links">
-        <a href="https://github.com/jasonlaster/emily">Help</a>
+        <a href="https://github.com/jasonlaster/emily">About</a>
       </div>
     </div>
   );
@@ -112,14 +113,7 @@ export default function renderCandidateBio({
           showStars={showStars}
         />
 
-        <div className="splash">
-          <div className="pitch">
-            <div className="title">Emily's House</div>
-            <div className="descrpition">
-              Discover progressive female house candidates.
-            </div>
-          </div>
-        </div>
+        <Splash />
       </div>
     );
   }

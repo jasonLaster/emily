@@ -273,26 +273,3 @@
   background: hsl(219.9, 100%, 87.1%);
   margin-top: 2px;
 }
-
-.splash {
-  flex: 1 0 300px;
-  display: flex;
-  overflow-y: hidden;
-}
-
-.splash .title {
-  margin-right: 10px;
-  font-weight: bold;
-}
-.splash .pitch {
-  margin: 100px auto;
-  width: 70%;
-  align-self: center;
-  line-height: 30px;
-  font-size: 20px;
-  color: #717171;
-}
-
-.splash .description {
-  color: #969696;
-}
