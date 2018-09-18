@@ -1,32 +1,34 @@
 export const meta = {
-  "name": "Angie Craig",
-  "website": "",
-  "actblue": "https://secure.actblue.com/donate/nope4angiemn2",
-  "videos": [],
-  "img": "https://www.emilyslist.org/i/images/Angie-Craig.png/@zx_250@zy_250",
-  "location": "Minnesota 2nd ",
-  "link": "https://www.emilyslist.org/candidates/angie-craig-18",
-  "id": "angie-craig-18",
-  "donate": "https://www.emilyslist.org/donate/candidate/angie-craig-18",
-  "facebook": "https://www.facebook.com/AngieCraigforCongress/",
-  "twitter": "https://twitter.com/angiecraigmn?lang=en",
-  "youtube": "https://www.youtube.com/channel/UCIQeh8zK8g51o9pNGGglHVA",
-  "keywords": ["Journalist", "Executive"]
+"name": "Angie Craig",
+"website": "",
+"actblue": "https://secure.actblue.com/donate/nope4angiemn2",
+"videos": [],
+"img": "https://www.emilyslist.org/i/images/Angie-Craig.png/@zx_250@zy_250",
+"location": "Minnesota 2nd ",
+"link": "https://www.emilyslist.org/candidates/angie-craig-18",
+"id": "angie-craig-18",
+"donate": "https://www.emilyslist.org/donate/candidate/angie-craig-18",
+"facebook": "https://www.facebook.com/AngieCraigforCongress/",
+"twitter": "https://twitter.com/angiecraigmn?lang=en",
+"youtube": "https://www.youtube.com/channel/UCIQeh8zK8g51o9pNGGglHVA",
+"keywords": ["Journalist", "Executive"]
 }
 
 import Video from "../Video"
 
 ## A champion for Minnesota’s working families
 
-Angie Craig is running for Congress because the opportunities she was lucky enough to have are disappearing for too many working families. Angie grew up in a mobile home park, one of three kids raised by a single mom who worked while going to school to earn her college degree. Angie’s mom taught her that if she worked hard, she could grow up to be anything she wanted to be—and Angie believed her.
+Angie Craig is running for Congress because the opportunities she was lucky enough to have are disappearing for too many working families.
 
-Angie worked two jobs to keep up with the cost of her education, and graduated from a state college. She began her career as a **newspaper reporter** then worked her way up in business over fifteen years to eventually lead a workforce of 16,000 employees for a major Minnesota manufacturer.
+Angie worked two jobs to keep up with the cost of her education, and graduated from a state college. She began her career as a **newspaper reporter** then worked her way up in business over fifteen years to eventually _lead a workforce of 16,000 employees_ for a major Minnesota manufacturer.
 
-As a former **Fortune 500 company executive**, Angie has helped create jobs, empowered women and veterans to advance in their careers, and created workplace policies to promote diversity and inclusion. As a leader in the Minnesota business community, Angie has been a powerful advocate for marriage equality in the state.
-
-She and her wife are proud to have raised their four sons in Minnesota and embrace this state’s values of family, community, and caring for each other—values Angie is fighting to bring to Congress.
+> As a former Fortune 500 company executive, Angie has helped create jobs, empowered women and veterans to advance in their careers, and created workplace policies to promote diversity and inclusion.
 
 <Video id="TE81oYMY8X4" />
+
+Angie grew up in a mobile home park, one of three kids raised by a single mom who worked while going to school to earn her college degree. Angie’s mom taught her that if she worked hard, she could grow up to be anything she wanted to be—and Angie believed her.
+
+As a leader in the Minnesota business community, Angie has been a powerful advocate for marriage equality in the state. She and her wife are proud to have raised their four sons in Minnesota and embrace this state’s values of family, community, and caring for each other—values Angie is fighting to bring to Congress.
 
 ## A business leader fighting to expand economic opportunity
 
