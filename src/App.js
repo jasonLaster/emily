@@ -58,7 +58,7 @@ function starCount(stars) {
 }
 
 function scrollToSelectedEl() {
-  const selectedEl = document.querySelector(".selected");
+  const selectedEl = document.querySelector(".candidate.selected");
   if (!selectedEl) {
     return;
   }
