@@ -1,6 +1,8 @@
-.splash {
+.App .candidate-bio .splash {
   display: flex;
   flex-direction: column;
+  height: 100%;
+  background: #f4f4f4;
 }
 
 .splash .splash-header {
@@ -8,9 +10,10 @@
   height: auto;
   flex: 0 0 140px;
   border-bottom: 1px solid #d1d1d1;
+  background: hsl(0, 0%, 94.1%);
 }
 
-.splash-header .content {
+.splash .splash-header .content {
   width: 80%;
   max-width: 560px;
   align-self: center;
@@ -25,14 +28,15 @@
   color: #296b9f;
 }
 
-.splash-header h1 {
+.splash .splash-header h1 {
   font-weight: normal;
   color: #2793e6;
   font-size: 24px;
   margin: 12px 0 0;
   font-weight: bold;
 }
-.splash-header .wrapper {
+
+.splash .splash-header .wrapper {
   font-size: 20px;
   padding-top: 20px;
   padding-left: 20px;
@@ -44,7 +48,7 @@
   width: 80%;
   max-width: 560px;
   align-self: center;
-  margin: 40px auto;
+  margin: auto auto;
   line-height: 30px;
   font-size: 20px;
   color: #717171;
