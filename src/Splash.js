@@ -46,31 +46,23 @@ export default function() {
         shares our values. Every candidate here has been vetted by{" "}
         <a href="http://emilyslist.org/">Emily's List</a> and we sincerely hope
         you find one who inspires you.
+        <h2 className="">Take Action</h2>
         <div className="bullets">
           <div className="bullet">
-            <div className="number">
-              <em>1.</em>
-            </div>{" "}
+            <div className="number" />{" "}
             <div>
-              {" "}
               <strong>Volunteer</strong> to phone bank for a campaign
             </div>
           </div>
           <div className="bullet">
-            <div className="number">
-              <em>2.</em>
-            </div>
+            <div className="number" />
             <div>
-              {" "}
               <strong>Contribute</strong> to a race
             </div>
           </div>
           <div className="bullet">
-            <div className="number">
-              <em>3.</em>
-            </div>
+            <div className="number" />
             <div>
-              {" "}
               <strong>Share</strong> a candidate's story
             </div>
           </div>

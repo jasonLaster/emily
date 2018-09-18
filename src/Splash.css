@@ -20,20 +20,26 @@
   margin: 0 auto;
 }
 
-.splash .splash-header h2 {
+.splash .splash-header h2,
+.splash .pitch h2 {
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   margin: 0px;
   color: #296b9f;
+  font-weight: lighter;
 }
 
-.splash .splash-header h1 {
+.splash .pitch h2 {
+  margin-top: 40px;
+}
+
+.splash h1 {
   font-weight: normal;
   color: #2793e6;
   font-size: 24px;
   margin: 12px 0 0;
-  font-weight: bold;
+  font-weight: light;
 }
 
 .splash .splash-header .wrapper {
@@ -50,28 +56,14 @@
   align-self: center;
   margin: auto auto;
   line-height: 30px;
-  font-size: 20px;
+  font-size: 16px;
   color: #717171;
-}
-
-.bullets {
-  margin-top: 40px;
+  font-weight: light;
 }
 
 .splash .pitch .bullet {
-  margin-top: 20px;
+  margin-top: 10px;
   display: flex;
-}
-
-.splash .pitch .bullet em {
-  color: #2793e6;
-  font-weight: bold;
-  font-style: normal;
-  width: 30px;
-  display: inline-block;
-  text-align: center;
-  border-radius: 3px;
-  border: 1px solid #ccc;
 }
 
 .splash .adjective {
@@ -90,7 +82,13 @@
 }
 
 .splash .number {
-  padding-right: 10px;
+  margin-right: 10px;
+  height: 12px;
+  width: 12px;
+  background: #9fff0080;
+  border: 1px solid #88da0080;
+  margin-top: 7px;
+  border-radius: 6px;
 }
 
 .splash .bullet strong {
